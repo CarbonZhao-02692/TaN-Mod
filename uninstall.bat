@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-chcp 65001 >/dev/null
+chcp 65001 >nul
 title Travelling at Night 汉化包卸载程序
 
 rem ============================================================
@@ -51,12 +51,12 @@ set "BACKUP="
 for /d %%d in ("!GAME_DIR!\TaN_CN_Backup*") do set "BACKUP=%%d"
 if defined BACKUP (
     for %%F in (winhttp.dll .doorstop_version doorstop_config.ini) do (
-        if exist "!BACKUP!\%%F" copy /y "!BACKUP!\%%F" "!GAME_DIR!\%%F" >/dev/null
+        if exist "!BACKUP!\%%F" copy /y "!BACKUP!\%%F" "!GAME_DIR!\%%F" >nul
     )
     if exist "!BACKUP!\BepInEx" (
         echo  删除现有 BepInEx，从备份恢复 ...
         if exist "!GAME_DIR!\BepInEx" rmdir /s /q "!GAME_DIR!\BepInEx"
-        robocopy "!BACKUP!\BepInEx" "!GAME_DIR!\BepInEx" /E /NFL /NDL /NJH /NJS >/dev/null
+        robocopy "!BACKUP!\BepInEx" "!GAME_DIR!\BepInEx" /E /NFL /NDL /NJH /NJS >nul
     )
     echo  [恢复] 已从 !BACKUP! 恢复
 ) else (

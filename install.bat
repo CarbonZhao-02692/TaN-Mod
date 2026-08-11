@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-chcp 65001 >/dev/null
+chcp 65001 >nul
 title Travelling at Night 汉化包安装程序
 
 rem ============================================================
@@ -12,10 +12,10 @@ rem ============================================================
 set "GAME_NAME=Travelling at Night Demo"
 set "GAME_EXE=travelling.exe"
 set "GAME_ALT=Travelling at Night"
-set "BE_VERSION=__BE6_VERSION__"
+set "BE_VERSION=6.0.0-be.577"
 set "PLUGIN_NAME=TaN.Localization"
-set "STAGE=%~dp0..\.."
-set "PAYLOAD=%STAGE%\integration\payload"
+rem payload 与 install.bat 同级（发布结构 TaN_CN/ 与开发结构 integration/ 均适用）
+set "PAYLOAD=%~dp0payload"
 
 echo.
 echo  === Travelling at Night 汉化包安装程序 ===
@@ -54,10 +54,10 @@ if exist "!BACKUP!" set "BACKUP=!GAME_DIR!\TaN_CN_Backup_3"
 mkdir "!BACKUP!"
 echo  [1/5] 备份原文件到: !BACKUP!
 for %%F in (winhttp.dll .doorstop_version doorstop_config.ini) do (
-    if exist "!GAME_DIR!\%%F" copy /y "!GAME_DIR!\%%F" "!BACKUP!\%%F" >/dev/null
+    if exist "!GAME_DIR!\%%F" copy /y "!GAME_DIR!\%%F" "!BACKUP!\%%F" >nul
 )
 if exist "!GAME_DIR!\BepInEx" (
-    if not exist "!BACKUP!\BepInEx" robocopy "!GAME_DIR!\BepInEx" "!BACKUP!\BepInEx" /E /NFL /NDL /NJH /NJS >/dev/null
+    if not exist "!BACKUP!\BepInEx" robocopy "!GAME_DIR!\BepInEx" "!BACKUP!\BepInEx" /E /NFL /NDL /NJH /NJS >nul
     echo  [备份] 已备份原有 BepInEx 目录
 )
 echo.
@@ -71,14 +71,14 @@ powershell -NoProfile -Command "Expand-Archive -Path '!PAYLOAD!\bepinex6.zip' -D
 echo  [3/5] 部署插件与译文数据 ...
 if not exist "!GAME_DIR!\BepInEx\plugins\TaN" mkdir "!GAME_DIR!\BepInEx\plugins\TaN"
 if exist "!PAYLOAD!\plugins\%PLUGIN_NAME%.dll" (
-    copy /y "!PAYLOAD!\plugins\%PLUGIN_NAME%.dll" "!GAME_DIR!\BepInEx\plugins\TaN\" >/dev/null
+    copy /y "!PAYLOAD!\plugins\%PLUGIN_NAME%.dll" "!GAME_DIR!\BepInEx\plugins\TaN\" >nul
 ) else (
     echo  提示：插件 %PLUGIN_NAME%.dll 尚未构建（阶段 6 构建后放入 integration\payload\plugins\）
 )
 rem 译文数据目录（镜像 extract\raw-text 结构）
 if exist "!PAYLOAD!\data\loc_zh-hans" (
     if not exist "!GAME_DIR!\BepInEx\plugins\TaN\loc_zh-hans" mkdir "!GAME_DIR!\BepInEx\plugins\TaN\loc_zh-hans"
-    robocopy "!PAYLOAD!\data\loc_zh-hans" "!GAME_DIR!\BepInEx\plugins\TaN\loc_zh-hans" /E /NFL /NDL /NJH /NJS >/dev/null
+    robocopy "!PAYLOAD!\data\loc_zh-hans" "!GAME_DIR!\BepInEx\plugins\TaN\loc_zh-hans" /E /NFL /NDL /NJH /NJS >nul
 )
 echo.
 
@@ -86,7 +86,7 @@ rem ---------- 4. 自检 ----------
 echo  [4/5] 自检 ...
 set "SELFCHECK_OK=1"
 if not exist "!GAME_DIR!\winhttp.dll"      (echo   [失败] doorstop winhttp.dll 缺失 & set "SELFCHECK_OK=0")
-if not exist "!GAME_DIR!\BepInEx\core\BepInEx.Preloader.Unity.dll" (echo   [失败] BepInEx 核心缺失 & set "SELFCHECK_OK=0")
+if not exist "!GAME_DIR!\BepInEx\core\BepInEx.Preloader.Unity.dll" if not exist "!GAME_DIR!\BepInEx\core\BepInEx.Preloader.dll" (echo   [失败] BepInEx 核心缺失 & set "SELFCHECK_OK=0")
 if not exist "!GAME_DIR!\BepInEx\plugins\TaN\%PLUGIN_NAME%.dll" (echo   [警告] 插件未部署（构建后重装）)
 echo.
 
