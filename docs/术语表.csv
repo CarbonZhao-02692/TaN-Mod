@@ -1,0 +1,518 @@
+﻿term_en,term_zh,type,source,confidence,status,decided_at,notes
+Influence,影响,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|influence
+Nina Lagasse,尼娜·拉加斯,character,user,1.0,approved,2026-08-11,用户裁决保留我方定译(2026-08-11)
+Antibes,昂蒂布,location,site-hit,0.7,pending,2026-08-11,音译(法国城市通行译名) 待G4审核
+Spencer,斯宾塞,character,site-hit,0.95,approved,2026-08-11,site bilingual label[1]
+Vincent,文森特,character,site-hit,0.7,pending,2026-08-11,"音译(法语 Vincent 读 /vɛ̃sɑ̃/,通行译名) 待G4审核"
+Ingredient,原料,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|ingredient
+Passion,激情,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|passion
+Nina,尼娜,character,user,1.0,approved,2026-08-11,用户裁决保留我方定译
+Aubière,欧比耶尔,character,site-miss,0.7,pending,2026-08-11,"音译(法语 Aubière /objɛʁ/,Aubi-≈欧比耶 + -ère≈尔) 待G4审核"
+Dread,恐惧,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|predread
+Philomèle,菲洛梅尔,character,site-miss,0.7,pending,2026-08-11,"音译(法语 Philomèle /filɔmɛl/,Philomèle=菲洛梅尔(夜莺典故)) 待G4审核"
+Pain,痛苦,concept,site-hit,0.7,pending,2026-08-11,"音译(CS 风格:Pain 在 CS 中为元素,官方译法待查;按风格直译痛苦) 待G4审核"
+Fascination,入迷,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|prefascination
+Opinion,看法,concept,site-hit,0.7,pending,2026-08-11,"音译(直译,风格贴合) 待G4审核"
+Weariness,倦怠,concept,site-miss,0.7,pending,2026-08-11,音译(CS 氛围词(倦怠感)) 待G4审核
+OutfitSelect,行头选择,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法行头选择 vs 原outfitselect,按规则4采用 | 规则直译(普通词) 待G4审核"
+Hobson,霍布森,character,site-hit,0.7,pending,2026-08-11,"音译(英语姓氏 Hobson,通行音译) 待G4审核"
+Linou,莉努,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法莉努 vs 原利努,按规则3采用(女性用字更优) | 音译(法语 Linou /linu/,Lin=利+Nou=努) 待G4审核"
+Brancrug,布兰库格,location,manual_pkg,0.9,approved,2026-08-11,L2 穿过[[布兰库格]];覆盖旧音译布兰克鲁格
+Sanitarium,疗养院,location,site-miss,0.7,pending,2026-08-11,音译(CS 先例(疗养院得到回报);样本线首现括注 The Sanitarium) 待G4审核
+Mimata,米玛塔,location,user,1.0,approved,2026-08-11,用户裁决保留我方定译
+Memory,回忆,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|memory
+Crafting,制作,concept,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法制作 vs 原炼制,按规则4采用(普通词常规译法(批12曾作炼制)) | 音译(CS 风格(炼制/合成,与 CS 官方 recipe 语境贴合)) 待G4审核"
+Who,是谁,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法是谁 vs 原who,按规则4采用 | 规则直译(普通词) 待G4审核"
+Incorporate,集团,concept,manual_pkg,0.9,approved,2026-08-11,L2 [[集团]](为[[邦国]]赢得[[集团]]的承认)
+Aristide,阿里斯蒂德,character,self,0.8,pending,2026-08-12,音译(法语名)待G4
+Mansus,漫宿,location,cs-official,1.0,approved,2026-08-11,"L2 采纳:CS 官方定译(漫宿),覆盖原音译曼殊斯"
+For,为了,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法为了,按规则4采用 | 规则直译(普通词) 待G4审核"
+Unset,未设置,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法未设置 vs 原unset,按规则4采用 | 规则直译(普通词) 待G4审核"
+Church,教会,concept,manual_pkg,0.9,approved,2026-08-11,L2 无敌太阳教会/教会与职司;覆盖普通词直译
+Back,返回,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法返回,按规则4采用 | 规则直译(普通词) 待G4审核"
+Sinombre,西诺姆布尔,character,site-miss,0.7,pending,2026-08-12,"音译(西班牙语 sinombre(无名者),si-≈西+n-ombre≈诺姆布尔);LLM提示canon作西农布尔,本地cs-aligned/paratranz/KB均无证据,不采纳"
+Dr Aubière,欧比耶尔医生,character,self,0.8,pending,2026-08-12,Aubière→欧比耶尔(pending)+Dr→医生(用户2026-08-12:头衔翻译按语境)
+Skill,技艺,concept,site-hit,0.95,approved,2026-08-11,site bilingual label[1]
+Rosa Mundi,罗莎·蒙迪,other,user,1.0,approved,2026-08-11,用户裁决保留我方定译(间隔号规范)
+Paris,巴黎,location,cs-aligned,1.0,approved,2026-08-11,cs:elements|domicile.paris
+Leopold,利奥波德,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法利奥波德 vs 原leopold,按规则3采用(通行译名(比利时国王)) | 规则直译(普通词) 待G4审核"
+Thank,谢谢,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法谢谢,按规则4采用 | 规则直译(普通词) 待G4审核"
+Aspect Pool,性相池,concept,manual_pkg,0.95,approved,2026-08-11,L2 你的印记与激情将填充性相池
+Zèlia,泽莉亚,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译泽莉亚 | 规则未覆盖,待人工裁决"
+Something,某事,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法某事,按规则4采用 | 规则直译(普通词) 待G4审核"
+Spencer Hobson,斯宾塞·霍布森,character,cs-aligned,1.0,approved,2026-08-11,cs:elements|investigator2
+Nothing,无事,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法无事,按规则4采用 | 规则直译(普通词) 待G4审核"
+Bessy,贝茜,character,site-miss,0.7,pending,2026-08-11,音译(英语 Bessy 通行音译) 待G4审核
+If I,如果我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法如果我,按规则4采用 | 规则未覆盖,待人工裁决"
+Nod,点头,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法点头,按规则4采用 | 规则直译(普通词) 待G4审核"
+Good,好,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法好,按规则4采用 | 规则直译(普通词) 待G4审核"
+Very,非常,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法非常,按规则4采用(批10 Very 前缀→非常) | 规则直译(普通词) 待G4审核"
+Hush House,噤声居屋,location,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(噤声居屋)
+Europe,欧洲,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法欧洲 vs 原europe,按规则4采用 | 规则直译(普通词) 待G4审核"
+Never,从不,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法从不,按规则4采用 | 规则直译(普通词) 待G4审核"
+Mathis,马蒂斯,character,site-miss,0.7,pending,2026-08-11,音译(法语 Mathis≈马蒂斯) 待G4审核
+Ministries,联盟,concept,user,1.0,approved,2026-08-11,"用户拍板采纳对方译法(报告曾标疑似误译,以用户为准)"
+Wait,wait,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Come,来,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法来,按规则4采用 | 规则直译(普通词) 待G4审核"
+Recall,回忆,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法回忆 vs 原recall,按规则4采用(link 句式用追忆) | 规则直译(普通词) 待G4审核"
+Enemy,敌人,concept,cs-aligned,0.9,approved,2026-08-11,cs-aligned 凶杀的计策(对其敌人下手)
+Spend,消耗,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法消耗 vs 原spend,按规则4采用 | 规则直译(普通词) 待G4审核"
+Use,使用,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法使用 vs 原use,按规则4采用 | 规则直译(普通词) 待G4审核"
+My Past,我的过去,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译我的过去 | 规则未覆盖,待人工裁决"
+Subvert,拗转,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法拗转 vs 原subvert,按规则2采用(性相转化机制动词) | 规则直译(普通词) 待G4审核"
+Like,like,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Jean-Bernard,让-贝尔纳,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译让-贝尔纳 | 规则未覆盖,待人工裁决"
+Alexandria,亚历山大港,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|domicile.alexandria
+Strathcoyne,斯特拉斯科因,character,site-hit,0.7,pending,2026-08-11,"音译(苏格兰地名 Strathcoyne,Strath≈斯特拉斯+coyne≈科因) 待G4审核"
+Skills,技艺,concept,manual_pkg,0.9,approved,2026-08-11,与 Skill=技艺 一致
+Légion,,other,site-hit,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Let,let,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Republic,共和国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法共和国 vs 原republic,按规则4采用 | 规则直译(普通词) 待G4审核"
+Andrée,安德烈,character,site-miss,0.7,pending,2026-08-11,音译(法语 Andrée /ɑ̃dʁe/≈安德烈) 待G4审核
+Smile,微笑,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法微笑,按规则4采用 | 规则直译(普通词) 待G4审核"
+Wars,战争,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法战争,按规则4采用 | 规则直译(普通词) 待G4审核"
+Rodia,罗迪娅,character,site-hit,0.7,pending,2026-08-11,音译(拉丁/意语 Rodia≈罗迪娅) 待G4审核
+Uncounted,除名,concept,manual_pkg,0.9,approved,2026-08-11,L2 除名司辰/司辰们已被除名
+Experiences,经验,concept,manual_pkg,0.95,approved,2026-08-11,L2 +1 [性相] 经验/经验(技能升级点数)
+Truth,真理,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法真理,按规则4采用 | 规则直译(普通词) 待G4审核"
+War,战争,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法战争,按规则4采用 | 规则直译(普通词) 待G4审核"
+Worms,蠕虫,concept,wiki,0.9,approved,2026-08-11,boh.huijiwiki.com/wiki/伟大之术 蠕虫学(研习蠕虫);L2 同
+Léon,莱昂,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译莱昂 | 规则未覆盖,待人工裁决"
+Outfit,outfit,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Forge,铸,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|forge
+Winter,冬,other,cs-aligned,1.0,approved,2026-08-11,cs:recipes|ritehinthaswinter
+Moth,蛾,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|moth
+When I,当我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法当我,按规则4采用 | 规则未覆盖,待人工裁决"
+Light,光源,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Lantern,灯,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|lantern
+Trouble,烦扰,concept,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法烦扰,按规则4采用 | 音译(CS 元素 trouble 官方语境,风格贴合) 待G4审核"
+Select,选择,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法选择 vs 原select,按规则4采用 | 规则直译(普通词) 待G4审核"
+Stag Door,牡鹿之门,location,manual_pkg,0.95,approved,2026-08-11,L2 牡鹿之门乃学徒之门
+Aspects,性相,concept,manual_pkg,0.9,approved,2026-08-11,L2 性相池/[性相];与 Aspect 单数一致
+Travelling,旅行,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法旅行 vs 原travelling,按规则4采用 | 规则直译(普通词) 待G4审核"
+Did,did,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Milice,milice,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Bureau,防剿局,organization,user,1.0,approved,2026-08-11,用户裁决:一般特指防剿局(与 Suppression Bureau 同义);语境合适时可视情况简称为局里
+Examine,检查,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法检查 vs 原examine,按规则4采用 | 规则直译(普通词) 待G4审核"
+Jaume,豪梅,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法豪梅 vs 原若梅,按规则3采用(加泰罗尼亚语通行译名) | 音译(加泰罗尼亚语 Jaume≈若梅) 待G4审核"
+Lagasse,拉加斯,other,site-hit,0.7,pending,2026-08-11,音译(法-加裔姓氏) 待G4审核
+Although,虽然,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法虽然,按规则4采用 | 规则直译(普通词) 待G4审核"
+Doctor,医生,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法医生 vs 原doctor,按规则4采用(与 Dr 头衔规则一致) | 规则直译(普通词) 待G4审核"
+Later,稍后,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法稍后,按规则4采用 | 规则直译(普通词) 待G4审核"
+Grail,杯,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|grail
+House,漫宿(别称语境),location,user,1.0,approved,2026-08-12,大写 House 语境判断:the House/House of the Sun=漫宿(Mansus)别称→漫宿/太阳之屋;Hush House→噤声居屋(独立词条);普通小写 house→房屋
+Mr Hobson,霍布森先生,character,self,0.7,pending,2026-08-11,Hobson→霍布森(pending)+尊称先生(全译原则)
+Catalyst,触媒,concept,user,1.0,approved,2026-08-12,用户定译 2026-08-12:Catalyst 术语化→触媒
+Sometimes,有时,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法有时,按规则4采用 | 规则直译(普通词) 待G4审核"
+Dead,亡者,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法亡者 vs 原dead,按规则2采用(批8同) | 规则直译(普通词) 待G4审核"
+Names,具名者,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法具名者 vs 原names,按规则2采用(CS 官方先例(批8曾作尊名)) | 规则直译(普通词) 待G4审核"
+Edge,刃,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|edge
+Gleam,烁,concept,user,1.0,approved,2026-08-12,用户定译 2026-08-12:gleam 术语化→烁
+Principle,准则,concept,manual_pkg,0.95,approved,2026-08-11,L2 启…的准则;cs-aligned 准则
+Until,直到,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法直到,按规则4采用 | 规则直译(普通词) 待G4审核"
+France,法国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法法国 vs 原france,按规则4采用 | 规则直译(普通词) 待G4审核"
+Footnotes,脚注,other,manual_pkg,0.95,approved,2026-08-11,L2 脚注(游戏 UI 概念)
+English,英语,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法英语 vs 原english,按规则4采用 | 规则直译(普通词) 待G4审核"
+Incorporates,集团,concept,manual_pkg,0.9,approved,2026-08-11,L2 [[集团]]愿为对抗伊加利亚主义
+Influences,influences,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Move,移动,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法移动 vs 原move,按规则4采用 | 规则直译(普通词) 待G4审核"
+And I,而我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法而我,按规则4采用 | 规则未覆盖,待人工裁决"
+Give,给,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法给,按规则4采用 | 规则直译(普通词) 待G4审核"
+Lie,躺,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法躺,按规则4采用([说谎] 语境另译) | 规则直译(普通词) 待G4审核"
+Long,长生者,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|guardian_long
+Passions,passions,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Cross,介壳种,concept,manual_pkg,0.95,approved,2026-08-11,L2 Cross=介壳种;cs-aligned Carapace Cross=介壳种;Cross-change=介壳蜕变
+Wood,木材,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Knock,启,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|knock
+Wake,醒时,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法醒时 vs 原wake,按规则2采用(与漫宿对立的醒时世界(批9曾作醒世)) | 规则直译(普通词) 待G4审核"
+Corona,冕,concept,user,1.0,approved,2026-08-12,用户定译 2026-08-12:Corona 术语化→冕
+Janvier,janvier,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Time,时间,other,cs-aligned,1.0,approved,2026-08-11,cs:verbs|time.exile
+Sylvain Huissier,西尔万·于西耶,character,self,0.7,pending,2026-08-11,"style-guide锚点:Sylvain→西尔万,Huissier→于西耶(法语发音)"
+Once,一次,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法一次,按规则4采用 | 规则直译(普通词) 待G4审核"
+Better,better,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Any,任何,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法任何,按规则4采用 | 规则直译(普通词) 待G4审核"
+Watch,注视,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法注视,按规则4采用 | 规则直译(普通词) 待G4审核"
+Memories,种种回忆,other,cs-aligned,1.0,approved,2026-08-11,cs:decks|ghoul.memory
+Try,try,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Since,自从,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法自从,按规则4采用 | 规则直译(普通词) 待G4审核"
+Tell,告诉,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法告诉,按规则4采用 | 规则直译(普通词) 待G4审核"
+Shrug,耸肩,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法耸肩,按规则4采用 | 规则直译(普通词) 待G4审核"
+Take,取,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法取,按规则4采用 | 规则直译(普通词) 待G4审核"
+Someone,某人,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法某人,按规则4采用 | 规则直译(普通词) 待G4审核"
+Potential,天赋,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|potential
+Keeps,keeps,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Please,please,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Berlin,柏林,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法柏林 vs 原berlin,按规则3采用(真实地名) | 规则直译(普通词) 待G4审核"
+Coseley,coseley,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Heart,心,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|heart
+Rose,引,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Troubles,烦扰,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法烦扰,按规则4采用 | 规则直译(普通词) 待G4审核"
+Labrikon,融升剂,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法融升剂 vs 原labrikon,按规则2采用(自造词(批5曾作拉布里孔)) | 规则直译(普通词) 待G4审核"
+Really,真的,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法真的,按规则4采用 | 规则直译(普通词) 待G4审核"
+Annabelle,安娜贝尔,other,site-miss,0.7,pending,2026-08-11,音译(通行音译) 待G4审核
+Eternity,永恒,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法永恒 vs 原eternity,按规则2采用(批8同) | 规则直译(普通词) 待G4审核"
+Aviform,鸟形,concept,manual_pkg,0.9,approved,2026-08-11,L2 鸟形(鸟形司辰的恶作剧)
+As I,当我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法当我,按规则4采用 | 规则未覆盖,待人工裁决"
+Horomachistry,司辰学,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
+Consider,研究,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Stars,群星,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法群星 vs 原stars,按规则4采用(批8同) | 规则直译(普通词) 待G4审核"
+Monsieur,先生,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法先生 vs 原monsieur,按规则4采用 | 规则直译(普通词) 待G4审核"
+Possessed,possessed,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Vive,万岁,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法万岁 vs 原vive,按规则4采用 | 规则直译(普通词) 待G4审核"
+Most,大多数,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法大多数,按规则4采用 | 规则直译(普通词) 待G4审核"
+Sorry,sorry,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Coca-Cola,,other,site-miss,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Another,另一个,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法另一个,按规则4采用 | 规则直译(普通词) 待G4审核"
+Evolve,演化,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Sleep,睡眠,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法睡眠 vs 原sleep,按规则4采用 | 规则直译(普通词) 待G4审核"
+Sylvain,西尔万,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法西尔万 vs 原sylvain,按规则3采用 | 规则直译(普通词) 待G4审核"
+Serena,serena,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Success,成功,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|success
+Failure,失败,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|failure
+IMPORTANT,注意,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法注意 vs 原important,按规则4采用 | 规则直译(普通词) 待G4审核"
+Travel,旅行,other,cs-aligned,1.0,approved,2026-08-11,cs:verbs|travel
+Cambray,康布雷,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法康布雷 vs 原cambray,按规则3采用(真实地名(康布雷战役)) | 规则直译(普通词) 待G4审核"
+Worldly Skill,世俗技艺,concept,manual_pkg,0.6,pending,2026-08-11,L2 未译;上下文=对话/社交日常技能;建议世俗技艺 待G4
+West,西方,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法西方,按规则4采用 | 规则直译(普通词) 待G4审核"
+French State,法兰西邦国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译法兰西邦国(真实政权通行译名) | 规则未覆盖,待人工裁决"
+Change,改变,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法改变,按规则4采用 | 规则直译(普通词) 待G4审核"
+Bosk,丛林学,art,user,1.0,approved,2026-08-11,"伟大之术定译(BoH 灰机 wiki+人工译者),覆盖 cs-aligned 旧值树丛(用户 2026-08-11 指定)"
+Heaven,天界,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法天界 vs 原heaven,按规则4采用 | 规则直译(普通词) 待G4审核"
+French,法兰西,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法法兰西 vs 原french,按规则4采用(French State/Republic 语境) | 规则直译(普通词) 待G4审核"
+Ithastry,盗火术,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
+Every,每,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法每,按规则4采用 | 规则直译(普通词) 待G4审核"
+Hushery,静默术,art,user,1.0,approved,2026-08-11,"伟大之术定译(BoH 灰机 wiki+人工译者,2026-08-11 用户指定搜索核证)"
+Father Jaume,豪梅神父,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法豪梅神父 vs 原若梅神父,按规则3采用 | Jaume→若梅(pending)+称谓神父"
+Turn,转身,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法转身,按规则4采用 | 规则直译(普通词) 待G4审核"
+Nyctodromy,夜游术,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
+Arts Unconsidered,未拾技艺,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH wiki 未拾技艺+人工译者);游戏文本指 Bosk/Birdsong/Preservation 一组
+Almost,almost,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Thanks,thanks,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Through,穿过,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法穿过,按规则4采用 | 规则直译(普通词) 待G4审核"
+Picasso,毕加索,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法毕加索 vs 原picasso,按规则3采用(真实画家通行译名) | 规则直译(普通词) 待G4审核"
+Ubu,乌布,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法乌布 vs 原ubu,按规则3采用 | 规则直译(普通词) 待G4审核"
+Night,夜晚,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|op.night
+Lift,抬起,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法抬起,按规则4采用(振作语境另译) | 规则直译(普通词) 待G4审核"
+Twinges,刺痛,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法刺痛 vs 原twinges,按规则4采用 | 规则直译(普通词) 待G4审核"
+Glory,辉光,other,cs-aligned,1.0,approved,2026-08-11,cs:endings|visionsending
+Much,许多,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法许多,按规则4采用 | 规则直译(普通词) 待G4审核"
+Our,our,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Icarian,伊加利亚,concept,manual_pkg,0.9,approved,2026-08-11,L2 反[[伊加利亚]]倾向
+Wither,凋零,concept,user,1.0,approved,2026-08-12,"用户定译 2026-08-12:Wither→凋零(相性Aspect,与so|Aspect 28610 已有译法一致);Task R未识别词已裁定"
+Icarians,icarians,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Suppression Bureau,防剿局,organization,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(防剿局)
+Kerisham,凯尔伊苏姆,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|vaultshiresdefault
+Watchman,守夜人,character,cs-aligned,0.95,approved,2026-08-11,L2 守夜人之树/守夜人;cs-aligned 名为守夜人的司辰
+Mlle Lagasse,拉加斯小姐,character,self,0.7,pending,2026-08-11,Nina Lagasse→尼娜·拉加斯(approved)+Mlle→小姐
+Reinhardt,莱因哈特,character,self,0.8,pending,2026-08-12,"音译(德语姓氏,通行译名)待G4"
+Plan,计划,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法计划,按规则4采用 | 规则直译(普通词) 待G4审核"
+Cubbies,格口,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法格口 vs 原cubbies,按规则4采用(UI 网格格口(paratranz保留原文)) | 规则直译(普通词) 待G4审核"
+Chaima,柴玛,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法柴玛 vs 原chaima,按规则3采用 | 规则直译(普通词) 待G4审核"
+Footnote,footnote,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Read,阅读,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法阅读 vs 原read,按规则4采用 | 规则直译(普通词) 待G4审核"
+Medea,美狄亚,character,site-hit,0.7,pending,2026-08-11,音译(希腊神话通行译名) 待G4审核
+Preservation,保存术,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
+High,高,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法高,按规则4采用 | 规则直译(普通词) 待G4审核"
+Show,出示,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法出示,按规则4采用 | 规则直译(普通词) 待G4审核"
+Illumination,照明术,art,user,1.0,approved,2026-08-11,"伟大之术定译(BoH 灰机 wiki:照明术-Illumination),覆盖 cs-aligned 旧值光照"
+Run,跑,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法跑,按规则4采用 | 规则直译(普通词) 待G4审核"
+St Reparata,圣雷帕拉塔,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译圣雷帕拉塔 | 规则未覆盖,待人工裁决"
+Beyond,之外,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法之外,按规则4采用 | 规则直译(普通词) 待G4审核"
+Pay,支付,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法支付,按规则4采用 | 规则直译(普通词) 待G4审核"
+Cap,海角,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法海角 vs 原cap,按规则4采用(Cap d'Antibes 语境) | 规则直译(普通词) 待G4审核"
+Remain,remain,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Interesting,有趣,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+London,伦敦,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|domicile.london
+Stop,停下,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法停下,按规则4采用 | 规则直译(普通词) 待G4审核"
+Chez Felix,费利克斯之家,place,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法费利克斯之家 vs 原菲利克斯家,按规则3采用(与批11/12 落盘一致) | 法语 chez=在…家/店(2026-08-12)待G4"
+American,美国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法美国 vs 原american,按规则4采用 | 规则直译(普通词) 待G4审核"
+The Stars,群星,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译群星 | 规则未覆盖,待人工裁决"
+Wounds,创伤,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法创伤 vs 原wounds,按规则4采用 | 规则直译(普通词) 待G4审核"
+So I,所以我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法所以我,按规则4采用 | 规则未覆盖,待人工裁决"
+Especially Spencer Hobson,,other,site-miss,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Great War,大战,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译大战 | 规则未覆盖,待人工裁决"
+Inventory,行囊,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法行囊 vs 原inventory,按规则4采用(批12 落盘(paratranz作库存)) | 规则直译(普通词) 待G4审核"
+Though,虽然,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法虽然,按规则4采用 | 规则直译(普通词) 待G4审核"
+Leaves,leaves,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Mr Strathcoyne,斯特拉斯科因先生,character,self,0.7,pending,2026-08-11,Strathcoyne→斯特拉斯科因(pending)+尊称先生
+Bounds,边境,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法边境 vs 原bounds,按规则2采用(批9曾作边界之地) | 规则直译(普通词) 待G4审核"
+Know,通晓者,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法通晓者 vs 原know,按规则2采用(CS 官方先例) | 规则直译(普通词) 待G4审核"
+Authority,authority,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Bright Arts,光之技艺,art,user,1.0,approved,2026-08-12,用户定译 2026-08-12:与 Bright Art 单数一致(光之技艺)
+Necessity,必需,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Night Arts,夜之技艺,art,user,1.0,approved,2026-08-12,用户定译 2026-08-12:与 Night Art 单数一致(夜之技艺)
+Rumour,流言,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法流言 vs 原rumour,按规则4采用(痕迹阶梯1-3 一致) | 规则直译(普通词) 待G4审核"
+Surveillance,监视,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法监视 vs 原surveillance,按规则4采用 | 规则直译(普通词) 待G4审核"
+Caen,卡昂,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法卡昂 vs 原caen,按规则3采用 | 规则直译(普通词) 待G4审核"
+Prague,布拉格,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|domicile.prague
+Venue,场地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法场地 vs 原venue,按规则4采用(批11/12 落盘(paratranz作场所)) | 规则直译(普通词) 待G4审核"
+Journal,日记,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Put,放,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法放,按规则4采用 | 规则直译(普通词) 待G4审核"
+Wardrobe,衣橱,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法衣橱 vs 原wardrobe,按规则4采用 | 规则直译(普通词) 待G4审核"
+Two,二,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法二,按规则4采用 | 规则直译(普通词) 待G4审核"
+The Pilgrim Rose,巡礼玫瑰,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法巡礼玫瑰 vs 原朝圣玫瑰,按规则2采用(与巡礼者呼应(原朝圣玫瑰)) | 音译(CS 风格意象直译) 待G4审核"
+Wolf Divided,裂分之狼,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译裂分之狼(CS 官方) | 规则未覆盖,待人工裁决"
+Horned-Axe,双角斧,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译双角斧(CS 官方(批9曾作角斧)) | 规则未覆盖,待人工裁决"
+Skolekosophy,蠕虫学,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
+Keep,保持,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法保持,按规则4采用 | 规则直译(普通词) 待G4审核"
+Over,结束,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法结束,按规则4采用 | 规则直译(普通词) 待G4审核"
+Unveil,揭露,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法揭露 vs 原unveil,按规则2采用(性相(批7曾作揭示)) | 规则直译(普通词) 待G4审核"
+Lean,靠,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法靠,按规则4采用 | 规则直译(普通词) 待G4审核"
+The State,邦国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译邦国(与 State approved 一致) | 规则未覆盖,待人工裁决"
+Three,三,other,cs-aligned,1.0,approved,2026-08-11,cs:recipes|dreammeniscatevictory_withrisen
+Enough,enough,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Perhaps I,也许我,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法也许我,按规则4采用 | 规则未覆盖,待人工裁决"
+World,世界,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法世界,按规则4采用 | 规则直译(普通词) 待G4审核"
+Milan,米兰,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11); 原pending占位milan已修正"
+Goodbye,goodbye,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Silence,宁静,other,cs-aligned,1.0,approved,2026-08-11,cs-aligned label zh
+Amiral,海军上将,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法海军上将 vs 原amiral,按规则4采用 | 规则直译(普通词) 待G4审核"
+No-one,无人,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法无人,按规则4采用 | 规则未覆盖,待人工裁决"
+Order,订单,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法订单,按规则4采用(秩序语境另译) | 规则直译(普通词) 待G4审核"
+Say,说,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法说,按规则4采用 | 规则直译(普通词) 待G4审核"
+None,无,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法无,按规则4采用 | 规则直译(普通词) 待G4审核"
+Wound,受创,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|long_wound
+Ambition,ambition,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Sorrow,sorrow,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Trace,痕迹,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|trace
+Click,点击,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法点击 vs 原click,按规则4采用 | 规则直译(普通词) 待G4审核"
+Christopher Illopoly,克里斯托弗·伊利奥波里,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法克里斯托弗·伊利奥波里 vs 原克里斯托弗·伊洛波利,按规则2采用(自造姓音译更贴) | 音译(自造姓Illopoly)"
+Fresh,新鲜,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法新鲜,按规则4采用 | 规则直译(普通词) 待G4审核"
+The Plague,瘟疫,concept,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Eye,眼,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法眼,按规则4采用 | 规则直译(普通词) 待G4审核"
+Huissier,于西耶,character,self,0.7,pending,2026-08-11,"法语姓氏,音译(style-guide锚点)"
+Agonies,苦痛,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法苦痛 vs 原agonies,按规则4采用(痛苦阶梯高阶) | 规则直译(普通词) 待G4审核"
+Mahaggony,马哈哥尼,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法马哈哥尼 vs 原mahaggony,按规则3采用 | 规则直译(普通词) 待G4审核"
+Aspect,性相,concept,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法性相 vs 原aspect,按规则4采用(与 Aspects approved 一致) | 规则直译(普通词) 待G4审核"
+Sign,印记,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法印记 vs 原sign,按规则4采用(与 Signs approved 一致) | 规则直译(普通词) 待G4审核"
+Blackwood,布莱克伍德,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法布莱克伍德 vs 原blackwood,按规则3采用 | 规则直译(普通词) 待G4审核"
+Thresholds,门关,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法门关 vs 原thresholds,按规则2采用 | 规则直译(普通词) 待G4审核"
+Pharmakon,源解剂,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法源解剂 vs 原pharmakon,按规则2采用 | 规则直译(普通词) 待G4审核"
+Midnight Mark,午夜污点,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译午夜污点(三案裁决(午夜印记/午夜印迹/午夜污点)) | 规则未覆盖,待人工裁决"
+Salt-Skein,盐纱,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译盐纱(批9曾作盐线团) | 规则未覆盖,待人工裁决"
+Threshold,门关,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法门关 vs 原threshold,按规则2采用(与 Seuil/Légion du Seuil 统一(批12曾作门槛)) | 规则直译(普通词) 待G4审核"
+White,白色,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法白色,按规则4采用 | 规则直译(普通词) 待G4审核"
+Seuil,门关,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法门关 vs 原seuil,按规则2采用 | 规则直译(普通词) 待G4审核"
+Honneur,荣誉,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法荣誉 vs 原honneur,按规则4采用 | 规则直译(普通词) 待G4审核"
+Humanité,人性,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译人性 | 规则未覆盖,待人工裁决"
+Summer Frivolity,轻浮夏日,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译轻浮夏日 | 规则未覆盖,待人工裁决"
+Quell,平息,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法平息 vs 原quell,按规则2采用(批8曾作镇伏) | 规则直译(普通词) 待G4审核"
+Vagabond,浪游旅人,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法浪游旅人 vs 原vagabond,按规则2采用(批9曾作浪游者) | 规则直译(普通词) 待G4审核"
+Flip,翻转,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+The Ministries,,other,site-hit,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Book,书,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法书,按规则4采用 | 规则直译(普通词) 待G4审核"
+British,英国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法英国 vs 原british,按规则4采用 | 规则直译(普通词) 待G4审核"
+Pass,通过,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法通过,按规则4采用 | 规则直译(普通词) 待G4审核"
+Poor,poor,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Hallow,圣化,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法圣化 vs 原hallow,按规则2采用(性相(批7曾作祝圣)) | 规则直译(普通词) 待G4审核"
+Birdsong,鸟鸣学,art,user,1.0,approved,2026-08-12,伟大之术定译(BoH 灰机 wiki+人工译者均用鸟鸣学);用户 2026-08-12 确认采用鸟鸣学
+Sniff,嗅,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法嗅,按规则4采用 | 规则直译(普通词) 待G4审核"
+Librairie,书店,place,self,0.9,approved,2026-08-12,法语普通词 librairie=书店(2026-08-12)
+Heures,时刻,other,self,0.9,approved,2026-08-12,法语 heures=时刻/钟点(2026-08-12)
+German,德语,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法德语 vs 原german,按规则4采用 | 规则直译(普通词) 待G4审核"
+Five,五,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法五,按规则4采用 | 规则直译(普通词) 待G4审核"
+Excuse,excuse,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Place,之地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法之地 vs 原place,按规则4采用(复合词素) | 规则直译(普通词) 待G4审核"
+Four,四,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法四,按规则4采用 | 规则直译(普通词) 待G4审核"
+Nantes,南特,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法南特 vs 原nantes,按规则3采用 | 规则直译(普通词) 待G4审核"
+Riviera,里维埃拉,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法里维埃拉 vs 原riviera,按规则3采用(通用译名(paratranz误并作蔚蓝海岸)) | 规则直译(普通词) 待G4审核"
+Yeah,是啊,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+François Isnard,弗朗索瓦·伊斯纳尔,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译弗朗索瓦·伊斯纳尔(法语 r 收尾) | 规则未覆盖,待人工裁决"
+Career,职业,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法职业 vs 原career,按规则4采用 | 规则直译(普通词) 待G4审核"
+Bah,bah,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Black,黑色,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法黑色,按规则4采用 | 规则直译(普通词) 待G4审核"
+See,看见,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法看见,按规则4采用 | 规则直译(普通词) 待G4审核"
+Crucian,十字会,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法十字会 vs 原crucian,按规则2采用(批8曾作十字派) | 规则直译(普通词) 待G4审核"
+Bewitch,魅惑,concept,self,0.9,approved,2026-08-12,普通词常规译法(2026-08-12)
+Midnight Joe,午夜乔,character,self,0.7,pending,2026-08-11,音译+意译(绰号)
+Allies,盟军,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法盟军 vs 原allies,按规则3采用(二战同盟国通行(批8曾作盟友)) | 规则直译(普通词) 待G4审核"
+Everything,一切,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法一切,按规则4采用 | 规则直译(普通词) 待G4审核"
+Except,except,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Which,which,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Cracow,克拉科夫,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法克拉科夫 vs 原cracow,按规则3采用 | 规则直译(普通词) 待G4审核"
+White Door,纯白之门,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译纯白之门 | 规则未覆盖,待人工裁决"
+Anger,愤怒,concept,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Compassion,同情,concept,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Curiosity,好奇,concept,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Whimsy,奇想,concept,self,0.9,approved,2026-08-12,普通词常规译法(2026-08-12)
+Craft,制作,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法制作 vs 原craft,按规则4采用 | 规则直译(普通词) 待G4审核"
+Cornish,康沃尔,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法康沃尔 vs 原cornish,按规则4采用 | 规则直译(普通词) 待G4审核"
+History,历史,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Acheson Mission,艾奇逊使团,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译艾奇逊使团(真实使团通行译名) | 规则未覆盖,待人工裁决"
+Librarian,图书管理员,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法图书管理员 vs 原librarian,按规则4采用 | 规则直译(普通词) 待G4审核"
+The Director,院长,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译院长(今日疗养院院长语境) | 规则未覆盖,待人工裁决"
+Epirus,伊庇鲁斯,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法伊庇鲁斯 vs 原epirus,按规则3采用 | 规则直译(普通词) 待G4审核"
+Unworldly,非世俗,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法非世俗 vs 原unworldly,按规则4采用(批12曾作世俗之外的技艺) | 规则直译(普通词) 待G4审核"
+Sharp,锋利,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法锋利 vs 原sharp,按规则4采用 | 规则直译(普通词) 待G4审核"
+Herr,先生,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法先生 vs 原herr,按规则4采用 | 规则直译(普通词) 待G4审核"
+Comrade,同志,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法同志 vs 原comrade,按规则4采用 | 规则直译(普通词) 待G4审核"
+Witch-and-Sister,双生女巫,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译双生女巫(cs-aligned 同) | 规则未覆盖,待人工裁决"
+Dr A,A 医生,character,self,0.8,pending,2026-08-12,Task N2 修订+用户2026-08-12:头衔翻译按语境(匿名首字母化名)
+Corso,科尔索,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法科尔索 vs 原corso,按规则3采用 | 规则直译(普通词) 待G4审核"
+Chilly,发冷,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法发冷 vs 原chilly,按规则4采用(天气着装阶梯一致) | 规则直译(普通词) 待G4审核"
+Despair,绝望,other,cs-aligned,1.0,approved,2026-08-11,cs-aligned label zh
+Chrysophoria,迷金症,concept,user,1.0,approved,2026-08-12,"用户研究定译:-phoria=欣快状态词缀(euphoria欣快症),chrysos金→迷金症(与Fascination入迷呼应);废弃原拟金冠赛(古希腊庆典义,与游戏病症语境不符)"
+Nagelsburg,nagelsburg,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Nowhere,虚界,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法虚界 vs 原nowhere,按规则2采用(批8曾作虚无) | 规则直译(普通词) 待G4审核"
+Alias,alias,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Experience,经验,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|experience.exile.ally
+Outfits,行头,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法行头 vs 原outfits,按规则4采用(与 Outfit=行头 一致) | 规则直译(普通词) 待G4审核"
+Stanislav,斯坦尼斯拉夫,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法斯坦尼斯拉夫 vs 原stanislav,按规则3采用 | 规则直译(普通词) 待G4审核"
+Fate,命运,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法命运,按规则4采用 | 规则直译(普通词) 待G4审核"
+Chance,机会,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法机会,按规则4采用 | 规则直译(普通词) 待G4审核"
+Germany,德国,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法德国 vs 原germany,按规则4采用 | 规则直译(普通词) 待G4审核"
+Shadowed Places,阴影之地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译阴影之地 | 规则未覆盖,待人工裁决"
+Package,包裹,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法包裹 vs 原package,按规则4采用 | 规则直译(普通词) 待G4审核"
+Refreshments,茶点,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法茶点 vs 原refreshments,按规则4采用(批9/12 落盘(paratranz作小食)) | 规则直译(普通词) 待G4审核"
+Used,used,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Wakeful Eye,警醒之眼,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译警醒之眼(canon 一致(批7曾作不眠之眼)) | 规则未覆盖,待人工裁决"
+Introduction,引见,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法引见 vs 原introduction,按规则4采用 | 规则直译(普通词) 待G4审核"
+Shadowed Place,阴影之地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译阴影之地(批12同) | 规则未覆盖,待人工裁决"
+Quiet Place,静默之地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译静默之地(与静默术呼应(批12曾作宁静之地)) | 规则未覆盖,待人工裁决"
+Côte,海岸,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译海岸 | 规则未覆盖,待人工裁决"
+Azur,蔚蓝,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法蔚蓝 vs 原azur,按规则4采用 | 规则直译(普通词) 待G4审核"
+Charm,charm,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+AltFade,altfade,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Republican,共和派,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法共和派 vs 原republican,按规则4采用 | 规则直译(普通词) 待G4审核"
+Everyone,大家,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法大家,按规则4采用 | 规则直译(普通词) 待G4审核"
+Dark,黑暗,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法黑暗,按规则4采用 | 规则直译(普通词) 待G4审核"
+Warm,温暖,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法温暖 vs 原warm,按规则4采用 | 规则直译(普通词) 待G4审核"
+Spain,西班牙,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法西班牙 vs 原spain,按规则4采用 | 规则直译(普通词) 待G4审核"
+Think,想,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法想,按规则4采用 | 规则直译(普通词) 待G4审核"
+Fortunately,幸运的是,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
+Buy,买,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法买,按规则4采用 | 规则直译(普通词) 待G4审核"
+Sit,坐下,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法坐下,按规则4采用 | 规则直译(普通词) 待G4审核"
+Hurry,hurry,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+First,首次,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法首次,按规则4采用 | 规则直译(普通词) 待G4审核"
+Behind,后面,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法后面,按规则4采用 | 规则直译(普通词) 待G4审核"
+Pierrots,皮埃罗,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法皮埃罗 vs 原pierrots,按规则3采用(艺术史通行译名(paratranz作皮耶罗)) | 规则直译(普通词) 待G4审核"
+Welcome,welcome,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Different,不同,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法不同,按规则4采用 | 规则直译(普通词) 待G4审核"
+Speech,言语,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法言语,按规则4采用 | 规则直译(普通词) 待G4审核"
+Does,does,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Jean Dupont,让·杜邦,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则3定译让·杜邦 | 规则未覆盖,待人工裁决"
+Make,做,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法做,按规则4采用 | 规则直译(普通词) 待G4审核"
+Wink,眨眼,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法眨眼,按规则4采用 | 规则直译(普通词) 待G4审核"
+Milicien,民兵,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法民兵 vs 原milicien,按规则4采用 | 规则直译(普通词) 待G4审核"
+May,may,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Monsieur Hobson,霍布森先生,character,self,0.7,pending,2026-08-11,Monsieur→先生+霍布森
+Above,之上,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法之上,按规则4采用 | 规则直译(普通词) 待G4审核"
+Beach-Crow,拾滩鸦,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译拾滩鸦(批8曾作滩鸦) | 规则未覆盖,待人工裁决"
+Mme Zèlia,,other,site-miss,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Do I,我吗,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法我吗,按规则4采用 | 规则未覆盖,待人工裁决"
+Felix,费利克斯,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法费利克斯 vs 原felix,按规则3采用 | 规则直译(普通词) 待G4审核"
+An American,美国人,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译美国人 | 规则未覆盖,待人工裁决"
+Get,得到,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法得到,按规则4采用 | 规则直译(普通词) 待G4审核"
+Too,too,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Welland,韦兰,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法韦兰 vs 原welland,按规则3采用 | 规则直译(普通词) 待G4审核"
+The White Door,纯白之门,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译纯白之门 | 规则未覆盖,待人工裁决"
+Dreams,梦,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法梦,按规则4采用 | 规则直译(普通词) 待G4审核"
+Dr Sinombre,西诺姆布尔医生,character,self,0.7,pending,2026-08-11,Sinombre→西诺姆布尔(pending)+Dr→医生
+Grail Experiences,杯之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译杯之经验 | 规则未覆盖,待人工裁决"
+Forge Experiences,铸之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译铸之经验 | 规则未覆盖,待人工裁决"
+Edge Experiences,刃之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译刃之经验 | 规则未覆盖,待人工裁决"
+Appetite,欲望,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法欲望 vs 原appetite,按规则4采用(与批3 激情名一致) | 规则直译(普通词) 待G4审核"
+Always,总是,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法总是,按规则4采用 | 规则直译(普通词) 待G4审核"
+Heart Experiences,心之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译心之经验 | 规则未覆盖,待人工裁决"
+Rose Experiences,引之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译引之经验 | 规则未覆盖,待人工裁决"
+Lantern Experiences,灯之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译灯之经验 | 规则未覆盖,待人工裁决"
+Knock Experiences,启之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译启之经验 | 规则未覆盖,待人工裁决"
+Winter Experiences,冬之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译冬之经验 | 规则未覆盖,待人工裁决"
+Honour,honour,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Moth Experiences,蛾之经验,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译蛾之经验 | 规则未覆盖,待人工裁决"
+Fear,恐惧,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法恐惧 vs 原fear,按规则4采用(与 Dread approved 一致) | 规则直译(普通词) 待G4审核"
+Father Brass,黄铜神父,character,user,1.0,approved,2026-08-11,"用户裁决保留黄铜神父(2026-08-11,覆盖 pending)"
+Name,名字,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法名字,按规则4采用 | 规则直译(普通词) 待G4审核"
+Verdant Place,青翠之地,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译青翠之地 | 规则未覆盖,待人工裁决"
+Hold,长按,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法长按 vs 原hold,按规则4采用 | 规则直译(普通词) 待G4审核"
+Mark,印迹,other,site,0.95,approved,2026-08-11,site bilingual label[1] (verified)
+Indeed,indeed,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Algeria,algeria,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Without,没有,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法没有,按规则4采用 | 规则直译(普通词) 待G4审核"
+Heart Relentless,不息之心,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则2定译不息之心(批9曾作不倦之心) | 规则未覆盖,待人工裁决"
+Sunset,日落,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|op.sunset
+Whatever,whatever,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Director,院长,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法院长 vs 原director,按规则4采用 | 规则直译(普通词) 待G4审核"
+Want,want,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Course,进程,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法进程,按规则4采用 | 规则直译(普通词) 待G4审核"
+Man,man,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Mystery,神秘,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法神秘,按规则4采用 | 规则直译(普通词) 待G4审核"
+Swiss,瑞士,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法瑞士 vs 原swiss,按规则4采用 | 规则直译(普通词) 待G4审核"
+Entwine,entwine,other,none,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Raffish,不羁,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法不羁 vs 原raffish,按规则4采用(批8曾作花哨浪荡) | 规则直译(普通词) 待G4审核"
+MenuClose,关闭菜单,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法关闭菜单 vs 原menuclose,按规则4采用 | 规则直译(普通词) 待G4审核"
+Above All,,other,none,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
+Physician,医生,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法医生 vs 原physician,按规则4采用 | 规则直译(普通词) 待G4审核"
+Writer,作家,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法作家 vs 原writer,按规则4采用 | 规则直译(普通词) 待G4审核"
+In Europe,在欧洲,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译在欧洲 | 规则未覆盖,待人工裁决"
+Dripping,dripping,other,none,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Perspiring,perspiring,other,none,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
+Current Dread,当前恐惧,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译当前恐惧 | 规则未覆盖,待人工裁决"
+Commedia del Sole,太阳喜剧,organization,user,1.0,approved,2026-08-11,用户裁决采纳对方语内译太阳喜剧(覆盖原定译太阳喜剧团)
+FNORD,（占位）,meta-word,user,1.0,approved,2026-08-11,"用户采纳其他译者意见:FNORD 为开发者占位标记非实装文本,译为占位符(如「（占位）后续再加选项…」)"
+Hours,司辰,concept,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(司辰)
+Thunderskin,轰雷之皮,aspect,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(轰雷之皮)
+Watchman's Tree,守夜人之树,location,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(守夜人之树)
+Threshold Legion,门关军团,organization,user,1.0,approved,2026-08-11,用户采纳(L2 候选)
+Carapace-kind,介壳种,creature,user,1.0,approved,2026-08-11,用户采纳(覆盖 CS 甲壳候选)
+The Ministries,联盟,concept,user,1.0,approved,2026-08-11,用户采纳(同 Ministries)
+patrocinia,圣护,concept,self,0.6,pending,2026-08-11,"拉丁词(圣徒庇护/护佑义),建议译名圣护,待 paratranz/人工核"
+The Sheaf,禾捆报,publication,manual_pkg,1.0,approved,2026-08-11,人工包L2既有译稿《禾捆报》;快跑曾自译麦束报、修订层曾改麦束——统一为禾捆报(2026-08-11复核)
+Hour,司辰,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 大量:XX司辰(fragments/_aspects/books_lore)
+Sun,太阳,concept,manual_pkg,0.95,approved,2026-08-11,L2 无敌太阳教会/升阳行动;cs-aligned 太阳
+currency,货币,concept,manual_pkg,0.95,approved,2026-08-11,L2 货币(法兰西共和国的货币);cs-aligned 通行货币
+State,邦国,location,manual_pkg,0.9,approved,2026-08-11,L2 French State=法兰西邦国;文中[[State]]特指维希法国政权
+Traces,痕迹,concept,manual_pkg,0.95,approved,2026-08-11,L2 当前痕迹/4-6 痕迹
+Histories,历史,concept,manual_pkg,0.9,approved,2026-08-11,L2 五重历史;cs-aligned Secret Histories=秘史
+Henad,太一,concept,manual_pkg,0.9,approved,2026-08-11,L2 Henad=太一;哲学术语 Henad=太一(新柏拉图主义)
+Sister-and-Witch,双生女巫,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 双生女巫(成双祷文/圣滕特雷托之僧院);boh wiki 别名孪鸢
+Ys,伊苏,location,manual_pkg,0.95,approved,2026-08-11,"L2 凡生者皆不可抵达伊苏/圣达哈节前夕,伊苏"
+pilgrim,巡礼者,concept,manual_pkg,0.9,approved,2026-08-11,L2 巡礼者(我也曾被称为巡礼者);cs-aligned 同
+Principles,准则,concept,manual_pkg,0.9,approved,2026-08-11,L2 基本[[准则]];cs-aligned 准则
+Duties,职司,concept,manual_pkg,0.9,approved,2026-08-11,L2 服务[[职司]]/门关军团为服务职司创立
+Henades,太一,concept,manual_pkg,0.9,approved,2026-08-11,"L2 Henad=太一,复数同译"
+Ivory Dove,骨白鸽,concept,cs-aligned,1.0,approved,2026-08-11,"cs-aligned 骨白鸽祷文/我们拜请骨白鸽;boh wiki 白鸽,官方优先骨白鸽"
+Gwendolen,格温德琳,character,manual_pkg,0.95,approved,2026-08-11,L2 格温德琳·法鲁克(亚历山大港学者)
+Carapace Cross,介壳种,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 《介壳种之歌》/介壳种已消失;L2 同
+little joys of night,夜的微小欢愉,other,self,0.5,pending,2026-08-11,"自拟(诗意台词:Below the House, the little joys of night);无先例 待G4"
+OOC,梦境协调局,organization,self,0.5,pending,2026-08-11,自拟(Office of Onteiric Coordination 之缩略);原文:[[OOC]]? 待G4
+Elegiast,悼歌诗人,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 悼歌诗人的开价/悼歌诗人乃…司辰
+Légion du Seuil,门关军团,organization,manual_pkg,0.95,approved,2026-08-11,"L2 门关军团(助理医师/为服务职司创立,守护万物边界)"
+Signs,印记,concept,manual_pkg,0.9,approved,2026-08-11,L2 你的印记与激情/残阳的印记：烁
+Horae,时序女神,concept,manual_pkg,0.9,approved,2026-08-11,L2 承认四位时序女神(Horae Canonicae=正时)
+Meniscate,弧月,concept,cs-aligned,1.0,approved,2026-08-11,"cs-aligned 弧月祷文/弧月源于光,生于月亮"
+Madrugad,昕旦,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 昕旦(光源之神)/我们拜请昕旦
+Sun-in-Rags,残阳,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 残阳(侍奉残阳/日落仪式);L2 残阳的圣茔
+remortals,长生者,concept,manual_pkg,0.9,approved,2026-08-11,L2 称为长生者(因献身准则获得不朽的凡类)
+Invisible Serapeum,隐形的塞拉皮雍,location,cs-aligned,1.0,approved,2026-08-11,cs-aligned 隐形的塞拉皮雍(亚历山大港);boh wiki 司辰学对应图书馆
+histories,历史,concept,manual_pkg,0.9,approved,2026-08-11,"L2/cs-aligned 历史(小写同,与 Histories 一致)"
+Gods-who-were-flesh,肉源之神,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 上校和狮子匠是肉源之神
+lark,百灵鸟,concept,manual_pkg,0.9,approved,2026-08-11,L2 关于[[百灵鸟]]的事
+Lark,百灵鸟,concept,manual_pkg,0.9,approved,2026-08-11,L2 百灵鸟的某个核心部件;boh wiki 鸟形司辰之一
+Forge of Days,白日铸炉,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 白日铸炉(崇敬：铸/铸炉会悔恨)
+Legion,军团,organization,manual_pkg,0.7,pending,2026-08-11,L2 语境(我离开军团后);Threshold Legion=门关军团;单列待核
+Icarianism,伊加利亚主义,concept,manual_pkg,0.9,approved,2026-08-11,L2 对抗[[伊加利亚主义]]
+Pilgrims,巡礼者,concept,manual_pkg,0.9,approved,2026-08-11,L2 七位[[巡礼]]者
+Abbey of St Brandan,圣布伦丹修道院,location,manual_pkg,0.95,approved,2026-08-11,L2 圣布伦丹修道院
+Bright Art,光之技艺,art,wiki,0.95,approved,2026-08-11,boh.huijiwiki.com/wiki/伟大之术 光之技艺(Bright Arts);L2 [[光之技艺]]一致
+Night Art,夜之技艺,art,wiki,0.95,approved,2026-08-11,boh.huijiwiki.com/wiki/伟大之术 夜之技艺(Night Arts);L2 [[夜之技艺]]一致
+Sophistication,精致,concept,manual_pkg,0.95,approved,2026-08-11,L2 精致+1(游戏属性)
+invisible bag,隐形布袋,other,self,0.5,pending,2026-08-11,自拟(UI 教学彩蛋:invisible token drawn from an invisible bag) 待G4
+francisque,法兰西斧币,concept,manual_pkg,0.9,approved,2026-08-11,"货币语境→法兰西斧币;斜体徽记语境(<i>francisque</i>=State徽记)→法兰西斧(徽记),与starry double-axe(缀星双头斧)呼应;禁用[法郎](paratranz曾误译,混淆franc/francisque双币制);词源=法兰克战斧(Task P考证2026-08-11)"
+Marseille,马赛,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Montpellier,蒙彼利埃,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Béziers,贝济耶,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Lozère,洛泽尔,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Genoa,热那亚,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Côte d'Azur,蔚蓝海岸,real-place,standard,1.0,approved,2026-08-11,"真实地名,通用中文译名(用户规则2026-08-11)"
+Winston Churchill,温斯顿·丘吉尔,real-person,standard,1.0,approved,2026-08-11,"真实历史人物,通用中文译名(用户规则2026-08-11)"
+Serena Blackwood,塞蕾娜·布莱克伍德,character,self,0.7,pending,2026-08-11,"音译(Serena→塞蕾娜, Blackwood→布莱克伍德)"
+Mme Medea Japaridze,美狄亚·贾帕里泽夫人,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法美狄亚·贾帕里泽夫人 vs 原梅德亚·贾帕里泽夫人,按规则3采用(与 Medea=美狄亚 统一) | Mme→夫人+音译(格鲁吉亚姓)"
+François,弗朗索瓦,character,self,0.7,pending,2026-08-11,"真实法语人名,通用译名"
+Daphne,达芙妮,character,self,0.7,pending,2026-08-11,"人名/神话名,通用译名"
+Cornéline,科尔内利娜,character,self,0.7,pending,2026-08-11,"法语人名,音译"
+starry double-axe,缀星双头斧,concept,manual_pkg,0.8,approved,2026-08-11,徽记图案(1943维希1法郎币十星元帅杖对应);francisque徽记同位语描述;Task P考证
+Dr,医生/博士(按语境),abbr,self,1.0,approved,2026-08-12,"头衔一律翻译(用户2026-08-12):医疗/称呼语境→医生,学术语境→博士;含 Dr. 变体;已应用:Dr Aubière→欧比耶尔医生/Dr A→A 医生/Dr J.N. Sinombre→J.N.·西诺姆布尔医生"
+House of the Sun,太阳居屋,location,user,1.0,approved,2026-08-12,Mansus(漫宿)别称;用户定译 2026-08-12:太阳居屋(与既有译文一致)
+Chrysolagnia,恋金癖,concept,user,1.0,approved,2026-08-12,"用户研究定译:-lagnia=欲望词缀(algolagnia虐恋癖)→恋金癖;与迷金症成递进(症→癖)"
