@@ -1,9 +1,9 @@
 ﻿entry_id,source_text(原文),translation_zh(译文)
 dialogue|101|1|Dialogue Text,A sheaf of papers detailing a sacred scenario of the <i>commedia della Sole</i>.,"一叠纸页,详述着<i>太阳喜剧</i>的一出神圣剧目。"
 dialogue|101|2|Dialogue Text,[Read],[阅读]
-dialogue|101|3|Dialogue Text,"FNORD later we might add choices, or even give Nightmares on first read.","（占位）日后我们或许会添加选项,甚至在首次阅读时带来噩梦。"
+dialogue|101|3|Dialogue Text,"FNORD later we might add choices,FNORD 日后我们或许会添加选项,甚至在首次阅读时带来噩梦。
 dialogue|101|4|Dialogue Text,[Reread],[重读]
-dialogue|101|5|Dialogue Text,FNORD revisit the outline.,（占位）回头再看大纲。
+dialogue|101|5|Dialogue Text,FNORD revisit the outline.,FNORD 回头再看大纲。
 dialogue|10|100|Dialogue Text,You are mortal. And ignorant. Nothing you say can approach what a Lantern-long feels.,"你是凡人。而且无知。你说的一切,都无从触及灯之长生者的感受。"
 dialogue|10|101|Dialogue Text,We have made our arrangement. I'll keep to my word.,我们已定下约定。我会信守承诺。
 dialogue|10|102|Dialogue Text,A pity the [[Mansus]] is barred to us both. We could walk in the Orchard of Lights... but the War in the Sun has denied us that joy. We must take what we can from what's left.,"可惜,[[漫宿]]对我们俩,双双紧闭。我们本可在辉光果园中漫步……但太阳之战,夺走了这份欢愉。我们只能从余下的残迹中,取用所能取的一切。"
@@ -3508,11 +3508,11 @@ dialogue|8|5|Dialogue Text,Where and when is it performing?,它将在何时何�
 dialogue|8|6|Dialogue Text,Put away the leaflet. [Leave.],收好传单。[离开。]
 dialogue|8|7|Dialogue Text,What kind of circus is it?,这是什么样的马戏团?
 dialogue|8|9|Dialogue Text,"<i>Commedia del Sole</i>.' Comedy of the Sun'? Perhaps something derived from <i>commedia del'arte</i> - the Italian-French tradition with its masks, slapstick, satire.",<i>太阳喜剧</i>。'太阳的喜剧'?或许是脱胎于<i>即兴喜剧</i>——那种戴着面具、插科打诨、辛辣讽刺的意法传统。
-dialogue|92|1|Dialogue Text,FNORD hi surprise,（占位）嗨，惊喜
-dialogue|92|2|Dialogue Text,FNORD you're that nun!,（占位）你就是那个修女！
+dialogue|92|1|Dialogue Text,FNORD hi surprise,FNORD 嗨，惊喜
+dialogue|92|2|Dialogue Text,FNORD you're that nun!,FNORD 你就是那个修女！
 dialogue|92|3|Dialogue Text,Yes. Please respect my privacy.,是的。请尊重我的隐私。
 dialogue|92|4|Dialogue Text,I'll think about it,我会考虑的
-dialogue|93|2|Dialogue Text,FNORD Enclosure! You're not allowed.,（占位）禁地！你不能进去。
+dialogue|93|2|Dialogue Text,FNORD Enclosure! You're not allowed.,FNORD 禁地！你不能进去。
 dialogue|93|3|Dialogue Text,I'm a priest.,我是神父。
 dialogue|93|4|Dialogue Text,I'm a doctor.,我是医生。
 dialogue|93|5|Dialogue Text,You can't stop me.,你拦不住我。
@@ -3726,7 +3726,7 @@ misc|Text|resources.assets|29661|m_Text,Enum,枚举
 misc|Text|resources.assets|29663|m_Text,"Vector2
 ",向量2
 misc|Text|resources.assets|29695|m_Text,W,W
-misc|Text|resources.assets|29726|m_Text,wibble,抖动
+misc|Text|resources.assets|29726|m_Text,wibble,wibble
 misc|Text|resources.assets|35955|m_Text,TEST,测试
 misc|Text|resources.assets|37932|m_Text,"BitField
 ",位字段
@@ -4204,7 +4204,7 @@ Current Fascination: [q=fascination]","4-6 点入迷:「加冕的礼物令我们
 当前入迷:[q=fascination]"
 so|ConditionQuality|resources.assets|28728|_label,Chrysolagnia,恋金癖
 so|ConditionQuality|resources.assets|28728|_transitionsOut[0].text,"Down to [q=Fascination] Fascination. I'm no longer Chrysolagnic, just Chrysophoric. The world seems dingier.","入迷降至 [q=Fascination]。我不再恋金,只是迷金。世界似乎更灰暗了。"
-so|ConditionQuality|resources.assets|28728|_transitionsOut[1].text,My Fascination has increased to [q=Fascination]. I'm Chrysoleptic now.,我的入迷已增至 [q=Fascination]。我现在陷入金幻了。
+so|ConditionQuality|resources.assets|28728|_transitionsOut[1].text,My Fascination has increased to [q=Fascination]. I'm Chrysoleptic now.,我的入迷已增至 [q=Fascination]。我现在陷入金痫了。
 so|ConditionQuality|resources.assets|28729|_description,"7-9 Fascination: ""TRUST UPWARDS. LISTEN TO THE LIGHT.""
 
 Current Fascination: [q=fascination]
@@ -4214,9 +4214,9 @@ Current Fascination: [q=fascination]
 当前入迷:[q=fascination]
 
 [请务必小心。入迷达到 10 点或以上时,游戏可能就此结束。]"
-so|ConditionQuality|resources.assets|28729|_label,Chrysolepsis,幻金症
-so|ConditionQuality|resources.assets|28729|_transitionsOut[0].text,"Only [q=Fascination] Fascination: no longer Chrysoleptic, just Chrysophoric. How dull the world looks now.","入迷只剩 [q=Fascination]:不再金幻,只是迷金。世界如今看来多么黯淡。"
-so|ConditionQuality|resources.assets|28729|_transitionsOut[1].text,"Only [q=Fascination] Fascination - I'm no longer Chrysoleptic, just Chrysolagnic.","入迷只剩 [q=Fascination]——我不再金幻,只是恋金。"
+so|ConditionQuality|resources.assets|28729|_label,Chrysolepsis,金痫
+so|ConditionQuality|resources.assets|28729|_transitionsOut[0].text,"Only [q=Fascination] Fascination: no longer Chrysoleptic,入迷只剩 [q=Fascination]:不再金痫,只是迷金。世界如今看来多么黯淡。
+so|ConditionQuality|resources.assets|28729|_transitionsOut[1].text,"Only [q=Fascination] Fascination - I'm no longer Chrysoleptic,入迷只剩 [q=Fascination]——我不再金痫,只是恋金。
 so|ConditionQuality|resources.assets|28730|_customEntryMessage,"[q=Fascination] Fascination: Chrysophoria, the first stage of a kind of delirium...",[q=Fascination] 入迷:迷金症——某种谵妄的第一阶段……
 so|ConditionQuality|resources.assets|28730|_customExitMessage,"At [q=Fascination] Fascination, my Chrysophoria has faded.","当入迷为 [q=Fascination] 时,我的迷金症已然消退。"
 so|ConditionQuality|resources.assets|28730|_description,"1-3 Fascination: ""Gold SPILLS through the CRACKS.""
@@ -4226,7 +4226,7 @@ Current Fascination: [q=fascination]. Penalties at 4+...","1-3 点入迷:「黄�
 当前入迷:[q=fascination]。4 点以上便有惩罚……"
 so|ConditionQuality|resources.assets|28730|_label,Chrysophoria,迷金症
 so|ConditionQuality|resources.assets|28730|_transitionsOut[0].text,"[q=Fascination] Fascination is enough to tip me over from Chrysophoria to Chrysolagnia, where the world grows more golden. I rather like it.","[q=Fascination] 入迷足以把我从迷金症倾覆入恋金癖——彼时,世界变得更加金光粲然。我倒颇为中意。"
-so|ConditionQuality|resources.assets|28730|_transitionsOut[1].text,"My Fascination has increased to [q=Fascination], making me, technically, Chrysoleptic. The third stage of a process which... is bad... for some reason? Why?","我的入迷已增至 [q=Fascination],严格来说,这使我陷入金幻。这是某个过程的第三阶段,这个过程……不知为何……很糟糕?为什么?"
+so|ConditionQuality|resources.assets|28730|_transitionsOut[1].text,"My Fascination has increased to [q=Fascination],我的入迷已增至 [q=Fascination],严格来说,这使我陷入金痫。这是某个过程的第三阶段,这个过程……不知为何……很糟糕?为什么?
 so|ConditionQuality|resources.assets|28731|_description,"This is how it ends.
 
 Current Fascination: [q=fascination]","一切就是这样结束的。
@@ -4561,7 +4561,7 @@ This is not a positive ending.","「群星不过是针孔。太阳是一道伤�
 斯宾塞残余的部分已向光芒投降。也许他会渡过大海,前往喜乐贸易的煌煌光辉。也许他会干枯成破布,像风筝一般拍打着升入太阳。无论他那空空的躯壳接下来会做什么,那都不再是我们的故事。
 
 这不是一个好结局。"
-so|Ending|resources.assets|28759|_label,CHRYSOCLASM,碎金
+so|Ending|resources.assets|28759|_label,CHRYSOCLASM,崩解于金色
 so|Ending|resources.assets|28761|_description,"Spencer's body - scarred and fragile flesh, gnawed and hollowed, sustained by the pulse of his brazen internal interloper - Spencer's body has failed. It's astonishing that it lasted this long.
 
 Spencer is dead.
@@ -4732,7 +4732,7 @@ The Names of the [[Hours]], are their major servants, or aspects, or emanations.
 [[漫宿]]的灵体常常喜欢对轻信的凡人自称尊名。谁会去计较呢？"
 so|Footnote|resources.assets|28380|label,Name,尊名
 so|Footnote|resources.assets|28382|Choices[0].description,"My Outfits protect me. Not from a bullet, but from subtler dangers. Like embarrassment, or possession.",我的行头保护我。不是挡住子弹，而是挡住更微妙的东西。比如窘迫，比如被占据。
-so|Footnote|resources.assets|28382|Choices[0].label,Armour,甲胄
+so|Footnote|resources.assets|28382|Choices[0].label,Armour,盔甲
 so|Footnote|resources.assets|28382|Choices[1].description,My Outfits exalt me and delight others.,我的行头使我受到尊崇，也取悦他人。
 so|Footnote|resources.assets|28382|Choices[1].label,Glamour,魅力
 so|Footnote|resources.assets|28382|Choices[2].description,"I change my clothes less frequently than I change my skin, more frequently than I change my mind.",我换衣服不如换皮勤快，但比换主意勤快。
@@ -5072,7 +5072,9 @@ so|Footnote|resources.assets|28426|label,Germany Soviet Zone,德国苏占区
 so|Footnote|resources.assets|28427|description,"The gift the Stars brought the [[Ministries]]. Something like [[Lantern]], but not.","群星赠予[[联盟]]的礼物。有几分像[[灯]],却又不尽相同。"
 so|Footnote|resources.assets|28428|description,"Those [[Hours]] who were born into the world as mortals, before they begain their long fierce rise to become the engines of [[Eternity]]'s encroachment.","那些以凡人之躯降生于世的[[司辰]],在开启漫长而炽烈的攀升、成为[[永恒]]侵蚀之引擎之前,曾是血肉之躯。"
 so|Footnote|resources.assets|28428|label,Gods-who-were-flesh,肉源之神
-so|Footnote|resources.assets|28429|description,"Not quite two hundred square miles forests, mountains, a single small but charming lake: a stew of Austrians, Hungarians, Burgenland Croats, and unclassifiables from the Bounds. The Counts of Graustark kept their own laws and their own Landtag beneath the shadow of the Habsburg eagle-wings. Even in the twenties, when the Republic abolished the nobility, the changes didn't touch this corner of Austria. That won't last long under the Soviets, but for now, the place is still not far out of the 1880s.
+so|Footnote|resources.assets|28429|description,"Not quite two hundred square miles forests,不到两百平方英里——森林、山峦、一座小巧迷人的湖:奥地利人、匈牙利人、布尔根兰的克罗地亚人,还有来自边境的无法归类者,一锅杂烩。格劳斯塔克的伯爵们,在哈布斯堡鹰翼的阴影下,守着自家的法律,守着自家的邦议会。即使在二十年代共和国废除贵族之时,变革也未曾触及奥地利的这一隅。在苏联人治下,这光景不会长久,但就眼下而言,此地仍未远离 1880 年代。
+
+而自始至终,达格玛·冯·纳格尔斯堡都在她小小的城堡里,行着小小的宫廷。当地人耸耸肩说:<i>「伯爵夫人保养得不错」</i>。
 
 And through all that time, Dagmar von Nagelsburg has held tiny court in her tiny castle. <i>'Die Gräfin hat sich gut gehalten'</i> the locals say shruggingly.","不到两百平方英里——森林、山峦、一座小巧迷人的湖:奥地利人、匈牙利人、布尔根兰的克罗地亚人,还有来自边界之地的无法归类者,一锅杂烩。格劳斯塔克的伯爵们,在哈布斯堡鹰翼的阴影下,守着自家的法律,守着自家的邦议会。即使在二十年代共和国废除贵族之时,变革也未曾触及奥地利的这一隅。在苏联人治下,这光景不会长久,但就眼下而言,此地仍未远离 1880 年代。
 
@@ -5177,7 +5179,7 @@ so|Footnote|resources.assets|28442|Choices[1].description,"They're wrong, basica
 so|Footnote|resources.assets|28442|Choices[1].label,Distinct,有别
 so|Footnote|resources.assets|28442|Choices[2].description,They certainly do.,他们确实如此认为。
 so|Footnote|resources.assets|28442|Choices[2].label,Yes,是的
-so|Footnote|resources.assets|28442|description,The debatable space at the edge of the waking world. One of the concerns of the [[Duties]]. Some authorities identify the Marches with the Bounds between the [[Wake]] and the [[Mansus]]. [[Legion]],"醒世边缘那片悬而未决的空间。[[职司]]所关切的事务之一。有权威人士认为,边地与[[醒世]]和[[漫宿]]之间的边界之地是同一处。[[军团]]"
+so|Footnote|resources.assets|28442|description,The debatable space at the edge of the waking world. One of the concerns of the [[Duties]]. Some authorities identify the Marches with the Bounds between the [[Wake]] and the [[Mansus]]. [[Legion]],醒世边缘那片悬而未决的空间。[[职司]]所关切的事务之一。有权威人士认为,边境与[[醒世]]和[[漫宿]]之间的边界之地是同一处。[[军团]]
 so|Footnote|resources.assets|28442|label,Marches,边地
 so|Footnote|resources.assets|28443|Choices[0].description,The Church's version is much safer than the original. They were very clear about that in the seminary.,"教会的版本比原版安全得多。神学院里,他们对此讲得非常明白。"
 so|Footnote|resources.assets|28443|Choices[1].description,"""What is within, without; what is without, within.""",「内即是外;外即是内。」
@@ -5360,7 +5362,11 @@ so|Footnote|resources.assets|28490|Choices[0].label,Acute,敏锐
 so|Footnote|resources.assets|28490|Choices[1].description,He illuminates -,他照明——
 so|Footnote|resources.assets|28490|Choices[1].label,Bright,明亮
 so|Footnote|resources.assets|28490|Choices[2].description,He is not compassionate -,他无悲悯——
-so|Footnote|resources.assets|28490|description,"<i>who navigates;
+so|Footnote|resources.assets|28490|description,"<i>who navigates;,<i>他引航；
+他照明；
+他无悲悯。</i>
+
+他本是[[除名]]的[[司辰]]，曾为甘愿者与不甘愿者照亮前路。他一度被称为「瞳中之门」。「看哪，我站在门外；虽不叩门，却正是在此，我方可被听见。」
 who illuminates;
 who is not compassionate</i>
 
@@ -5542,7 +5548,7 @@ I wrote this under the name 'Meredith Lux', but here is it under the name 'Spenc
 so|Item|resources.assets|28812|_label,THE BLOOD IN THE BELFRY,《钟楼滴血》
 so|Item|resources.assets|28813|_description,"An unwise play I wrote in London in the twenties. That was the first time I ever ran across the [[Bureau]]. They shut down the production on opening night and pulped every copy.... or, it turns out, almost every copy.",二十年代我在伦敦写的一部不智之作。那是我头一回遇上[[防剿局]]。他们首演之夜就叫停了演出，把每一册存本都化成了纸浆……或者说，如后来所见的，几乎每一册。
 so|Item|resources.assets|28813|_label,The Pilgrim Rose,朝圣玫瑰
-so|Item|resources.assets|28814|_description,FNORD,（占位）
+so|Item|resources.assets|28814|_description,FNORD,FNORD
 so|Item|resources.assets|28814|_label,The King Stag (Read),《鹿王》（已读）
 so|Item|resources.assets|28815|_label,The King Stag (Unread),《鹿王》（未读）
 so|Item|resources.assets|28816|_description,"A leaflet printed in dramatic white text on black background, showing the upcoming route of a travelling carnival.",一张传单，黑底白字，印得醒目张扬，展示着一个巡游嘉年华接下来的行程路线。
@@ -5867,12 +5873,14 @@ Recall <link=""mypaststtheophrastuseve"">My Past: St Theophrastus' Eve, Smithfie
 
 追忆 <link=""mypaststtheophrastuseve"">我的过去：圣泰奥弗拉斯托斯节前夜，史密斯菲尔德，1927年</link>"
 so|Item|resources.assets|28916|_label,"Memory: St Theophrastus' Eve, Smithfield, 1927",回忆：圣泰奥弗拉斯托斯节前夜，史密斯菲尔德，1927年
-so|Item|resources.assets|28917|_description,"These were the years I drifted fleshless through the Bounds, thin as rain, empty as a soap-bubble...
+so|Item|resources.assets|28917|_description,"These were the years I drifted fleshless through the Bounds,那些年月里，我无形无体地漂过边境，瘦如雨丝，空如肥皂泡……
+
+追忆 <link="mypastviaticum">我的过去：临终圣餐，边境，1942-1946年（？）</link>
 
 Recall <link=""mypastviaticum"">My Past: Viaticum, the Bounds, 1942-1946 (?)</link>","那些年月里，我无形无体地漂过边界之地，瘦如雨丝，空如肥皂泡……
 
 追忆 <link=""mypastviaticum"">我的过去：临终圣餐，边界之地，1942-1946年（？）</link>"
-so|Item|resources.assets|28917|_label,"Memory: Viaticum, the Bounds, 1942-1946 (?)",回忆：临终圣餐，边界之地，1942-1946年（？）
+so|Item|resources.assets|28917|_label,"Memory: Viaticum,回忆：临终圣餐，边境，1942-1946年（？）
 so|Item|resources.assets|28918|_description,"A hand-picked bunch, loosely tied with string.",一束手摘的玫瑰，用细绳松松扎着。
 so|Item|resources.assets|28918|_label,Red Roses,红玫瑰
 so|Item|resources.assets|28919|_description,A tiny cup of fierce black coffee beneath a whipped cream quiff.,一小杯浓烈的黑咖啡，顶着一撮翘起的奶油尖。
@@ -5884,7 +5892,7 @@ so|Item|resources.assets|28921|_label,Floating Island,漂浮岛
 so|Item|resources.assets|28922|_description,"A little jar of honey. Amber in some lights, golden in others. [Unlike many Refreshments, honey survives travel.]",一小罐蜂蜜。在某些光线下呈琥珀色，在另一些光线下呈金色。[与许多茶点不同，蜂蜜经得起旅行。]
 so|Item|resources.assets|28922|_label,Honey,蜂蜜
 so|Item|resources.assets|28923|_description,"A wonderfully versatile dish favoured for breakfast by the sons of the lark, for supper by the daughters of the owl, and as a cold midnight snack by the children of the crow.",一种妙不可言的百搭菜肴：百灵鸟的儿子们爱用它作早餐，猫头鹰的女儿们爱用它作晚餐，乌鸦的孩子们则把它当作深夜的冷食。
-so|Item|resources.assets|28923|_label,Kedgeree,基格里烩饭
+so|Item|resources.assets|28923|_label,Kedgeree,英式鱼蛋烩饭
 so|Item|resources.assets|28924|_description,British manufacture. 'French' means it's cut with chicory - a reference to the coffee shortages of Napoleon's time. ,英国制造。“法式”意味着它掺了菊苣——这是对拿破仑时代咖啡短缺的呼应。
 so|Item|resources.assets|28924|_label,Lyons French Coffee,莱昂斯法式咖啡
 so|Item|resources.assets|28925|_description,A sweet dish named (of course) to celebrate Offenbach's 1865 operetta <i>La belle Hélène</i>.,一道甜点，自然是为庆祝奥芬巴赫 1865 年的轻歌剧<i>美丽的海伦</i>而命名。
@@ -5962,8 +5970,8 @@ so|Item|resources.assets|28956|_description,"A horrible tangle of potential Worm
 so|Item|resources.assets|28956|_label,Herpetic Implex,疱疹状缠结
 so|Item|resources.assets|28957|_description,"A bright token inhabited by a sharp spirit. Never allow anyone to look directly at it, or its power will instantly depart.",一件明亮的器物，内住着一位锐利的精灵。绝不可让任何人直视它，否则它的力量会立刻离去。
 so|Item|resources.assets|28957|_label,Hint-Haunted Glass,暗示萦绕的玻璃
-so|Item|resources.assets|28958|_description,The Church's older traditions have their roots in the Persian fire-cults.,教会较古老的传统，根植于波斯的拜火教派。
-so|Item|resources.assets|28958|_label,Iasnate Eye,伊亚斯纳特之眼
+so|Item|resources.assets|28958|_description,The Church's older traditions have their roots in the Persian fire-cults.,教会更为古老的诸传统，可追溯至波斯的火神崇拜。
+so|Item|resources.assets|28958|_label,Iasnate Eye,亚斯纳特之眼
 so|Item|resources.assets|28959|_description,No dawn knows only a single colour. No sky knows only a single dawn.,没有哪个黎明只识得一种颜色。没有哪片天空只识得一个黎明。
 so|Item|resources.assets|28959|_label,Ichor Auroral,曙光神血
 so|Item|resources.assets|28960|_description,A dark and syrupy liquor favoured in unnamed forest villages.,一种深色黏稠的烈酒，在无名的林间村落里备受青睐。
@@ -5998,7 +6006,7 @@ so|Item|resources.assets|28974|_description,"The Watchman's vigilance is invoked
 so|Item|resources.assets|28974|_label,Vigilant Eye,警觉之眼
 so|Item|resources.assets|28975|_description,"Use this luminous token to unveil the hidden, or purify and exalt the tainted.","用这枚发光的凭证,揭开被隐匿之物,或涤净并超拔被玷污之物。"
 so|Item|resources.assets|28975|_label,Wakeful Eye,警醒之眼
-so|Item|resources.assets|28976|_description,A sigil deployed by  travelling healers and Bounds-wanderers.,行脚医者与边界漫游者所施用的符印。
+so|Item|resources.assets|28976|_description,A sigil deployed by  travelling healers and Bounds-wanderers.,行脚医者与边境漫游者所施用的符印。
 so|Item|resources.assets|28976|_label,Wayfarer's Sign,旅人之印
 so|Item|resources.assets|28977|_description,A trace of something that died tainted and returned corrupt.,某种污秽而亡、腐坏而归之物留下的痕迹。
 so|Item|resources.assets|28977|_label,Widow's Wound,遗孀之伤
@@ -6541,7 +6549,7 @@ so|MusicTrackLibrary|resources.assets|28304|tracks[15],The Incorporates,集团
 so|MusicTrackLibrary|resources.assets|28304|tracks[16],Vessella's Italian Band,韦塞拉的意大利乐队
 so|MusicTrackLibrary|resources.assets|28304|tracks[17],antibes:chezFelix,antibes:chezFelix
 so|MusicTrackLibrary|resources.assets|28304|tracks[18],Sergei Rachmaninoff,谢尔盖·拉赫玛尼诺夫
-so|MusicTrackLibrary|resources.assets|28304|tracks[19],Golliwoggs Cake-Walk,《黑娃娃步态舞》
+so|MusicTrackLibrary|resources.assets|28304|tracks[19],Golliwoggs Cake-Walk,《木偶的步态舞》
 so|MusicTrackLibrary|resources.assets|28304|tracks[1],sanitarium.l2,sanitarium.l2
 so|MusicTrackLibrary|resources.assets|28304|tracks[20],Hans Kindler - Rosario Bourdon,汉斯·金德勒－罗萨里奥·布尔东
 so|MusicTrackLibrary|resources.assets|28304|tracks[21],Le Cygne (The Swan),《天鹅》
@@ -6690,7 +6698,7 @@ so|Recipe|resources.assets|28508|_label,Moth Memory,蛾之回忆
 so|Recipe|resources.assets|28509|_advice,"What moves, hungers.",凡运动者，皆会饥饿。
 so|Recipe|resources.assets|28509|_description,Use a Grail Influence to subvert two Heart Influences into a Grail Memory.,以一份杯之影响为催化，将两份心之影响转化为一份杯之回忆。
 so|Recipe|resources.assets|28509|_label,Grail Memory,杯之回忆
-so|Recipe|resources.assets|28510|_advice,Pragmatism collapses abstraction.,实用主义会压垮抽象。
+so|Recipe|resources.assets|28510|_advice,Pragmatism collapses abstraction.,务实压垮抽象。
 so|Recipe|resources.assets|28510|_description,Use a Forge Influence to subvert two Lantern Influences into a Forge Memory.,以一份铸之影响为催化，将两份灯之影响转化为一份铸之回忆。
 so|Recipe|resources.assets|28510|_label,Forge Memory,铸之回忆
 so|Recipe|resources.assets|28511|_advice,"The Glory is a question, and the Moth always answers, Yes.",辉光是一个问题，而蛾总会回答：「是。」
@@ -6721,13 +6729,13 @@ so|Recipe|resources.assets|28521|_description,"With Edge influence, provoke a gh
 ",用刃之影响激发一次可怕的领悟，从而削减入迷。按格里斯特伍德一贯骇人的标准，这已经是相当温和的仪式，但仍会至少激起少许恐惧。
 so|Recipe|resources.assets|28521|_label,Gristwood's Anagnorisis,格里斯特伍德的识认
 so|Recipe|resources.assets|28522|_description,"A root-rite performed to protect against fascination. Traditionally, one digs beneath the roots of a yew with one's fingernails, but Moth is forgiving. Or at least distractible.",一种用于抵御入迷的根系仪式。传统做法是用指甲在紫杉根下挖掘，不过蛾很宽容。或者至少很容易分心。
-so|Recipe|resources.assets|28522|_label,Ivinek,伊维内克
+so|Recipe|resources.assets|28522|_label,Ivinek,魅爪仪式
 so|Recipe|resources.assets|28523|_description,"The Ordo Limiae, later called the Obliviates, often used this rite to cover their tracks, despite its inherent risk of Fascination.",利米亚教团——后来被称作遗忘者——常用这一仪式掩盖行迹，尽管它天然带有引发入迷的风险。
 so|Recipe|resources.assets|28523|_label,Limian Discipline,利米亚典仪
 so|Recipe|resources.assets|28524|_description,"Use Lantern influence to reduce Dread. This rite invokes the Madrugad - or her departing remnants, at least - so it'll always increase Fascination to some degree.",用灯之影响削减恐惧。此仪式祈请昕旦——或者至少是祂正在消散的残余——因此总会在某种程度上增加入迷。
 so|Recipe|resources.assets|28524|_label,Operation of the Ascending Sun,旭日升腾行动
 so|Recipe|resources.assets|28525|_advice,The walls of the House are the size of starlight.,居屋的墙壁，尺度与星光相同。
-so|Recipe|resources.assets|28525|_description,Move through the dark angles and near superficies of the Bounds.,沿着边界之地的黑暗角度与近邻表面移动。
+so|Recipe|resources.assets|28525|_description,Move through the dark angles and near superficies of the Bounds.,沿着边境的黑暗角度与近邻表面移动。
 so|Recipe|resources.assets|28525|_label,Starlit Steps,星光阶梯
 so|Recipe|resources.assets|28526|_description,"Thirza Blake, Seventh Librarian of Hush House, used this bracingly practical rite to ease her joint pains and the stomach cramps caused by her ceaseless enthusiasm for apples.",噤声居屋第七任馆长瑟莎·布莱克用这套极为实用、令人精神一振的仪式缓解关节疼痛，以及她因永不停歇地热爱苹果而造成的胃痉挛。
 so|Recipe|resources.assets|28526|_label,Thirza's Renewal,瑟莎之复新
@@ -7028,7 +7036,7 @@ so|StateSO|resources.assets|28073|_description,I declined. Not my thing.,我拒�
 so|StateSO|resources.assets|28075|_description,"I need to read the scenario,  and satisfy a sceptical Monica that I can do this.","我需要读一读剧本,再让满腹狐疑的莫妮卡相信,我能胜任。"
 so|StateSO|resources.assets|28075|_displayName,Hasty Preparations,仓促准备
 so|StateSO|resources.assets|28078|_description,Vincent left the Sanitarium with me.,文森特与我一同离开了疗养院。
-so|StateSO|resources.assets|28078|_displayName,Rejoined,重聚
+so|StateSO|resources.assets|28078|_displayName,Rejoined,归队
 so|StateSO|resources.assets|28081|_description,I'm there.,我在场。
 so|StateSO|resources.assets|28081|_displayName,Present,在场
 so|StateSO|resources.assets|28086|_description,Sinombre's asked me for help.,西诺姆布尔已向我开口求助。
@@ -7351,7 +7359,7 @@ so|TextMeshProUGUI|level12|21152|m_text,"<i>'Our company it was that shattered i
 ——出自《牡鹿之门闲谈》"
 so|TextMeshProUGUI|level12|21159|m_text,ESC,ESC
 so|TextMeshProUGUI|level12|21164|m_text,0.8s,0.8 秒
-so|TextMeshProUGUI|level12|21166|m_text,Zophistication +22,精致术 +22
+so|TextMeshProUGUI|level12|21166|m_text,Zophistication +22,贼世故 +22
 so|TextMeshProUGUI|level12|21170|m_text,"Médecin-lieutenant, Légion du Seuil (libéré)",门关军团军医中尉(已退役)
 so|TextMeshProUGUI|level12|21172|m_text,Cork,科克
 so|TextMeshProUGUI|level12|21182|m_text,"Click to 
@@ -7493,7 +7501,7 @@ so|TextMeshProUGUI|level12|21738|m_text,Venues,场地
 so|TextMeshProUGUI|level12|21750|m_text,"French
 Republic","法兰西
 共和国"
-so|TextMeshProUGUI|level12|21763|m_text,Zophistication -22,精致 -22
+so|TextMeshProUGUI|level12|21763|m_text,Zophistication -22,贼世故 -22
 so|TextMeshProUGUI|level12|21764|m_text,Master volume,主音量
 so|TextMeshProUGUI|level12|21768|m_text,"<sprite=""currency"" name=""currency dollar"">","<sprite=""currency"" name=""currency dollar"">"
 so|TextMeshProUGUI|level12|21769|m_text,"Hive
@@ -7531,7 +7539,7 @@ so|TextMeshProUGUI|level12|21921|m_text,Version 2025.12.C.3,Version 2025.12.C.3
 so|TextMeshProUGUI|level12|21925|m_text,Ireland,爱尔兰
 so|TextMeshProUGUI|level12|21927|m_text,Pay with,用…支付
 so|TextMeshProUGUI|level12|21928|m_text,Main menu,主菜单
-so|TextMeshProUGUI|level12|21934|m_text,Mr Chi's Splendid Emporium,池先生的华丽商行
+so|TextMeshProUGUI|level12|21934|m_text,Mr Chi's Splendid Emporium,齐先生的骄盛商行
 so|TextMeshProUGUI|level12|21936|m_text,Currently Wearing,当前穿着
 so|TextMeshProUGUI|level12|21937|m_text,"29/01/2013
 <size=75%>23:59</size>","29/01/2013
@@ -7776,13 +7784,13 @@ so|TextMeshProUGUI|resources.assets|31238|m_text,“I am fond of pigs. Dogs look
 so|TextMeshProUGUI|resources.assets|31419|m_text,Report a bug: sending...,报告缺陷：发送中……
 so|TextMeshProUGUI|resources.assets|31425|m_text,<id>,<id>
 so|TextMeshProUGUI|resources.assets|31545|m_text,Uploading log...,上传日志中……
-so|TextMeshProUGUI|resources.assets|31642|m_text,Sophistication +1,精致 +1
+so|TextMeshProUGUI|resources.assets|31642|m_text,Sophistication +1,贼世故 +1
 so|TextMeshProUGUI|resources.assets|31681|m_text,SkillName,SkillName
 so|TextMeshProUGUI|resources.assets|32069|m_text,use item,使用物品
 so|TextMeshProUGUI|resources.assets|32104|m_text,Zurrently Active,当前激活
 so|TextMeshProUGUI|resources.assets|32134|m_text,x,x
 so|TextMeshProUGUI|resources.assets|32186|m_text,"<sprite=""SmolSkillImages"" name=""Skolekosophy""><space=-1.5em><sprite=""SmolSkillImages"" name=""outline"" color=#D24B00FF> Skolekosophy <color=#808080>[68%] → </color>[88%]","<sprite=""SmolSkillImages"" name=""Skolekosophy""><space=-1.5em><sprite=""SmolSkillImages"" name=""outline"" color=#D24B00FF>蠕虫学 <color=#808080>[68%] → </color>[88%]"
-so|TextMeshProUGUI|resources.assets|32314|m_text,Xose Xinfluence,何塞的影响
+so|TextMeshProUGUI|resources.assets|32314|m_text,Xose Xinfluence,可塞景响
 so|TextMeshProUGUI|resources.assets|32453|m_text,Rescue (Aspect pool),营救（性相池）
 so|TextMeshProUGUI|resources.assets|32660|m_text,Close,关闭
 so|TextMeshProUGUI|resources.assets|32714|m_text,New Text,New Text
@@ -7824,7 +7832,7 @@ so|TextMeshProUGUI|resources.assets|37907|m_text,Screenshot:,截图：
 so|TextMeshProUGUI|resources.assets|37918|m_text,<cspace=1.8px>CONTINUE</cspace>,<cspace=1.8px>继续</cspace>
 so|TextMeshProUGUI|resources.assets|38053|m_text,Use which item?,使用哪件物品？
 so|TextMeshProUGUI|resources.assets|38207|m_text,Tell us your troubles,向我们倾诉你的烦恼
-so|TextMeshProUGUI|resources.assets|38238|m_text,"Zophistication +10 / 15, Xegerdemain +15 / 90",精致 +10 / 15，手法 +15 / 90
+so|TextMeshProUGUI|resources.assets|38238|m_text,"Zophistication +10 / 15,贼世故 +10 / 15，小手法 +15 / 90
 so|TextMeshProUGUI|resources.assets|38488|m_text,Use,使用
 so|TextMeshProUGUI|resources.assets|38510|m_text,Focus,专注
 so|TextMeshProUGUI|resources.assets|38715|m_text,Report a bug,报告缺陷

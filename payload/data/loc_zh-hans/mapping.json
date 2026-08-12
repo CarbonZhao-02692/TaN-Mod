@@ -77,7 +77,7 @@
  },
  {
   "text": "\"That sweet city, with her screaming choirs\" (Crispin)",
-  "translation": "“那座甜蜜的城市，以及她尖叫的合唱团。”（克里斯宾）"
+  "translation": "「那座甜蜜的城市，连同她尖叫的唱诗班。」（埃德蒙·克里斯平）"
  },
  {
   "text": "\"The Stars are pinpricks. The Sun is a wound. Behind them, above them, Eternity.\" - Sereno Blackwood\n\nWhat's left of Spencer has surrendered to the light. Perhaps he'll cross the Sea to the great radiances of joyous commerce. Perhaps he'll dry into rags and rise flapping like a kite into the Sun. Whatever his hollow flesh does next, it won't be our story.\n\nThis is not a positive ending.",
@@ -1245,7 +1245,7 @@
  },
  {
   "text": "<i>who navigates;\nwho illuminates;\nwho is not compassionate</i>\n\nThe [[Uncounted]] [[Hour]] who once lit the way for the willing and unwilling. He has been called the Door in the Eye. \"Behold, I stand at the door, and though I do not knock, it is here I may be heard.\"",
-  "translation": "<i>他引航；\n他照明；\n他无悲悯。</i>\n\n他本是[[除名]]的[[司辰]]，曾为甘愿者与不甘愿者照亮前路。他一度被称为「瞳中之门」。「看哪，我站在门前；虽不叩门，却正是在此，我方可被听见。」"
+  "translation": "<i>他引航；\n他照明；\n他无悲悯。</i>\n\n他本是[[除名]]的[[司辰]]，曾为甘愿者与不甘愿者照亮前路。他一度被称为「瞳中之门」。「看哪，我站在门外；虽不叩门，却正是在此，我方可被听见。」"
  },
  {
   "text": "<i>who remakes with fire;\nwho ends what will not change;\nwho ends all nights</i>",
@@ -2021,7 +2021,7 @@
  },
  {
   "text": "A sigil deployed by  travelling healers and Bounds-wanderers.",
-  "translation": "行脚医者与边界漫游者所施用的符印。"
+  "translation": "行脚医者与边境漫游者所施用的符印。"
  },
  {
   "text": "A sign of the authority granted to the Names of the Church-sanctioned Hours, and passed on by Names to the officers of the Church.",
@@ -3229,7 +3229,7 @@
  },
  {
   "text": "Armour",
-  "translation": "甲胄"
+  "translation": "盔甲"
  },
  {
   "text": "Arrange a diversion. Someone here might have history with the <i>poinçonneuse</i> - an enemy, or a friend.",
@@ -3645,7 +3645,7 @@
  },
  {
   "text": "Behold, I stand at the door and knock",
-  "translation": "看啊，我站在门前开启"
+  "translation": "看哪，我站在门外叩门。"
  },
  {
   "text": "Belgium",
@@ -4157,7 +4157,7 @@
  },
  {
   "text": "CHRYSOCLASM",
-  "translation": "碎金"
+  "translation": "崩解于金色"
  },
  {
   "text": "COMPLETE",
@@ -4417,7 +4417,7 @@
  },
  {
   "text": "Chrysolepsis",
-  "translation": "幻金症"
+  "translation": "金痫"
  },
  {
   "text": "Chrysophoria",
@@ -6124,28 +6124,24 @@
   "translation": "FINIS SOMNIUM EST UNDE NON EVIGILAMUS\n结局是一场不会醒来的梦。（德恩迪克）"
  },
  {
-  "text": "FNORD",
-  "translation": "（占位）"
- },
- {
   "text": "FNORD Enclosure! You're not allowed.",
-  "translation": "（占位）禁地！你不能进去。"
+  "translation": "FNORD 禁地！你不能进去。"
  },
  {
   "text": "FNORD hi surprise",
-  "translation": "（占位）嗨，惊喜"
+  "translation": "FNORD 嗨，惊喜"
  },
  {
   "text": "FNORD later we might add choices, or even give Nightmares on first read.",
-  "translation": "（占位）日后我们或许会添加选项,甚至在首次阅读时带来噩梦。"
+  "translation": "FNORD 日后我们或许会添加选项,甚至在首次阅读时带来噩梦。"
  },
  {
   "text": "FNORD revisit the outline.",
-  "translation": "（占位）回头再看大纲。"
+  "translation": "FNORD 回头再看大纲。"
  },
  {
   "text": "FNORD you're that nun!",
-  "translation": "（占位）你就是那个修女！"
+  "translation": "FNORD 你就是那个修女！"
  },
  {
   "text": "FX",
@@ -6869,7 +6865,7 @@
  },
  {
   "text": "Golliwoggs Cake-Walk",
-  "translation": "《黑娃娃步态舞》"
+  "translation": "《木偶的步态舞》"
  },
  {
   "text": "Good afternoon. You are looking for something?",
@@ -9501,7 +9497,7 @@
  },
  {
   "text": "Iasnate Eye",
-  "translation": "伊亚斯纳特之眼"
+  "translation": "亚斯纳特之眼"
  },
  {
   "text": "Ice\nCrowns",
@@ -10529,7 +10525,7 @@
  },
  {
   "text": "Ivinek",
-  "translation": "伊维内克"
+  "translation": "魅爪仪式"
  },
  {
   "text": "J. Willgoose, Esq.",
@@ -10721,7 +10717,7 @@
  },
  {
   "text": "Kedgeree",
-  "translation": "基格里烩饭"
+  "translation": "英式鱼蛋烩饭"
  },
  {
   "text": "Keep it secret. I am a woman of importance. No-one reputable will believe you.",
@@ -11845,7 +11841,7 @@
  },
  {
   "text": "Memory: Viaticum, the Bounds, 1942-1946 (?)",
-  "translation": "回忆：临终圣餐，边界之地，1942-1946年（？）"
+  "translation": "回忆：临终圣餐，边境，1942-1946年（？）"
  },
  {
   "text": "Meniscate",
@@ -12145,7 +12141,7 @@
  },
  {
   "text": "Move through the dark angles and near superficies of the Bounds.",
-  "translation": "沿着边界之地的黑暗角度与近邻表面移动。"
+  "translation": "沿着边境的黑暗角度与近邻表面移动。"
  },
  {
   "text": "Moving Around",
@@ -12165,7 +12161,7 @@
  },
  {
   "text": "Mr Chi's Splendid Emporium",
-  "translation": "池先生的华丽商行"
+  "translation": "齐先生的骄盛商行"
  },
  {
   "text": "Mr Dupont",
@@ -12261,11 +12257,11 @@
  },
  {
   "text": "My Fascination has increased to [q=Fascination], making me, technically, Chrysoleptic. The third stage of a process which... is bad... for some reason? Why?",
-  "translation": "我的入迷已增至 [q=Fascination],严格来说,这使我陷入金幻。这是某个过程的第三阶段,这个过程……不知为何……很糟糕?为什么?"
+  "translation": "我的入迷已增至 [q=Fascination],严格来说,这使我陷入金痫。这是某个过程的第三阶段,这个过程……不知为何……很糟糕?为什么?"
  },
  {
   "text": "My Fascination has increased to [q=Fascination]. I'm Chrysoleptic now.",
-  "translation": "我的入迷已增至 [q=Fascination]。我现在陷入金幻了。"
+  "translation": "我的入迷已增至 [q=Fascination]。我现在陷入金痫了。"
  },
  {
   "text": "My Outfits exalt me and delight others.",
@@ -13021,7 +13017,7 @@
  },
  {
   "text": "Not quite two hundred square miles forests, mountains, a single small but charming lake: a stew of Austrians, Hungarians, Burgenland Croats, and unclassifiables from the Bounds. The Counts of Graustark kept their own laws and their own Landtag beneath the shadow of the Habsburg eagle-wings. Even in the twenties, when the Republic abolished the nobility, the changes didn't touch this corner of Austria. That won't last long under the Soviets, but for now, the place is still not far out of the 1880s.\n\nAnd through all that time, Dagmar von Nagelsburg has held tiny court in her tiny castle. <i>'Die Gräfin hat sich gut gehalten'</i> the locals say shruggingly.",
-  "translation": "不到两百平方英里——森林、山峦、一座小巧迷人的湖:奥地利人、匈牙利人、布尔根兰的克罗地亚人,还有来自边界之地的无法归类者,一锅杂烩。格劳斯塔克的伯爵们,在哈布斯堡鹰翼的阴影下,守着自家的法律,守着自家的邦议会。即使在二十年代共和国废除贵族之时,变革也未曾触及奥地利的这一隅。在苏联人治下,这光景不会长久,但就眼下而言,此地仍未远离 1880 年代。\n\n而自始至终,达格玛·冯·纳格尔斯堡都在她小小的城堡里,行着小小的宫廷。当地人耸耸肩说:<i>「伯爵夫人保养得不错」</i>。"
+  "translation": "不到两百平方英里——森林、山峦、一座小巧迷人的湖:奥地利人、匈牙利人、布尔根兰的克罗地亚人,还有来自边境的无法归类者,一锅杂烩。格劳斯塔克的伯爵们,在哈布斯堡鹰翼的阴影下,守着自家的法律,守着自家的邦议会。即使在二十年代共和国废除贵族之时,变革也未曾触及奥地利的这一隅。在苏联人治下,这光景不会长久,但就眼下而言,此地仍未远离 1880 年代。\n\n而自始至终,达格玛·冯·纳格尔斯堡都在她小小的城堡里,行着小小的宫廷。当地人耸耸肩说:<i>「伯爵夫人保养得不错」</i>。"
  },
  {
   "text": "Not quite yet.",
@@ -13585,11 +13581,11 @@
  },
  {
   "text": "Only [q=Fascination] Fascination - I'm no longer Chrysoleptic, just Chrysolagnic.",
-  "translation": "入迷只剩 [q=Fascination]——我不再金幻,只是恋金。"
+  "translation": "入迷只剩 [q=Fascination]——我不再金痫,只是恋金。"
  },
  {
   "text": "Only [q=Fascination] Fascination: no longer Chrysoleptic, just Chrysophoric. How dull the world looks now.",
-  "translation": "入迷只剩 [q=Fascination]:不再金幻,只是迷金。世界如今看来多么黯淡。"
+  "translation": "入迷只剩 [q=Fascination]:不再金痫,只是迷金。世界如今看来多么黯淡。"
  },
  {
   "text": "Only [q=Pain] Pain - I'm no longer suffering Agonies, just Injured.",
@@ -14457,7 +14453,7 @@
  },
  {
   "text": "Pragmatism collapses abstraction.",
-  "translation": "实用主义会压垮抽象。"
+  "translation": "务实压垮抽象。"
  },
  {
   "text": "Prague",
@@ -14813,7 +14809,7 @@
  },
  {
   "text": "Rejoined",
-  "translation": "重聚"
+  "translation": "归队"
  },
  {
   "text": "Relax and join in.",
@@ -16189,7 +16185,7 @@
  },
  {
   "text": "Sophistication +1",
-  "translation": "精致 +1"
+  "translation": "贼世故 +1"
  },
  {
   "text": "Sorrow",
@@ -17393,7 +17389,7 @@
  },
  {
   "text": "The Church's older traditions have their roots in the Persian fire-cults.",
-  "translation": "教会较古老的传统，根植于波斯的拜火教派。"
+  "translation": "教会更为古老的诸传统，可追溯至波斯的火神崇拜。"
  },
  {
   "text": "The Church's version is much safer than the original. They were very clear about that in the seminary.",
@@ -18001,7 +17997,7 @@
  },
  {
   "text": "The debatable space at the edge of the waking world. One of the concerns of the [[Duties]]. Some authorities identify the Marches with the Bounds between the [[Wake]] and the [[Mansus]]. [[Legion]]",
-  "translation": "醒世边缘那片悬而未决的空间。[[职司]]所关切的事务之一。有权威人士认为,边地与[[醒世]]和[[漫宿]]之间的边界之地是同一处。[[军团]]"
+  "translation": "醒世边缘那片悬而未决的空间。[[职司]]所关切的事务之一。有权威人士认为,边境与[[醒世]]和[[漫宿]]之间的边界之地是同一处。[[军团]]"
  },
  {
   "text": "The departing water swirls, gurgles, and leaves for the sea.",
@@ -18965,7 +18961,7 @@
  },
  {
   "text": "These were the years I drifted fleshless through the Bounds, thin as rain, empty as a soap-bubble...\n\nRecall <link=\"mypastviaticum\">My Past: Viaticum, the Bounds, 1942-1946 (?)</link>",
-  "translation": "那些年月里，我无形无体地漂过边界之地，瘦如雨丝，空如肥皂泡……\n\n追忆 <link=\"mypastviaticum\">我的过去：临终圣餐，边界之地，1942-1946年（？）</link>"
+  "translation": "那些年月里，我无形无体地漂过边境，瘦如雨丝，空如肥皂泡……\n\n追忆 <link=\"mypastviaticum\">我的过去：临终圣餐，边境，1942-1946年（？）</link>"
  },
  {
   "text": "Thessaloniki",
@@ -21673,7 +21669,7 @@
  },
  {
   "text": "Xose Xinfluence",
-  "translation": "何塞的影响"
+  "translation": "可塞景响"
  },
  {
   "text": "Xs my heart's explained to me: I must find Nina Lagasse.",
@@ -22461,15 +22457,15 @@
  },
  {
   "text": "Zophistication +10 / 15, Xegerdemain +15 / 90",
-  "translation": "精致 +10 / 15，手法 +15 / 90"
+  "translation": "贼世故 +10 / 15，小手法 +15 / 90"
  },
  {
   "text": "Zophistication +22",
-  "translation": "精致术 +22"
+  "translation": "贼世故 +22"
  },
  {
   "text": "Zophistication -22",
-  "translation": "精致 -22"
+  "translation": "贼世故 -22"
  },
  {
   "text": "Zosk +22",
@@ -25090,10 +25086,6 @@
  {
   "text": "vs",
   "translation": "对"
- },
- {
-  "text": "wibble",
-  "translation": "抖动"
  },
  {
   "text": "{0} - Failure",

@@ -450,7 +450,7 @@ Dripping,dripping,other,none,0.5,pending,2026-08-11,规则直译(普通词) 待G
 Perspiring,perspiring,other,none,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Current Dread,当前恐惧,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译当前恐惧 | 规则未覆盖,待人工裁决"
 Commedia del Sole,太阳喜剧,organization,user,1.0,approved,2026-08-11,用户裁决采纳对方语内译太阳喜剧(覆盖原定译太阳喜剧团)
-FNORD,（占位）,meta-word,user,1.0,approved,2026-08-11,"用户采纳其他译者意见:FNORD 为开发者占位标记非实装文本,译为占位符(如「（占位）后续再加选项…」)"
+FNORD,FNORD,meta-word,user,1.0,approved,2026-08-12,"开发者占位标记(非实装文本);用户2026-08-12改裁决:保留原文FNORD(弃原(占位)译法);出现于对话占位行与物品描述(FNORD Enclosure!/hi surprise等6处,修订层rev_20260812_wibble_fnord)"
 Hours,司辰,concept,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(司辰)
 Thunderskin,轰雷之皮,aspect,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(轰雷之皮)
 Watchman's Tree,守夜人之树,location,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(守夜人之树)
@@ -543,3 +543,22 @@ Tide,浪潮,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机
 Seven-Coils,七蟠,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
 Egg Unhatching,逆孵之卵,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
 Sun-in-Splendour,骄阳,character,wiki,1.0,approved,2026-08-12,司辰(光源(已逝));灰机秘史维基+英文wiki定译
+Iasnate Eye,亚斯纳特之眼,item,self,0.95,approved,2026-08-12,"可制作物品(眼形器物,教会波斯火祭传统遗物);词源=阿维斯陀语 yasna(祆教祭仪)+拉丁式-te(置信75%,DDG/Tavily/Exa溯源);规范译名亚斯纳;描述采paratranz人工译[教会更为古老的诸传统,可追溯至波斯的火神崇拜。]"
+Ivinek,魅爪仪式,rite,self,0.95,approved,2026-08-12,"根祭仪式(抵御入迷);词源=布列塔尼语 ivin(指甲/紫杉)+-ek 长爪者;转义 krapinell ivinek=魅惑之爪(1732,Devri 词条);意译定稿魅爪仪式(用户2026-08-12裁决:魅惑之爪+仪式类别,弃音译伊维内克,弃东方古籍风格译法);贴图 rite ivanek(v/n换位斯拉夫姓氏拼写彩蛋);图标=蛾+品红三角形(蛾性相/秘史色)"
+Chrysolepsis,金痫,concept,user,1.0,approved,2026-08-12,"入迷7-9阶;-lepsis=攫取/发作词尾(catalepsy僵住/epilepsy癫痫被神攫住同源),痫=癫痫发作义;用户裁决金痫(弃幻金症/眩金症,避开症癖后缀);四阶链迷金症→恋金癖→金痫→崩解于金色"
+CHRYSOCLASM,崩解于金色,concept,user,1.0,approved,2026-08-12,"入迷10点结局(fascinationEnding,so|Ending);chryso-金+-clasm碎裂(iconoclasm圣像破坏同构,游戏生造词);四阶链终局,病症→事件跃迁(-clasm非病症词尾);用户裁决崩解于金色(弃碎金);结局描述=向光投降渡海"
+Mr Chi,齐先生,character,user,1.0,approved,2026-08-12,"商人NPC(HUD MerchantWindow店主,同列杜邦先生/霍布斯先生;对话actor名Chi!);用户裁决齐先生(弃池——Chi亦可为齐Qí的威妥玛Ch'i去撇号拼写);官方播客Skeleton Songs S4E10标题Mr Chi's Magic Emporium(2026-04-27);店名=齐先生的骄盛商行"
+Splendid,骄盛,other,user,1.0,approved,2026-08-12,"Splendid Emporium 定译骄盛商行(用户裁决,弃华丽/辉煌);Splendid与Sun-in-Splendour(骄阳,司辰定译)同源,骄字呼应骄阳彩蛋"
+Mufti,便装,outfit,self,1.0,approved,2026-08-12,"服装装扮模式(mufti=军队俚语便服civilian clothes,相对uniform制服);Vincent及同伴着装(companion can adopt mufti, patch notes);精灵集 images/mufti/* vs images/uniform/*;无description字段;用户采纳现译便装"
+Xose Xinfluence,可塞景响,other,user,1.0,approved,2026-08-12,"调试菜单测试标签(非叙事文本,DebugMenu簇:ZURRENTLY ACTIVE/Skolekosophy/ZOROMACHISTRY/PigTok同族dev humor);Xosé=加利西亚语José(/ʃosɛ/)戏谑化音译可塞(弃何塞);Xinfluence=influence的X化生造→景响(影响谐音怪变,体现戏谑感);用户裁决2026-08-12"
+Kedgeree,英式鱼蛋烩饭,item,user,1.0,approved,2026-08-12,"Refreshments茶点补给类(与蜂蜜/维也纳咖啡/阿萨姆茶并列);英式早餐菜(烟熏鱼+蛋+米饭+咖喱);用户裁决意译英式鱼蛋烩饭(弃音译基格里/基杰里);变体mackerel.kedgeree;描述=云雀之子/猫头鹰之女/乌鸦之子鸟隐喻"
+Rejoined,归队,state,user,1.0,approved,2026-08-12,"StateSO任务状态机displayName(150+State_系列之一);Vincent同伴归队语境(描述:文森特与我一同离开了疗养院);用户裁决归队(弃重聚)"
+BitField,位字段,technical,engine,1.0,approved,2026-08-12,"Unity引擎内置渲染调试UI(DebugUI+BitField,UnityEngine.Rendering)字段标签,非游戏内容;开发者调试面板可见(按~打开),玩家正常游玩不可见;现译位字段定稿"
+Occasion,场合,other,user,1.0,approved,2026-08-12,"Outfits服装系统Choices三分之二(Armour/Glamour/Occasion);场合着装概念(描述:我换衣服不如换皮勤快,但比换主意勤快);paratranz原文为Occasion(非Occation typo);现译场合定稿；描述行文以随场合换装呼应(时尚研究2026-08-12:场合装为行业术语但偏正式礼服义,维持场合保持三档二字对称)"
+Armour,盔甲,other,paratranz,1.0,approved,2026-08-12,"Outfits服装系统Choices[0](保护档);paratranz人工译法盔甲(用户2026-08-12裁决,弃jsonl甲胄);描述=行头挡住比子弹更微妙的东西(窘迫/被占据)"
+Glamour,魅力,other,user,1.0,approved,2026-08-12,"Outfits服装系统Choices[1](魅力档);描述采我方译文[我的行头使我受到尊崇,也取悦他人](exalt尊崇义更准,用户2026-08-12裁决弃paratranz人工版[感到自豪/愉悦])；词源彩蛋:glamour=苏格兰语glamer(grammar变体)本义魔法/魅惑咒语,中文魅=鬼魅惑人暗合,与Bewitch→蛊惑词源姊妹(时尚研究2026-08-12)"
+dreamitarium,梦境疗养院,scene,user,1.0,approved,2026-08-12,"内部场景key(UseInScenes/UseAsFirstTrackInScenes技术标识,不在中文提取流,玩家不可见);场景显示名=边境疗养院(sce_dreamitarium._label);词源=dream×sanitarium混成(共享-itarium词尾)=疗养院的梦境层;用户2026-08-12注释定稿梦境疗养院(弃梦象馆/梦疗养院)"
+wibble,wibble,technical,user,1.0,approved,2026-08-12,"调试面板占位值(Text组件m_Text,3处同文本:29726/29727/35197,Enum调试UI簇);英俚wibble=胡话/占位词;用户2026-08-12裁决保留原文(弃抖动)"
+Zophistication,贼世故,technical,user,1.0,approved,2026-08-12,"真技能Sophistication(精致)的调试变体(S→Z玩笑,50+处TMP数值显示+22/-22/+1);用户裁决贼世故(Z音贼+世故);真技能Sophistication→精致不受影响"
+Xegerdemain,小手法,technical,user,1.0,approved,2026-08-12,"Legerdemain(手法)的X化调试玩笑名(仅调试UI,无技能正主);用户裁决小手法(X≈小+手法,弃叉手法)"
+Sil,西尔,character,self,1.0,approved,2026-08-12,"西尔万·韦西耶(Sylvain Huissier)的魔宠(familiar,so|Alias 28302 _familiar);昵称式命名(Sil=Sylvain截短,共享西尔字首,魔宠随主人);paratranz仅此一处;现译西尔定稿"
