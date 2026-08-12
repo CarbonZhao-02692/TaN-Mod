@@ -270,7 +270,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "...while my pre-Wars French passport, in the name of Sylvain Huissier, gives my place of birth accurately. But the France that issued it no longer exists, and the passport is long invalid.",
-  "translation": "……而我那本战前的法国护照,以西尔万·于西耶之名签发,出生地写得分毫不差。但签发它的那个法国已不复存在,护照也早已失效。"
+  "translation": "……而我那本战前的法国护照,以西尔万·韦西耶之名签发,出生地写得分毫不差。但签发它的那个法国已不复存在,护照也早已失效。"
  },
  {
   "conversationId": 222,
@@ -1397,7 +1397,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "And tucked away at the back... a tin of coffee. Three-quarters full.",
-  "translation": "而在最里面,藏着一听咖啡。还剩四分之三。"
+  "translation": "而在最里面……藏着一听咖啡。还剩四分之三。"
  },
  {
   "conversationId": 169,
@@ -1978,7 +1978,7 @@
   "entryId": 26,
   "field": "DialogueText",
   "text": "Saints collect <i>patrocinia</i> in much the same way that...",
-  "translation": "圣徒们收集<i>圣护</i>,方式与……如出一辙。"
+  "translation": "圣徒们收集<i>圣庇</i>的方式近乎与此如出一辙......"
  },
  {
   "conversationId": 145,
@@ -2244,7 +2244,7 @@
   "entryId": 4,
   "field": "DialogueText",
   "text": "Like picnics, the Arts Unconsidered - Bosk, Birdsong, Preservation - do well out in the open air. Unlike picnics, they're safer as a solitary practice.",
-  "translation": "与野餐一样,未拾技艺——丛林学、鸟鸣学、保存术——在开阔的露天里也大有可为。与野餐不同的是,它们独自修习时更为安全。"
+  "translation": "与野餐一样,未识技艺——丛林学、鸟鸣学、保存术——在开阔的露天里也大有可为。与野餐不同的是,它们独自修习时更为安全。"
  },
  {
   "conversationId": 167,
@@ -4400,7 +4400,7 @@
   "entryId": 24,
   "field": "DialogueText",
   "text": "\"The sun is a cut throat\", the night recites.",
-  "translation": "「太阳是割开的喉咙」,夜色如此吟诵。"
+  "translation": "「骄阳是道割开的喉咙」，夜色如此吟诵。"
  },
  {
   "conversationId": 54,
@@ -4890,7 +4890,7 @@
   "entryId": 33,
   "field": "DialogueText",
   "text": "You knew me as Sylvain Huissier.",
-  "translation": "您认识的我是西尔万·于西耶。"
+  "translation": "您认识的我是西尔万·韦西耶。"
  },
  {
   "conversationId": 151,
@@ -6038,7 +6038,7 @@
   "entryId": 21,
   "field": "DialogueText",
   "text": "Sylvain Huissier.",
-  "translation": "西尔万·于西耶。"
+  "translation": "西尔万·韦西耶。"
  },
  {
   "conversationId": 155,
@@ -7291,7 +7291,7 @@
   "entryId": 238,
   "field": "DialogueText",
   "text": "There are... abysses of night... in Antibes.",
-  "translation": "昂蒂布有……黑夜的深渊……"
+  "translation": "有……黑夜的深渊……在昂蒂布。"
  },
  {
   "conversationId": 155,
@@ -9566,7 +9566,7 @@
   "entryId": 101,
   "field": "DialogueText",
   "text": "'Sylvain Huissier'. But hush! I'm under cover.",
-  "translation": "『西尔万·于西耶』。可别声张！我在执行秘密任务。"
+  "translation": "『西尔万·韦西耶』。可别声张！我在执行秘密任务。"
  },
  {
   "conversationId": 143,
@@ -13010,7 +13010,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "\"Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…\"",
-  "translation": "“言语是一道创口；沉默是白银。白银之门并不存在，也不可能有，纵在月亮之屋中……”"
+  "translation": "“言语是一道创口；沉默是白银。白银之门并不存在，也不可能有，纵在月之居屋中……”"
  },
  {
   "conversationId": 50,
@@ -13038,7 +13038,7 @@
   "entryId": 1,
   "field": "DialogueText",
   "text": "Aubière treats his body with respect. This panel is solid and well-fitted.",
-  "translation": "欧比耶尔善待自己的躯体。这块木板厚实，严丝合缝。"
+  "translation": "奥比埃善待自己的躯体。这块木板厚实，严丝合缝。"
  },
  {
   "conversationId": 47,
@@ -13080,7 +13080,7 @@
   "entryId": 1,
   "field": "DialogueText",
   "text": "Aubière conceals his passions, but cannot suppress them. This panel fairly vibrates with the strength of his ambition.",
-  "translation": "欧比耶尔隐藏着自己的激情，却无法压制它们。这块木板随着他野心的力度微微震颤。"
+  "translation": "奥比埃隐藏着自己的激情，却无法压制它们。这块木板随着他野心的力度微微震颤。"
  },
  {
   "conversationId": 46,
@@ -13122,7 +13122,7 @@
   "entryId": 1,
   "field": "DialogueText",
   "text": "The wooden panel is cold and smooth. Aubière is a man of powerfully focused reason. ",
-  "translation": "木板冰冷而光滑。欧比耶尔是一个理智高度专注的人。"
+  "translation": "木板冰冷而光滑。奥比埃是一个理智高度专注的人。"
  },
  {
   "conversationId": 48,
@@ -13213,7 +13213,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "Welland was a Forge-[[long]] with military inclinations - a member of the Society of the Noble Endeavour who were often alchemists and generals, British royalists. What was he doing in Atlanta in 1865? And why does he feature in Aubière's dream?",
-  "translation": "韦兰是一位有军人倾向的铸之[[长生者]]——“高尚事业社”的成员，该社中人多为炼金术士与将军，是英国的保皇党人。1865 年，他在亚特兰大做什么？又为何会出现在欧比耶尔的梦中？"
+  "translation": "韦兰是一位有军人倾向的铸之[[长生者]]——“高尚事业社”的成员，该社中人多为炼金术士与将军，是英国的保皇党人。1865 年，他在亚特兰大做什么？又为何会出现在奥比埃的梦中？"
  },
  {
   "conversationId": 44,
@@ -13304,7 +13304,7 @@
   "entryId": 6,
   "field": "DialogueText",
   "text": "Oh...yes. [Aubière glances, startled, at the image in the Wood.]",
-  "translation": "哦……是啊。[欧比耶尔吃了一惊，瞥向林地中的影像。]"
+  "translation": "哦……是啊。[奥比埃吃了一惊，瞥向林地中的影像。]"
  },
  {
   "conversationId": 49,
@@ -13738,14 +13738,14 @@
   "entryId": 76,
   "field": "DialogueText",
   "text": "I am threatening Aubière. Here I am in his secret thoughts. I will drag us both into madness if I must. We will both regret it. Scarlet darkness writhes at the edges of what we both see.",
-  "translation": "我在威胁欧比耶尔。我正身处他隐秘的思绪之中。若有必要，我会把我们都拖入疯狂。我们都会为此后悔。猩红的黑暗在我们两人的视野边缘翻腾。"
+  "translation": "我在威胁奥比埃。我正身处他隐秘的思绪之中。若有必要，我会把我们都拖入疯狂。我们都会为此后悔。猩红的黑暗在我们两人的视野边缘翻腾。"
  },
  {
   "conversationId": 49,
   "entryId": 77,
   "field": "DialogueText",
   "text": "I have stopped speaking. Aubière watches me, wide-eyed.",
-  "translation": "我已不再言语。欧比耶尔睁大眼睛注视着我。"
+  "translation": "我已不再言语。奥比埃睁大眼睛注视着我。"
  },
  {
   "conversationId": 49,
@@ -14697,7 +14697,7 @@
   "entryId": 45,
   "field": "DialogueText",
   "text": "My dreams are only a hushed polka of the day's events. I make no attempt to reach the House that has no walls, or even the Wood around its walls. Much safer to stick with the midnight shuffle of sleeping thought.",
-  "translation": "我的梦不过是白日旧事的一支低声波尔卡。我无意抵达那座无墙之屋，甚至它墙外的树丛也不曾触及。午夜睡思的曳步要安全得多。"
+  "translation": "我的梦不过是白日旧事的一支低声波尔卡。我无意抵达那座无墙的居屋，甚至它墙外的树丛也不曾触及。午夜睡思的曳步要安全得多。"
  },
  {
   "conversationId": 57,
@@ -14725,7 +14725,7 @@
   "entryId": 49,
   "field": "DialogueText",
   "text": "I'm Sylvain Huissier.",
-  "translation": "我是西尔万·于西耶。"
+  "translation": "我是西尔万·韦西耶。"
  },
  {
   "conversationId": 57,
@@ -14837,7 +14837,7 @@
   "entryId": 7,
   "field": "DialogueText",
   "text": "YOU are Spencer Hobson, Sylvain Hussier, Father Brass, hollow of spirit and brazen of heart.",
-  "translation": "你，就是斯宾塞·霍布森，西尔万·于西耶，黄铜神父——魂魄空洞，心肠如铜。"
+  "translation": "你，就是斯宾塞·霍布森，西尔万·韦西耶，黄铜神父——魂魄空洞，心肠如铜。"
  },
  {
   "conversationId": 89,
@@ -15670,7 +15670,7 @@
   "entryId": 35,
   "field": "DialogueText",
   "text": "I prepared Labrikon earlier. I'll use it to visit Aubière's dreams. [This won't be restful, and you won't lose Troubles.]",
-  "translation": "我之前准备了拉布里孔。我要用它进入欧比耶尔的梦境。[这一觉不会安稳，烦扰也不会消除。]"
+  "translation": "我之前准备了拉布里孔。我要用它进入奥比埃的梦境。[这一觉不会安稳，烦扰也不会消除。]"
  },
  {
   "conversationId": 36,
@@ -16020,14 +16020,14 @@
   "entryId": 35,
   "field": "DialogueText",
   "text": "I'm by the wall at the back of Aubière's office.",
-  "translation": "我正站在欧比耶尔办公室的后墙边。"
+  "translation": "我正站在奥比埃办公室的后墙边。"
  },
  {
   "conversationId": 41,
   "entryId": 36,
   "field": "DialogueText",
   "text": "If I step through the hidden door here, I'll be in Aubière's secret office, or secret lumber room.",
-  "translation": "若我从这里的暗门穿过去，就会进到欧比耶尔的秘室，或他那间秘密储物室。"
+  "translation": "若我从这里的暗门穿过去，就会进到奥比埃的秘室，或他那间秘密储物室。"
  },
  {
   "conversationId": 41,
@@ -16055,14 +16055,14 @@
   "entryId": 40,
   "field": "DialogueText",
   "text": "Step back through to Aubière's outer office.",
-  "translation": "穿回欧比耶尔的外间办公室。"
+  "translation": "穿回奥比埃的外间办公室。"
  },
  {
   "conversationId": 41,
   "entryId": 42,
   "field": "DialogueText",
   "text": "But of course I can't do that when Aubière is here.",
-  "translation": "但欧比耶尔在场的时候，我当然不能这么做。"
+  "translation": "但奥比埃在场的时候，我当然不能这么做。"
  },
  {
   "conversationId": 41,
@@ -16349,7 +16349,7 @@
   "entryId": 9,
   "field": "DialogueText",
   "text": "Perhaps the bear came with the house, originally. Presumably Aubière stuck it in here because he felt it didn't strike the right tone for his high-minded institution. ",
-  "translation": "也许这头熊原本就是随这宅子而来的。想来欧比耶尔把它塞进这里,是因为他觉得它与他那志趣高洁的机构调性不合。"
+  "translation": "也许这头熊原本就是随这宅子而来的。想来奥比埃把它塞进这里,是因为他觉得它与他那志趣高洁的机构调性不合。"
  },
  {
   "conversationId": 42,
@@ -16664,7 +16664,7 @@
   "entryId": 1,
   "field": "DialogueText",
   "text": "'Beneath the skin of the world we find the Mansus, also called the World-Spine, also called the House of the Sun. Above the House is the [[Glory]], the origin of light, to which souls aspire. At the foot of the House, and around its walls - though it has no walls - is the [[Wood]].'",
-  "translation": "“在世界表皮之下,我们寻得漫宿——亦名世界之脊,亦名太阳居屋。屋宇之上是[[辉光]],光的源头,众灵魂所向往者。屋宇脚下,环绕四壁——虽说它并无墙壁——是那[[木材]]。”"
+  "translation": "“在世界表皮之下,我们寻得漫宿——亦名世界之脊,亦名太阳居屋。居屋之上是[[辉光]],光的源头,众灵魂所向往者。居屋脚下,环绕四壁——虽说它并无墙壁——是那[[木材]]。”"
  },
  {
   "conversationId": 62,
@@ -16685,7 +16685,7 @@
   "entryId": 4,
   "field": "DialogueText",
   "text": "And below the House - below the House -",
-  "translation": "而屋宇之下——屋宇之下——"
+  "translation": "而居屋之下——居屋之下——"
  },
  {
   "conversationId": 62,
@@ -16720,7 +16720,7 @@
   "entryId": 12,
   "field": "DialogueText",
   "text": "Below the House, the [[little joys of night]].",
-  "translation": "屋宇之下,是[[夜的微小欢愉]]。"
+  "translation": "居屋之下,是[[夜的微小欢愉]]。"
  },
  {
   "conversationId": 62,
@@ -16825,7 +16825,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "When I was priest in [[Brancrug]], I sometimes saw Christopher Illopoly in his rooms in [[Hush House]] - to argue about theology and drink his horrible burdock tea. I saw it there, I think...",
-  "translation": "我在[[布兰库格]]任神父时,偶尔会去[[噤声居屋]]的房间拜访克里斯托弗·伊洛波利——为争论神学,也为喝他那难以下咽的牛蒡茶。我想,我就是在那里见过它。"
+  "translation": "我在[[布兰库格]]任神父时,偶尔会去[[噤声居屋]]的房间拜访克里斯托弗·伊洛波利——为争论神学,也为喝他那难以下咽的牛蒡茶。我想,我就是在那里见过它……"
  },
  {
   "conversationId": 63,
@@ -17350,21 +17350,21 @@
   "entryId": 48,
   "field": "DialogueText",
   "text": "But there's something else. On almost every document there's an enigmatic line item: ONTEIRIC CO-ORDINATION.",
-  "translation": "但还有别的东西。几乎每一份文件上都有一个费解的条目:梦境协调。"
+  "translation": "但还有别的东西。几乎每一份文件上都有一个费解的条目:冥合。"
  },
  {
   "conversationId": 6,
   "entryId": 49,
   "field": "DialogueText",
   "text": "The Sanitarium receives substantial funding from the European Recovery Program - the Acheson Mission - and from a semi-charitable Incorporate entity called the Meninger Foundation. <I>Very</i> substantial funding.",
-  "translation": "疗养院从欧洲复兴计划——艾奇逊使命——以及一家名为门宁格基金会的半慈善集团实体处获得大笔资金。<i>极其</i>大笔的资金。"
+  "translation": "疗养院从欧洲复兴计划——艾奇逊使命——以及一家名为曼宁格基金会的半慈善集团实体处获得大笔资金。<i>极其</i>大笔的资金。"
  },
  {
   "conversationId": 6,
   "entryId": 50,
   "field": "DialogueText",
   "text": "The '<i>Office</i> of Onteiric Coordination' - the [[OOC]]? Who exactly is funding Aubière? Is the money really coming from Menninger?",
-  "translation": "“梦境<i>协调</i>办公室”——就是[[梦境协调局]]？究竟是谁在资助欧比耶尔？这笔钱当真来自门宁格吗？"
+  "translation": "“冥合<i>办公室</i>”——就是[[OOC]]？究竟是谁在资助奥比埃？这笔钱当真来自曼宁格吗？"
  },
  {
   "conversationId": 218,
@@ -17427,7 +17427,7 @@
   "entryId": 3,
   "field": "DialogueText",
   "text": "A good place for the Arts Unconsidered.",
-  "translation": "施展未拾技艺的好地方。"
+  "translation": "施展未识技艺的好地方。"
  },
  {
   "conversationId": 219,
@@ -17483,7 +17483,7 @@
   "entryId": 20,
   "field": "DialogueText",
   "text": "Spencer Hobson. What a fortunate and delightful honour. I am Dr Aubière. You are very welcome to my little institution, M. Hobson.",
-  "translation": "斯宾塞·霍布森。何等有幸,何等快意。我是欧比耶尔医生。欢迎光临我这小小的机构,霍布森先生。"
+  "translation": "斯宾塞·霍布森。何等有幸,何等快意。我是奥比埃医生。欢迎光临我这小小的机构,霍布森先生。"
  },
  {
   "conversationId": 4,
@@ -17525,7 +17525,7 @@
   "entryId": 28,
   "field": "DialogueText",
   "text": "The honour is mine, Dr Aubière.",
-  "translation": "荣幸的是我,欧比耶尔医生。"
+  "translation": "荣幸的是我,奥比埃医生。"
  },
  {
   "conversationId": 4,
@@ -17623,7 +17623,7 @@
   "entryId": 44,
   "field": "DialogueText",
   "text": "[Aubière gives a tight smile, as if snapping closed a preferred hypothesis.] I am very sorry, M. Hobson, but any information I might have on Mlle Lagasse's whereabouts - that information is confidential.",
-  "translation": "[欧比耶尔露出紧绷的一笑,仿佛啪地合上了一册心爱的假说。] 非常抱歉,霍布森先生,但凡我可能掌握的关于拉加斯小姐下落的信息——那些信息均属机密。"
+  "translation": "[奥比埃露出紧绷的一笑,仿佛啪地合上了一册心爱的假说。] 非常抱歉,霍布森先生,但凡我可能掌握的关于拉加斯小姐下落的信息——那些信息均属机密。"
  },
  {
   "conversationId": 4,
@@ -17679,7 +17679,7 @@
   "entryId": 54,
   "field": "DialogueText",
   "text": "That's very kind of you, Dr Aubière. I hope I can return your kindness in some way.",
-  "translation": "您太客气了,欧比耶尔医生。但愿我能以某种方式回报您的好意。"
+  "translation": "您太客气了,奥比埃医生。但愿我能以某种方式回报您的好意。"
  },
  {
   "conversationId": 4,
@@ -17763,7 +17763,7 @@
   "entryId": 69,
   "field": "DialogueText",
   "text": "Here. Do you know what is a 'pyx'? [Aubière is vertical again.]",
-  "translation": "给。你知道什么是「圣体盒」吗？〔欧比耶尔又直起身了。〕"
+  "translation": "给。你知道什么是「圣体盒」吗？〔奥比埃又直起身了。〕"
  },
  {
   "conversationId": 4,
@@ -17777,28 +17777,28 @@
   "entryId": 72,
   "field": "DialogueText",
   "text": "Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission. Both thank Aubière for his reports - though the ERP letter is much terser. Both discuss further funding... and Aubière is straightening up.",
-  "translation": "信头来自一家名为门宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团。两封信都感谢欧比耶尔呈交的报告——不过 ERP 那封要简慢得多。两封都谈及进一步的资助……而欧比耶尔正在直起身来。"
+  "translation": "信头来自一家名为曼宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团。两封信都感谢奥比埃呈交的报告——不过 ERP 那封要简慢得多。两封都谈及进一步的资助……而奥比埃正在直起身来。"
  },
  {
   "conversationId": 4,
   "entryId": 73,
   "field": "DialogueText",
   "text": "Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission - but Aubière is already straightening up.",
-  "translation": "信头来自一家名为门宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团——但欧比耶尔已经直起身来。"
+  "translation": "信头来自一家名为曼宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团——但奥比埃已经直起身来。"
  },
  {
   "conversationId": 4,
   "entryId": 80,
   "field": "DialogueText",
   "text": "A little antique coin - silver, perhaps. I pocket it hastily as Aubière returns to the vertical.",
-  "translation": "一枚小小的古币——也许是银的。趁欧比耶尔重新直起身，我匆匆把它揣进口袋。"
+  "translation": "一枚小小的古币——也许是银的。趁奥比埃重新直起身，我匆匆把它揣进口袋。"
  },
  {
   "conversationId": 4,
   "entryId": 81,
   "field": "DialogueText",
   "text": "A little antique silver coin is just too far away to snag. I settle for a fountain pen and pocket it hastily as Aubière returns to the vertical.",
-  "translation": "那枚小小的古银币太远，够不着。我退而求其次，拿了一支钢笔，趁欧比耶尔重新直起身时匆匆揣进兜里。"
+  "translation": "那枚小小的古银币太远，够不着。我退而求其次，拿了一支钢笔，趁奥比埃重新直起身时匆匆揣进兜里。"
  },
  {
   "conversationId": 4,
@@ -17917,7 +17917,7 @@
   "entryId": 99,
   "field": "DialogueText",
   "text": "Just so the Cornish sunlight folded itself across the desk in the Westcott Room, where Serena would wait to question me after my visits to the infirmary. This Aubière is a little like Serena: a velvet surface, but under pressure, hard as oak.",
-  "translation": "正如康沃尔的阳光也曾那样叠在韦斯科特室的桌面上——我每回探过医务室，塞蕾娜都会在那儿等着盘问我。这个欧比耶尔，有几分像塞蕾娜：天鹅绒的表面，一旦受压，却硬如橡木。"
+  "translation": "正如康沃尔的阳光也曾那样叠在韦斯科特室的桌面上——我每回探过医务室，塞蕾娜都会在那儿等着盘问我。这个奥比埃，有几分像塞蕾娜：天鹅绒的表面，一旦受压，却硬如橡木。"
  },
  {
   "conversationId": 4,
@@ -17994,7 +17994,7 @@
   "entryId": 111,
   "field": "DialogueText",
   "text": "Over steepled fingers, Aubière watches.",
-  "translation": "欧比耶尔指尖相抵，静静看着。"
+  "translation": "奥比埃指尖相抵，静静看着。"
  },
  {
   "conversationId": 4,
@@ -18078,7 +18078,7 @@
   "entryId": 126,
   "field": "DialogueText",
   "text": "Aubière's mouth is also open.",
-  "translation": "欧比耶尔的嘴也张着。"
+  "translation": "奥比埃的嘴也张着。"
  },
  {
   "conversationId": 4,
@@ -18092,7 +18092,7 @@
   "entryId": 128,
   "field": "DialogueText",
   "text": "Aubière cracks open a new notebook, clicks a clean chrome ballpoint pen, and excitedly jots down a note.",
-  "translation": "欧比耶尔翻开一本新笔记本，咔嗒一声按出一支锃亮的镀铬圆珠笔，兴奋地记下一笔。"
+  "translation": "奥比埃翻开一本新笔记本，咔嗒一声按出一支锃亮的镀铬圆珠笔，兴奋地记下一笔。"
  },
  {
   "conversationId": 4,
@@ -18113,7 +18113,7 @@
   "entryId": 131,
   "field": "DialogueText",
   "text": "Aubière stops writing. He purses his mouth thoughtfully.",
-  "translation": "欧比耶尔停下笔。他抿起嘴，若有所思。"
+  "translation": "奥比埃停下笔。他抿起嘴，若有所思。"
  },
  {
   "conversationId": 4,
@@ -18141,7 +18141,7 @@
   "entryId": 135,
   "field": "DialogueText",
   "text": "I'm disappointed in you, Dr Aubière.",
-  "translation": "我对你很失望，欧比耶尔医生。"
+  "translation": "我对你很失望，奥比埃医生。"
  },
  {
   "conversationId": 4,
@@ -18183,7 +18183,7 @@
   "entryId": 141,
   "field": "DialogueText",
   "text": "After a few moments, Aubière looks away. He coughs to cover his embarrassment.",
-  "translation": "片刻之后，欧比耶尔移开目光。他咳了一声，掩饰窘迫。"
+  "translation": "片刻之后，奥比埃移开目光。他咳了一声，掩饰窘迫。"
  },
  {
   "conversationId": 4,
@@ -18211,7 +18211,7 @@
   "entryId": 146,
   "field": "DialogueText",
   "text": "[Aubière makes a moue of distaste.] Just so. Among other things.",
-  "translation": "欧比耶尔厌恶地撇了撇嘴。正是如此。诸如此类。"
+  "translation": "奥比埃厌恶地撇了撇嘴。正是如此。诸如此类。"
  },
  {
   "conversationId": 4,
@@ -18225,7 +18225,7 @@
   "entryId": 148,
   "field": "DialogueText",
   "text": "[Aubière flaps a hand deprecatingly.] An old friend of mine would say: 'Why only one? Why only two?'",
-  "translation": "欧比耶尔不以为然地摆摆手。我的一位老朋友会说：「为什么只有一个？为什么只有两个？」"
+  "translation": "奥比埃不以为然地摆摆手。我的一位老朋友会说：「为什么只有一个？为什么只有两个？」"
  },
  {
   "conversationId": 4,
@@ -18253,7 +18253,7 @@
   "entryId": 153,
   "field": "DialogueText",
   "text": "[Decide] Dr Aubière...",
-  "translation": "下定决心。欧比耶尔医生……"
+  "translation": "下定决心。奥比埃医生……"
  },
  {
   "conversationId": 4,
@@ -18288,7 +18288,7 @@
   "entryId": 158,
   "field": "DialogueText",
   "text": "[Stand up abruptly; stalk out, daring Aubière to ask for his box back.]",
-  "translation": "猛然起身；大步离去，看欧比耶尔敢不敢开口讨回他的盒子。"
+  "translation": "猛然起身；大步离去，看奥比埃敢不敢开口讨回他的盒子。"
  },
  {
   "conversationId": 4,
@@ -18554,14 +18554,14 @@
   "entryId": 198,
   "field": "DialogueText",
   "text": "Nothing further occurs. Except that Aubière, clearly alarmed, half-raises a hand in protest.",
-  "translation": "再无其他发生。只是欧比耶尔明显受了惊，半举起一只手表示抗议。"
+  "translation": "再无其他发生。只是奥比埃明显受了惊，半举起一只手表示抗议。"
  },
  {
   "conversationId": 4,
   "entryId": 200,
   "field": "DialogueText",
   "text": "I feel Aubière's eyes on my back, but he says nothing.",
-  "translation": "我感觉欧比耶尔的目光落在我背上，但他什么也没说。"
+  "translation": "我感觉奥比埃的目光落在我背上，但他什么也没说。"
  },
  {
   "conversationId": 4,
@@ -18799,7 +18799,7 @@
   "entryId": 241,
   "field": "DialogueText",
   "text": "At night, when Aubière is gone from his office, I might be able to locate his records.",
-  "translation": "到了夜里，等欧比耶尔离开办公室，我也许能找到他的档案。"
+  "translation": "到了夜里，等奥比埃离开办公室，我也许能找到他的档案。"
  },
  {
   "conversationId": 4,
@@ -19072,7 +19072,7 @@
   "entryId": 43,
   "field": "DialogueText",
   "text": "[Aubière draws a slip of printed paper from his pocket and passes it to me.] Here is the proof of it. Now. I propose to put this sordid matter behind us. I look forward to speaking of happier things.",
-  "translation": "欧比耶尔从口袋里掏出一张印刷纸条，递给我。这就是证据。现在，我提议把这桩不光彩的事抛到脑后。我盼着谈些更愉快的事。"
+  "translation": "奥比埃从口袋里掏出一张印刷纸条，递给我。这就是证据。现在，我提议把这桩不光彩的事抛到脑后。我盼着谈些更愉快的事。"
  },
  {
   "conversationId": 14,
@@ -19121,21 +19121,21 @@
   "entryId": 52,
   "field": "DialogueText",
   "text": "Cut it out, Aubière. You're taking back-handers from Strathcoyne to get him Cuban cigars.",
-  "translation": "别装了，欧比耶尔。你从斯特拉斯科因那儿收好处费，替他搞古巴雪茄。"
+  "translation": "别装了，奥比埃。你从斯特拉斯科因那儿收好处费，替他搞古巴雪茄。"
  },
  {
   "conversationId": 14,
   "entryId": 53,
   "field": "DialogueText",
   "text": "[Say nothing; place a cigar carefully on Aubière's desk; shake my head regretfully.]",
-  "translation": "一言不发；把一支雪茄轻轻放在欧比耶尔的桌上；遗憾地摇摇头。"
+  "translation": "一言不发；把一支雪茄轻轻放在奥比埃的桌上；遗憾地摇摇头。"
  },
  {
   "conversationId": 14,
   "entryId": 54,
   "field": "DialogueText",
   "text": "Aubière picks up the cigar and runs it under his nose, smiling his smile of scrupulous cleanness.",
-  "translation": "欧比耶尔拿起雪茄，放到鼻下嗅了嗅，露出他那副一丝不苟的干净笑容。"
+  "translation": "奥比埃拿起雪茄，放到鼻下嗅了嗅，露出他那副一丝不苟的干净笑容。"
  },
  {
   "conversationId": 14,
@@ -19198,7 +19198,7 @@
   "entryId": 64,
   "field": "DialogueText",
   "text": "[Dr Aubière's smile falters; it becomes tinged with sorrow. But he opens a drawer and places a crisp wad of notes on to the desk.] There. As to the other matter...",
-  "translation": "[奥比耶尔医生的笑容微微僵住,染上一丝哀色。但他还是拉开抽屉,把一沓崭新的钞票放到桌上。]钱在这。至于另一件事……"
+  "translation": "[奥比埃医生的笑容微微僵住,染上一丝哀色。但他还是拉开抽屉,把一沓崭新的钞票放到桌上。]钱在这。至于另一件事……"
  },
  {
   "conversationId": 14,
@@ -19254,7 +19254,7 @@
   "entryId": 73,
   "field": "DialogueText",
   "text": "Interesting. An effect of the Wars, you know. As the onteiric order crumbles, it becomes much easier to lose things. I'm astonished I have any socks left at , for instance.",
-  "translation": "有意思。战争的效应,你知道。梦境协调局的秩序一旦崩解,丢东西就容易得多。我倒很惊讶自己现在还能剩几双袜子呢,比如说。"
+  "translation": "有意思。战争的效应,你知道。太虚的秩序一旦崩解,丢东西就容易得多。我倒很惊讶自己现在还能剩几双袜子呢,比如说。"
  },
  {
   "conversationId": 14,
@@ -19415,7 +19415,7 @@
   "entryId": 103,
   "field": "DialogueText",
   "text": "[Aubière gives a deep, sigh. His usual composure flickers.]",
-  "translation": "[奥比耶尔深深叹了口气。他惯常的镇定闪烁了一下。]"
+  "translation": "[奥比埃深深叹了口气。他惯常的镇定闪烁了一下。]"
  },
  {
   "conversationId": 14,
@@ -19492,7 +19492,7 @@
   "entryId": 115,
   "field": "DialogueText",
   "text": "[Aubière nods minimally, and returns to his work.]",
-  "translation": "[奥比耶尔微微点了点头,又回去忙他的工作。]"
+  "translation": "[奥比埃微微点了点头,又回去忙他的工作。]"
  },
  {
   "conversationId": 14,
@@ -19513,7 +19513,7 @@
   "entryId": 118,
   "field": "DialogueText",
   "text": "Thank you, Dr Aubière. But I doubt our paths will cross again.",
-  "translation": "多谢,奥比耶尔医生。但我看咱们以后不会再见了。"
+  "translation": "多谢,奥比埃医生。但我看咱们以后不会再见了。"
  },
  {
   "conversationId": 14,
@@ -19527,7 +19527,7 @@
   "entryId": 120,
   "field": "DialogueText",
   "text": "And you, Dr Aubière. I hope we will meet again.",
-  "translation": "你也保重,奥比耶尔医生。希望咱们后会有期。"
+  "translation": "你也保重,奥比埃医生。希望咱们后会有期。"
  },
  {
   "conversationId": 14,
@@ -19667,7 +19667,7 @@
   "entryId": 140,
   "field": "DialogueText",
   "text": "[Aubière briefly removes his glasses to polish them. When he replaces them, his eyes seem sharper.]",
-  "translation": "[奥比耶尔摘下眼镜擦了擦。再戴上时,他的眼神似乎更锐利了。]"
+  "translation": "[奥比埃摘下眼镜擦了擦。再戴上时,他的眼神似乎更锐利了。]"
  },
  {
   "conversationId": 14,
@@ -19688,7 +19688,7 @@
   "entryId": 143,
   "field": "DialogueText",
   "text": "You're a liar, Aubière.",
-  "translation": "你撒谎,奥比耶尔。"
+  "translation": "你撒谎,奥比埃。"
  },
  {
   "conversationId": 14,
@@ -20458,7 +20458,7 @@
   "entryId": 57,
   "field": "DialogueText",
   "text": "Some kind of Incorporate foundation? Menninger, maybe? Graveyard, man. I don't know.",
-  "translation": "某种集团的基金会?梅宁格那样的,也许?公墓呗,老兄。我不知道。"
+  "translation": "某种集团的基金会?曼宁格那样的,也许?公墓呗,老兄。我不知道。"
  },
  {
   "conversationId": 55,
@@ -21186,7 +21186,7 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "[Show French passport] Sylvain Huissier.",
-  "translation": "[出示法国护照] 西尔万·于西耶。"
+  "translation": "[出示法国护照] 西尔万·韦西耶。"
  },
  {
   "conversationId": 11,
@@ -21816,7 +21816,7 @@
   "entryId": 44,
   "field": "DialogueText",
   "text": "Aubière...",
-  "translation": "欧比耶尔……"
+  "translation": "奥比埃……"
  },
  {
   "conversationId": 27,
@@ -23083,7 +23083,7 @@
   "entryId": 59,
   "field": "DialogueText",
   "text": "About the dreams of Dr Aubière.",
-  "translation": "关于欧比耶尔医生的梦。"
+  "translation": "关于奥比埃医生的梦。"
  },
  {
   "conversationId": 10,
@@ -23111,7 +23111,7 @@
   "entryId": 63,
   "field": "DialogueText",
   "text": "I can craft Labrikon with an Unworldly skill, enabling entry to Aubière's dream. Or I can still make an arrangement with Sinombre, if I prefer.",
-  "translation": "我可以用一项超凡技艺炼制拉布里孔,从而进入欧比耶尔的梦境。或者,倘若我更愿意,仍可与西诺姆布尔谈成一笔交易。"
+  "translation": "我可以用一项超凡技艺炼制拉布里孔,从而进入奥比埃的梦境。或者,倘若我更愿意,仍可与西诺姆布尔谈成一笔交易。"
  },
  {
   "conversationId": 10,
@@ -23258,7 +23258,7 @@
   "entryId": 85,
   "field": "DialogueText",
   "text": "I have doctorates from Leiden, Navarre, and Bonn. I'm a colleague of dear Aubière's.",
-  "translation": "我在莱顿、纳瓦拉和波恩都取得过博士学位。我是亲爱的欧比耶尔的同事。"
+  "translation": "我在莱顿、纳瓦拉和波恩都取得过博士学位。我是亲爱的奥比埃的同事。"
  },
  {
   "conversationId": 10,
@@ -23454,7 +23454,7 @@
   "entryId": 114,
   "field": "DialogueText",
   "text": "Who is hollow of spirit and brazen of heart? Who has come here through iron and salt? I know you and name you, Lieutenant S.H. And I'll help you with Aubière's dream.",
-  "translation": "谁灵魂空洞,谁心肠厚颜?谁穿过铁与盐,来到这里?我认得你,也唤出你的名字,中尉 S.H.。而我,会助你进入欧比耶尔的梦。"
+  "translation": "谁灵魂空洞,谁心肠厚颜?谁穿过铁与盐,来到这里?我认得你,也唤出你的名字,中尉 S.H.。而我,会助你进入奥比埃的梦。"
  },
  {
   "conversationId": 10,
@@ -23559,7 +23559,7 @@
   "entryId": 14,
   "field": "DialogueText",
   "text": "Aye. Dark times. But Dr Aubière sees to it for me.",
-  "translation": "是啊。黑暗的时局。但欧比耶尔医生,替我照看着。"
+  "translation": "是啊。黑暗的时局。但奥比埃医生,替我照看着。"
  },
  {
   "conversationId": 7,
@@ -23594,21 +23594,21 @@
   "entryId": 19,
   "field": "DialogueText",
   "text": "Dr Aubière is an 'ignoramus'? He has his flaws, but he's an educated man, surely.",
-  "translation": "欧比耶尔医生是「无知之徒」?他确实有缺点,但他毕竟是个受过教育的人。"
+  "translation": "奥比埃医生是「无知之徒」?他确实有缺点,但他毕竟是个受过教育的人。"
  },
  {
   "conversationId": 7,
   "entryId": 20,
   "field": "DialogueText",
   "text": "Dr Aubière is most certainly not the author of this calumny! In fact, I have his personal assurance that he will discipline that author.",
-  "translation": "欧比耶尔医生,绝非这诽谤的炮制者!事实上,他向我当面保证过,会好好管教那个炮制者。"
+  "translation": "奥比埃医生,绝非这诽谤的炮制者!事实上,他向我当面保证过,会好好管教那个炮制者。"
  },
  {
   "conversationId": 7,
   "entryId": 21,
   "field": "DialogueText",
   "text": "I'm sorry to tell you, Mr Strathcoyne, that I heard this 'Annabelle' nonsense directly from Dr Aubière. I had no idea it would offend you so. I'm very disappointed in him.",
-  "translation": "很抱歉告诉您,斯特拉斯科因先生,这「安娜贝尔」的胡话,我是从欧比耶尔医生那里亲耳听来的。我不知道这会如此冒犯您。我对他,非常失望。"
+  "translation": "很抱歉告诉您,斯特拉斯科因先生,这「安娜贝尔」的胡话,我是从奥比埃医生那里亲耳听来的。我不知道这会如此冒犯您。我对他,非常失望。"
  },
  {
   "conversationId": 7,
@@ -23622,7 +23622,7 @@
   "entryId": 24,
   "field": "DialogueText",
   "text": "I'm sorry to tell <i>you</i>, Mr Hobson, that you must be mistaken. Dr Aubière is a man of excellent character.",
-  "translation": "很抱歉,我要告诉<i>你</i>,霍布森先生,你一定是弄错了。欧比耶尔医生,品行端方。"
+  "translation": "很抱歉,我要告诉<i>你</i>,霍布森先生,你一定是弄错了。奥比埃医生,品行端方。"
  },
  {
   "conversationId": 7,
@@ -23706,7 +23706,7 @@
   "entryId": 36,
   "field": "DialogueText",
   "text": "[Raising the subject with Aubière may provide an opportunity to pressure him.]",
-  "translation": "[向欧比耶尔提起此事,或可借机给他施压。]"
+  "translation": "[向奥比埃提起此事,或可借机给他施压。]"
  },
  {
   "conversationId": 7,
@@ -23727,7 +23727,7 @@
   "entryId": 43,
   "field": "DialogueText",
   "text": "This is one of the privileges for which I pay my little surcharge to Dr Aubière. As I said, I hope the matter will remain between us. I wouldn't want to provoke unseemly jealousy.",
-  "translation": "这正是我付那笔小小费用给欧比耶尔医生换来的特权之一。如我所说,我希望此事止于你我之间。我可不想招来不合时宜的嫉妒。"
+  "translation": "这正是我付那笔小小费用给奥比埃医生换来的特权之一。如我所说,我希望此事止于你我之间。我可不想招来不合时宜的嫉妒。"
  },
  {
   "conversationId": 7,
@@ -24105,7 +24105,7 @@
   "entryId": 101,
   "field": "DialogueText",
   "text": "[Raising the subject with Aubière may provide an opportunity to pressure him.]",
-  "translation": "[向欧比耶尔提起此事,或可借机给他施压。]"
+  "translation": "[向奥比埃提起此事,或可借机给他施压。]"
  },
  {
   "conversationId": 7,
@@ -24147,7 +24147,7 @@
   "entryId": 13,
   "field": "DialogueText",
   "text": "Lieutenant - Lieutenant [[Huissier]]! It's you, damn your eyes! [Vincent is grinning.]",
-  "translation": "中尉——于西耶中尉!是你,真见鬼![文森特咧嘴笑着。]"
+  "translation": "中尉——韦西耶中尉!是你,真见鬼![文森特咧嘴笑着。]"
  },
  {
   "conversationId": 12,
@@ -24350,7 +24350,7 @@
   "entryId": 45,
   "field": "DialogueText",
   "text": "Did Aubière put you up to this? Are you spying on me?",
-  "translation": "是欧比耶尔指使你的吗?你在监视我?"
+  "translation": "是奥比埃指使你的吗?你在监视我?"
  },
  {
   "conversationId": 12,
@@ -24637,7 +24637,7 @@
   "entryId": 98,
   "field": "DialogueText",
   "text": "I think I'm a visitor. Aubière thinks I'm a resident.",
-  "translation": "我觉得我是访客。欧比耶尔觉得我是住客。"
+  "translation": "我觉得我是访客。奥比埃觉得我是住客。"
  },
  {
   "conversationId": 12,
@@ -24721,7 +24721,7 @@
   "entryId": 110,
   "field": "DialogueText",
   "text": "What do you think of Dr Aubière?",
-  "translation": "你觉得欧比耶尔医生怎么样?"
+  "translation": "你觉得奥比埃医生怎么样?"
  },
  {
   "conversationId": 12,

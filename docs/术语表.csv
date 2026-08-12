@@ -7,7 +7,7 @@ Vincent,文森特,character,site-hit,0.7,pending,2026-08-11,"音译(法语 Vince
 Ingredient,原料,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|ingredient
 Passion,激情,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|passion
 Nina,尼娜,character,user,1.0,approved,2026-08-11,用户裁决保留我方定译
-Aubière,欧比耶尔,character,site-miss,0.7,pending,2026-08-11,"音译(法语 Aubière /objɛʁ/,Aubi-≈欧比耶 + -ère≈尔) 待G4审核"
+Aubière,奥比埃,character,site-miss,0.7,approved,2026-08-12,用户裁决 2026-08-12:统一译奥比埃(法语 /objɛʁ/);废弃欧比耶尔
 Dread,恐惧,concept,cs-aligned,1.0,approved,2026-08-11,cs:elements|predread
 Philomèle,菲洛梅尔,character,site-miss,0.7,pending,2026-08-11,"音译(法语 Philomèle /filɔmɛl/,Philomèle=菲洛梅尔(夜莺典故)) 待G4审核"
 Pain,痛苦,concept,site-hit,0.7,pending,2026-08-11,"音译(CS 风格:Pain 在 CS 中为元素,官方译法待查;按风格直译痛苦) 待G4审核"
@@ -31,7 +31,7 @@ Unset,未设置,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-
 Church,教会,concept,manual_pkg,0.9,approved,2026-08-11,L2 无敌太阳教会/教会与职司;覆盖普通词直译
 Back,返回,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法返回,按规则4采用 | 规则直译(普通词) 待G4审核"
 Sinombre,西诺姆布尔,character,site-miss,0.7,pending,2026-08-12,"音译(西班牙语 sinombre(无名者),si-≈西+n-ombre≈诺姆布尔);LLM提示canon作西农布尔,本地cs-aligned/paratranz/KB均无证据,不采纳"
-Dr Aubière,欧比耶尔医生,character,self,0.8,pending,2026-08-12,Aubière→欧比耶尔(pending)+Dr→医生(用户2026-08-12:头衔翻译按语境)
+Dr Aubière,奥比埃医生,character,self,0.8,approved,2026-08-12,用户裁决 2026-08-12:Aubière→奥比埃+Dr→医生
 Skill,技艺,concept,site-hit,0.95,approved,2026-08-11,site bilingual label[1]
 Rosa Mundi,罗莎·蒙迪,other,user,1.0,approved,2026-08-11,用户裁决保留我方定译(间隔号规范)
 Paris,巴黎,location,cs-aligned,1.0,approved,2026-08-11,cs:elements|domicile.paris
@@ -100,7 +100,7 @@ Although,虽然,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:�
 Doctor,医生,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法医生 vs 原doctor,按规则4采用(与 Dr 头衔规则一致) | 规则直译(普通词) 待G4审核"
 Later,稍后,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法稍后,按规则4采用 | 规则直译(普通词) 待G4审核"
 Grail,杯,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|grail
-House,漫宿(别称语境),location,user,1.0,approved,2026-08-12,大写 House 语境判断:the House/House of the Sun=漫宿(Mansus)别称→漫宿/太阳之屋;Hush House→噤声居屋(独立词条);普通小写 house→房屋
+House,居屋,location,user,1.0,approved,2026-08-12,用户裁决 2026-08-12:独立大写 House/the House 统一译居屋(漫宿别称语境亦用居屋);Hush House→噤声居屋(独立词条);House of the Sun→太阳居屋;普通小写 house/a House→房屋/宅邸
 Mr Hobson,霍布森先生,character,self,0.7,pending,2026-08-11,Hobson→霍布森(pending)+尊称先生(全译原则)
 Catalyst,触媒,concept,user,1.0,approved,2026-08-12,用户定译 2026-08-12:Catalyst 术语化→触媒
 Sometimes,有时,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法有时,按规则4采用 | 规则直译(普通词) 待G4审核"
@@ -128,7 +128,7 @@ Wake,醒时,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:�
 Corona,冕,concept,user,1.0,approved,2026-08-12,用户定译 2026-08-12:Corona 术语化→冕
 Janvier,janvier,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Time,时间,other,cs-aligned,1.0,approved,2026-08-11,cs:verbs|time.exile
-Sylvain Huissier,西尔万·于西耶,character,self,0.7,pending,2026-08-11,"style-guide锚点:Sylvain→西尔万,Huissier→于西耶(法语发音)"
+Sylvain Huissier,西尔万·韦西耶,character,self,0.7,approved,2026-08-12,"用户裁决 2026-08-12:Huissier→韦西耶(paratranz人工译法),全名西尔万·韦西耶"
 Once,一次,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法一次,按规则4采用 | 规则直译(普通词) 待G4审核"
 Better,better,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Any,任何,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法任何,按规则4采用 | 规则直译(普通词) 待G4审核"
@@ -186,7 +186,7 @@ Hushery,静默术,art,user,1.0,approved,2026-08-11,"伟大之术定译(BoH 灰�
 Father Jaume,豪梅神父,character,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法豪梅神父 vs 原若梅神父,按规则3采用 | Jaume→若梅(pending)+称谓神父"
 Turn,转身,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法转身,按规则4采用 | 规则直译(普通词) 待G4审核"
 Nyctodromy,夜游术,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH 灰机 wiki+人工译者)
-Arts Unconsidered,未拾技艺,art,user,1.0,approved,2026-08-11,伟大之术定译(BoH wiki 未拾技艺+人工译者);游戏文本指 Bosk/Birdsong/Preservation 一组
+Arts Unconsidered,未识技艺,art,user,1.0,approved,2026-08-12,用户改译 2026-08-12:未拾技艺→未识技艺(BoH wiki 旧译未拾技艺);游戏文本指 Bosk/Birdsong/Preservation 一组
 Almost,almost,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Thanks,thanks,other,site-hit,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Through,穿过,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法穿过,按规则4采用 | 规则直译(普通词) 待G4审核"
@@ -281,7 +281,7 @@ Christopher Illopoly,克里斯托弗·伊利奥波里,character,paratranz,0.9,ap
 Fresh,新鲜,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法新鲜,按规则4采用 | 规则直译(普通词) 待G4审核"
 The Plague,瘟疫,concept,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
 Eye,眼,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法眼,按规则4采用 | 规则直译(普通词) 待G4审核"
-Huissier,于西耶,character,self,0.7,pending,2026-08-11,"法语姓氏,音译(style-guide锚点)"
+Huissier,韦西耶,character,self,0.7,approved,2026-08-12,用户裁决 2026-08-12:于西耶→韦西耶(paratranz人工译法)
 Agonies,苦痛,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法苦痛 vs 原agonies,按规则4采用(痛苦阶梯高阶) | 规则直译(普通词) 待G4审核"
 Mahaggony,马哈哥尼,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法马哈哥尼 vs 原mahaggony,按规则3采用 | 规则直译(普通词) 待G4审核"
 Aspect,性相,concept,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法性相 vs 原aspect,按规则4采用(与 Aspects approved 一致) | 规则直译(普通词) 待G4审核"
@@ -457,7 +457,7 @@ Watchman's Tree,守夜人之树,location,cs-official,1.0,approved,2026-08-11,L2 
 Threshold Legion,门关军团,organization,user,1.0,approved,2026-08-11,用户采纳(L2 候选)
 Carapace-kind,介壳种,creature,user,1.0,approved,2026-08-11,用户采纳(覆盖 CS 甲壳候选)
 The Ministries,联盟,concept,user,1.0,approved,2026-08-11,用户采纳(同 Ministries)
-patrocinia,圣护,concept,self,0.6,pending,2026-08-11,"拉丁词(圣徒庇护/护佑义),建议译名圣护,待 paratranz/人工核"
+patrocinia,圣庇,concept,self,0.6,pending,2026-08-12,用户改译 2026-08-12:圣护→圣庇(拉丁词:圣徒庇护/护佑义)
 The Sheaf,禾捆报,publication,manual_pkg,1.0,approved,2026-08-11,人工包L2既有译稿《禾捆报》;快跑曾自译麦束报、修订层曾改麦束——统一为禾捆报(2026-08-11复核)
 Hour,司辰,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 大量:XX司辰(fragments/_aspects/books_lore)
 Sun,太阳,concept,manual_pkg,0.95,approved,2026-08-11,L2 无敌太阳教会/升阳行动;cs-aligned 太阳
@@ -476,7 +476,7 @@ Ivory Dove,骨白鸽,concept,cs-aligned,1.0,approved,2026-08-11,"cs-aligned 骨�
 Gwendolen,格温德琳,character,manual_pkg,0.95,approved,2026-08-11,L2 格温德琳·法鲁克(亚历山大港学者)
 Carapace Cross,介壳种,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 《介壳种之歌》/介壳种已消失;L2 同
 little joys of night,夜的微小欢愉,other,self,0.5,pending,2026-08-11,"自拟(诗意台词:Below the House, the little joys of night);无先例 待G4"
-OOC,梦境协调局,organization,self,0.5,pending,2026-08-11,自拟(Office of Onteiric Coordination 之缩略);原文:[[OOC]]? 待G4
+OOC,OOC,organization,self,0.5,approved,2026-08-12,"用户裁决 2026-08-12:[[OOC]] 保留原缩写;全称 Office of Onteiric Coordination→冥合办公室(Onteiric→太虚,Coordination→冥合)"
 Elegiast,悼歌诗人,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 悼歌诗人的开价/悼歌诗人乃…司辰
 Légion du Seuil,门关军团,organization,manual_pkg,0.95,approved,2026-08-11,"L2 门关军团(助理医师/为服务职司创立,守护万物边界)"
 Signs,印记,concept,manual_pkg,0.9,approved,2026-08-11,L2 你的印记与激情/残阳的印记：烁
@@ -515,4 +515,7 @@ Cornéline,科尔内利娜,character,self,0.7,pending,2026-08-11,"法语人名,�
 starry double-axe,缀星双头斧,concept,manual_pkg,0.8,approved,2026-08-11,徽记图案(1943维希1法郎币十星元帅杖对应);francisque徽记同位语描述;Task P考证
 Dr,医生/博士(按语境),abbr,self,1.0,approved,2026-08-12,"头衔一律翻译(用户2026-08-12):医疗/称呼语境→医生,学术语境→博士;含 Dr. 变体;已应用:Dr Aubière→欧比耶尔医生/Dr A→A 医生/Dr J.N. Sinombre→J.N.·西诺姆布尔医生"
 House of the Sun,太阳居屋,location,user,1.0,approved,2026-08-12,Mansus(漫宿)别称;用户定译 2026-08-12:太阳居屋(与既有译文一致)
-Chrysolagnia,恋金癖,concept,user,1.0,approved,2026-08-12,"用户研究定译:-lagnia=欲望词缀(algolagnia虐恋癖)→恋金癖;与迷金症成递进(症→癖)"
+Chrysolagnia,恋金癖,concept,user,1.0,approved,2026-08-12,用户研究定译:-lagnia=欲望词缀(algolagnia虐恋癖)→恋金癖;与迷金症成递进(症→癖)
+Menninger,曼宁格,character,user,1.0,approved,2026-08-12,用户裁决 2026-08-12:统一译曼宁格;原文另见 Meninger Foundation 拼写变体(单n)
+Onteiric,太虚/太虚的,concept,user,1.0,approved,2026-08-12,"用户裁决 2026-08-12:Onteiric=太虚(本体论+梦境学合成词,张载太虚即气);Onteiric Coordination→冥合(柳宗元与万化冥合);onteiric order→太虚的秩序"
+Onteirology,太虚学,concept,user,1.0,approved,2026-08-12,用户裁决 2026-08-12:Onteirology=Ontology本体论+Oneirology梦境学→太虚学

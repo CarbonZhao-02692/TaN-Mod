@@ -18,7 +18,7 @@ dialogue|10|10|Dialogue Text,What do you mean? That it isn't the twentieth centu
 dialogue|10|110|Dialogue Text,"You are friendlier now that Sinombre can help? Well, let's call it a change of the heart.","西诺姆布尔能帮上忙了,你就热络起来?唔,就当这是一次心的转变吧。"
 dialogue|10|111|Dialogue Text,"[Approach, and look into the scrine.]","[走上前,望向圣龛。]"
 dialogue|10|112|Dialogue Text,"Now just let your thoughts wander, now open your eyes. It's so bright, is it not? It's so clear.","现在,只管让你的思绪漫游,现在睁开眼睛。多么明亮,不是吗?多么清澈。"
-dialogue|10|114|Dialogue Text,"Who is hollow of spirit and brazen of heart? Who has come here through iron and salt? I know you and name you, Lieutenant S.H. And I'll help you with Aubière's dream.","谁灵魂空洞,谁心肠厚颜?谁穿过铁与盐,来到这里?我认得你,也唤出你的名字,中尉 S.H.。而我,会助你进入欧比耶尔的梦。"
+dialogue|10|114|Dialogue Text,"Who is hollow of spirit and brazen of heart? Who has come here through iron and salt? I know you and name you, Lieutenant S.H. And I'll help you with Aubière's dream.","谁灵魂空洞,谁心肠厚颜?谁穿过铁与盐,来到这里?我认得你,也唤出你的名字,中尉 S.H.。而我,会助你进入奥比埃的梦。"
 dialogue|10|115|Dialogue Text,"Use Bosk to brew something that will let me walk in his dreams? That's a good idea, actually.","用丛林学炼制出某种东西,让我得以走进他的梦?这主意,其实不坏。"
 dialogue|10|116|Dialogue Text,"Use Ithastry to brew something that will let me walk in his dreams? That's a good idea, actually.","用盗火术炼制出某种东西,让我得以走进他的梦?这主意,其实不坏。"
 dialogue|10|117|Dialogue Text,[Leave the matter for now.],[此事暂且放下。]
@@ -59,12 +59,12 @@ dialogue|10|55|Dialogue Text,"So the wisdom of silence's not lost to the world? 
 dialogue|10|56|Dialogue Text,"I see deeper, petitioner, than any mere flesh. Have a care what you say in this place.","我看得比任何血肉之躯都深,请愿者。在这个地方说话,当心些。"
 dialogue|10|57|Dialogue Text,"None of us are ever really free... but I shouldn't need to tell you that, should I, Sinombre?","我们谁都不会真正自由……不过这话,不必由我来说吧,西诺姆布尔?"
 dialogue|10|58|Dialogue Text,"Well, Nina has left us, that much you must know. The Director dreams brightly of why. Would you walk in his dreams, then? To learn of her fate? If you offer me what I must have?","唔,尼娜离开了我们,这一点你必定知晓。至于缘由,院长梦得澄亮。那么,你可愿意走进他的梦里?去探知她的命运?只要你给我,我必需之物?"
-dialogue|10|59|Dialogue Text,About the dreams of Dr Aubière.,关于欧比耶尔医生的梦。
+dialogue|10|59|Dialogue Text,About the dreams of Dr Aubière.,关于奥比埃医生的梦。
 dialogue|10|5|Dialogue Text,"Who is hollow of spirit and brazen of heart? Who has come here through iron and salt? I know you and name you, Lieutenant S.H. Now tell me in turn what I am.","谁灵魂空洞,谁心肠厚颜?谁穿过铁与盐,来到这里?我认得你,也唤出你的名字,中尉 S.H.。现在,轮到你来告诉我,我是什么。"
 dialogue|10|60|Dialogue Text,[Sinombre's light pulses avidly.],"[西诺姆布尔的光,急切地脉动起来。]"
 dialogue|10|61|Dialogue Text,"Use Nyctodromy to brew something that will let me walk in his dreams? That's a good idea, actually.","用夜游术炼制出某种东西,让我得以走进他的梦?这主意,其实不坏。"
 dialogue|10|62|Dialogue Text,Hmf. After so many years I should really have learnt not to fritter my insights away.,"哼。这么多年了,我本当学会,不把自己的洞见随手挥霍。"
-dialogue|10|63|Dialogue Text,"I can craft Labrikon with an Unworldly skill, enabling entry to Aubière's dream. Or I can still make an arrangement with Sinombre, if I prefer.","我可以用一项超凡技艺炼制拉布里孔,从而进入欧比耶尔的梦境。或者,倘若我更愿意,仍可与西诺姆布尔谈成一笔交易。"
+dialogue|10|63|Dialogue Text,"I can craft Labrikon with an Unworldly skill, enabling entry to Aubière's dream. Or I can still make an arrangement with Sinombre, if I prefer.","我可以用一项超凡技艺炼制拉布里孔,从而进入奥比埃的梦境。或者,倘若我更愿意,仍可与西诺姆布尔谈成一笔交易。"
 dialogue|10|64|Dialogue Text,What price would you accept to take me into the doctor's dream?,"要什么代价,你才肯带我进入医生的梦境?"
 dialogue|10|65|Dialogue Text,What safeguards would you offer to take me into the doctor's dream?,"带我进入医生的梦境,你能给出什么保障?"
 dialogue|10|66|Dialogue Text,"...actually, never mind.","……罢了,当我没说。"
@@ -86,7 +86,7 @@ dialogue|10|81|Dialogue Text,The traditional payment. [Hold up a spintria.],传�
 dialogue|10|82|Dialogue Text,Our agreement still stands?,"我们的约定,依然算数?"
 dialogue|10|83|Dialogue Text,"I am ready to guide you, as we have agreed. Place my name on your lips when you sleep.","我已准备好为你引路,如我们所约。入睡之时,把我的名字置于唇间。"
 dialogue|10|84|Dialogue Text,Are you a patient here? Or a prisoner?,你是这里的病人?还是囚徒?
-dialogue|10|85|Dialogue Text,"I have doctorates from Leiden, Navarre, and Bonn. I'm a colleague of dear Aubière's.",我在莱顿、纳瓦拉和波恩都取得过博士学位。我是亲爱的欧比耶尔的同事。
+dialogue|10|85|Dialogue Text,"I have doctorates from Leiden, Navarre, and Bonn. I'm a colleague of dear Aubière's.",我在莱顿、纳瓦拉和波恩都取得过博士学位。我是亲爱的奥比埃的同事。
 dialogue|10|86|Dialogue Text,Sometimes.,有时候。
 dialogue|10|87|Dialogue Text,"You have my promise that I'll help you, the next time that you'll need it.","我向你承诺:下次你需要帮助之时,我会相助。"
 dialogue|10|88|Dialogue Text,Wait. I'm not ready after all.,等等。我终究还没有准备好。
@@ -102,7 +102,7 @@ dialogue|10|96|Dialogue Text,"I look forward to meeting again on the other side 
 dialogue|10|97|Dialogue Text,It must be tedious for you being trapped in this scrine. I hope it's a welcome diversion.,"被困在这座圣龛里,想必十分乏味。但愿,这是个受欢迎的消遣。"
 dialogue|10|98|Dialogue Text,Don't keep me waiting.,别让我久等。
 dialogue|10|9|Dialogue Text,"Perhaps where you're standing, you hybrid of mirk.","或许,在你站着的地方是这样,你这幽暗的杂种。"
-dialogue|11|10|Dialogue Text,[Show French passport] Sylvain Huissier.,[出示法国护照] 西尔万·于西耶。
+dialogue|11|10|Dialogue Text,[Show French passport] Sylvain Huissier.,[出示法国护照] 西尔万·韦西耶。
 dialogue|11|11|Dialogue Text,[The big man dangles the passport from one corner between finger and thumb. He inspects it without interest.],"[大汉用拇指和食指捏着护照一角,让它悬着。他毫无兴致地检视它。]"
 dialogue|11|12|Dialogue Text,This is not the Republic. Your papers are worthless.,这里不是共和国。你的证件一文不值。
 dialogue|11|13|Dialogue Text,This is becoming tiresome. I'm not a man you want to cross. Take me to the Director.,这可越来越让人生厌了。我可不是你想招惹的人。带我去见院长。
@@ -170,7 +170,7 @@ dialogue|12|106|Dialogue Text,Ask! It gets lonely up here.,问吧!这上头怪�
 dialogue|12|107|Dialogue Text,"Poor old fool. I don't know if he wants to be cured or not. Don't think he can be, course. I've never seen someone stop going [[Cross]].","可怜的老傻瓜。我不知道他到底想不想被治愈。当然,我想他也治不好。我从没见过有人能中止走向介壳种的。"
 dialogue|12|108|Dialogue Text,The whole business is making him... surly. No sense of humour.,这整档子事让他变得……乖戾。一点幽默感也没有了。
 dialogue|12|109|Dialogue Text,Do you know Rodia?,你认识罗迪娅吗?
-dialogue|12|110|Dialogue Text,What do you think of Dr Aubière?,你觉得欧比耶尔医生怎么样?
+dialogue|12|110|Dialogue Text,What do you think of Dr Aubière?,你觉得奥比埃医生怎么样?
 dialogue|12|111|Dialogue Text,"He's, ehh... I've known worse. Pay's good, and it's stinking hard to find work since the War, you know? Especially somewhere like this. The sun still shines. The rain doesn't burn. No difficult dead.","他嘛,呃……我见过更差的。薪水不错,而且战后这日子,想找份活儿难得很,你知道吧?尤其是这种地方。阳光照样照耀。雨水不会灼人。也没有难缠的死人。"
 dialogue|12|112|Dialogue Text,You mean your employer? And mine? Nothing I'd care to air. [Vincent winks.],你是说你的雇主?也是我的?没什么我想声张的。[文森特挤挤眼。]
 dialogue|12|113|Dialogue Text,How do you get on with Mathis?,你跟马蒂斯处得怎么样?
@@ -201,7 +201,7 @@ dialogue|12|136|Dialogue Text,"Brr! That's what you turn to thinking, when you s
 dialogue|12|137|Dialogue Text,Her name is [[Nina Lagasse]]... and I'm certain you'd remember her.,她的名字叫尼娜·拉加斯……而且我敢肯定你一定记得她。
 dialogue|12|138|Dialogue Text,Do I. Do I ever. ,记得。岂止是记得。
 dialogue|12|139|Dialogue Text,[Vincent shivers - though with what emotion is not immediately obvious.],"[文森特打了个寒颤——至于那是出于何种情绪,一时还看不分明。]"
-dialogue|12|13|Dialogue Text,"Lieutenant - Lieutenant [[Huissier]]! It's you, damn your eyes! [Vincent is grinning.]","中尉——于西耶中尉!是你,真见鬼![文森特咧嘴笑着。]"
+dialogue|12|13|Dialogue Text,"Lieutenant - Lieutenant [[Huissier]]! It's you, damn your eyes! [Vincent is grinning.]","中尉——韦西耶中尉!是你,真见鬼![文森特咧嘴笑着。]"
 dialogue|12|142|Dialogue Text,Actually - I'll talk to you later.,其实——我回头再跟你聊。
 dialogue|12|14|Dialogue Text,"Vincent - Vincent Chraibi! In my Légion du Seuil days, we were posted together to watch the Bounds in Algeria. I remember that Vincent was a bit of a scoundrel. But a lot of us were scoundrels, in the Légion. And the two of us always got on.","文森特——文森特·沙莱比!我还在门关军团时,我们曾一同被派驻阿尔及利亚看守边界。我记得文森特有点无赖习气。但在军团里,无赖者大有人在。而且我们俩一直处得来。"
 dialogue|12|15|Dialogue Text,"Come to think of it, I saved his leg.","说起来,我还救过他的腿。"
@@ -230,7 +230,7 @@ dialogue|12|41|Dialogue Text,I'm not sure about this.,我拿不准这事。
 dialogue|12|42|Dialogue Text,All right!,好嘞!
 dialogue|12|43|Dialogue Text,"[Vincent has joined you as a companion, and will assist with Skill challenges where he can.]","[文森特已成为你的同伴,会在力所能及处协助你应对技艺挑战。]"
 dialogue|12|44|Dialogue Text,Easily bored. You remember me. And there are people here I don't like so much.,容易无聊。你还记得我。而且这里有些我不太喜欢的人。
-dialogue|12|45|Dialogue Text,Did Aubière put you up to this? Are you spying on me?,是欧比耶尔指使你的吗?你在监视我?
+dialogue|12|45|Dialogue Text,Did Aubière put you up to this? Are you spying on me?,是奥比埃指使你的吗?你在监视我?
 dialogue|12|46|Dialogue Text,"It'll be dangerous, where I'm going.",我要去的地方会很危险。
 dialogue|12|47|Dialogue Text,[Vincent guffaws.] My lieutenant - we were in the Légion!,[文森特放声大笑。]我的中尉——我们可是在军团里待过的人!
 dialogue|12|48|Dialogue Text,Are we going back to Algeria?,我们要回阿尔及利亚吗?
@@ -269,7 +269,7 @@ dialogue|12|94|Dialogue Text,Listen. Are you a visitor? Resident? Staff?,听着�
 dialogue|12|95|Dialogue Text,Resident.,住客。
 dialogue|12|96|Dialogue Text,Resident... for now.,住客……暂时是。
 dialogue|12|97|Dialogue Text,[Lie] Staff.,[撒谎]工作人员。
-dialogue|12|98|Dialogue Text,I think I'm a visitor. Aubière thinks I'm a resident.,我觉得我是访客。欧比耶尔觉得我是住客。
+dialogue|12|98|Dialogue Text,I think I'm a visitor. Aubière thinks I'm a resident.,我觉得我是访客。奥比埃觉得我是住客。
 dialogue|12|99|Dialogue Text,"Welcome, then! ",那就欢迎你了!
 dialogue|13|100|Dialogue Text,Do you regret coming here?,你后悔来这儿吗?
 dialogue|13|101|Dialogue Text,"I could be in a camp. Or lost to flowers. Or foundered in a pit of bones. [She gestures with her cigarette.] And so I think, this place is not so bad. Here's my advice. Be the good doctor's guest; and be my company in the sun.","我本可能待在营地里。或迷失于繁花。或沉没于骸骨之坑。[她拿香烟比了个手势。] 所以我想,这地方还不算太糟。这是我的忠告:当好医生的座上宾,也做我日光下的伴侣。"
@@ -784,7 +784,7 @@ dialogue|142|97|Dialogue Text,'My friend.' We were never really introduced.,「�
 dialogue|142|98|Dialogue Text,"Don't be silly, Jaume.","别说傻话,若梅。"
 dialogue|142|99|Dialogue Text,"Honestly, I couldn't say whether or not I'm still, bureaucratically, a priest. I moved on before the process was complete. For all I know, the Vatican lost the paperwork. But either way, the mark remains.","说真的,我无法断言,在官僚意义上自己是否还算神父。程序走完之前,我便已离开了。说不定,梵蒂冈把文书弄丢了。但无论如何,印记仍在。"
 dialogue|143|100|Dialogue Text,'Spencer Hobson.',『斯宾塞·霍布森。』
-dialogue|143|101|Dialogue Text,'Sylvain Huissier'. But hush! I'm under cover.,『西尔万·于西耶』。可别声张！我在执行秘密任务。
+dialogue|143|101|Dialogue Text,'Sylvain Huissier'. But hush! I'm under cover.,『西尔万·韦西耶』。可别声张！我在执行秘密任务。
 dialogue|143|102|Dialogue Text,[American accent] Call me... 'Midnight Joe'.,[美国口音] 叫我……『午夜乔』。
 dialogue|143|103|Dialogue Text,English. I knew it immediately. A true English gentleman.,英国人。我一眼就看出来了。真正的英国绅士。
 dialogue|143|104|Dialogue Text,"Watch out for Jean-Bernard, then. He's a terrible gossip.",那可得当心让-贝尔纳。他是出了名的大嘴巴。
@@ -1085,7 +1085,7 @@ dialogue|145|20|Dialogue Text,'She said... you would open her eyes.' But the sai
 dialogue|145|22|Dialogue Text,Try a charm on the window - to invigorate or awaken it.,"对彩窗施一道咒文——让它焕发生机,或将之唤醒。"
 dialogue|145|24|Dialogue Text,Try a charm on the window - to discern truth or open the doors of perception.,"对彩窗施一道咒文——辨明真伪,或打开感知之门。"
 dialogue|145|25|Dialogue Text,Try a charm on the window - to suppress any influences that have taken up residence there.,对彩窗施一道咒文——压制任何盘踞其中的影响。
-dialogue|145|26|Dialogue Text,Saints collect <i>patrocinia</i> in much the same way that...,"圣徒们收集<i>圣护</i>,方式与……如出一辙。"
+dialogue|145|26|Dialogue Text,Saints collect <i>patrocinia</i> in much the same way that...,圣徒们收集<i>圣庇</i>的方式近乎与此如出一辙......
 dialogue|145|27|Dialogue Text,...magpies collect trinkets.,……喜鹊收集小玩意儿。
 dialogue|145|28|Dialogue Text,...dogs collect fleas.,……狗招惹跳蚤。
 dialogue|145|29|Dialogue Text,...adepts collect reputations.,……修士收集名声。
@@ -1122,7 +1122,7 @@ dialogue|147|5|Dialogue Text,"Fortunately, my information suggests Nina is in An
 dialogue|147|6|Dialogue Text,[Back into town.],[返回城里。]
 dialogue|14|101|Dialogue Text,I see. [He makes a note.],我明白了。[他记了一笔。]
 dialogue|14|102|Dialogue Text,What a lot of tripe psychiatrists talk.,精神病医生净说些废话。
-dialogue|14|103|Dialogue Text,"[Aubière gives a deep, sigh. His usual composure flickers.]",[奥比耶尔深深叹了口气。他惯常的镇定闪烁了一下。]
+dialogue|14|103|Dialogue Text,"[Aubière gives a deep, sigh. His usual composure flickers.]",[奥比埃深深叹了口气。他惯常的镇定闪烁了一下。]
 dialogue|14|104|Dialogue Text,Really. You have proven your goodwill and your reliability. And I am ashamed of the small - but shabby - trick that I have played on you.,说实话。你已证明了自己的善意和可靠。而我为自己对你耍的那个小把戏——卑劣却无伤大雅——感到羞愧。
 dialogue|14|105|Dialogue Text,I must be frank. You have brought disharmony to my house. Your presence here makes it increasingly difficult to concentrate on more important business.,"我得直说。你给我的宅院带来了不谐。你的在场,让我愈发难以专心处理更要紧的事务。"
 dialogue|14|107|Dialogue Text,"[Chuckle, smugly.]",[得意地轻笑了几声。]
@@ -1132,12 +1132,12 @@ dialogue|14|110|Dialogue Text,Yes. This. Exactly. So I am going to tell you wher
 dialogue|14|111|Dialogue Text,Count on it.,放心。
 dialogue|14|112|Dialogue Text,I promise nothing.,我什么也不保证。
 dialogue|14|114|Dialogue Text,"You may leave now, Monsieur Hobson. I very much hope that you will. Good day.","你现在可以走了,霍布森先生。我非常希望你会走。日安。"
-dialogue|14|115|Dialogue Text,"[Aubière nods minimally, and returns to his work.]","[奥比耶尔微微点了点头,又回去忙他的工作。]"
+dialogue|14|115|Dialogue Text,"[Aubière nods minimally, and returns to his work.]","[奥比埃微微点了点头,又回去忙他的工作。]"
 dialogue|14|117|Dialogue Text,"I imagine you will wish to leave without further delay. But I hope that you will return. You are an interesting man. I speak professionally, and otherwise.","我猜你会希望尽快离开,不再耽搁。但我希望你能回来。你是个有趣的人。这话出于职业立场,也出于别的。"
-dialogue|14|118|Dialogue Text,"Thank you, Dr Aubière. But I doubt our paths will cross again.","多谢,奥比耶尔医生。但我看咱们以后不会再见了。"
+dialogue|14|118|Dialogue Text,"Thank you, Dr Aubière. But I doubt our paths will cross again.","多谢,奥比埃医生。但我看咱们以后不会再见了。"
 dialogue|14|119|Dialogue Text,[Nod; leave.],[点头;告辞。]
 dialogue|14|11|Dialogue Text,"A catechism, M. Hobson?",霍布森先生，你是在背教理问答吗？
-dialogue|14|120|Dialogue Text,"And you, Dr Aubière. I hope we will meet again.","你也保重,奥比耶尔医生。希望咱们后会有期。"
+dialogue|14|120|Dialogue Text,"And you, Dr Aubière. I hope we will meet again.","你也保重,奥比埃医生。希望咱们后会有期。"
 dialogue|14|121|Dialogue Text,Something I've seen.,我见过一样东西。
 dialogue|14|123|Dialogue Text,There's a painting of the Mansus on open display in your library.,"你的图书馆里,公开挂着一幅漫宿的画。"
 dialogue|14|124|Dialogue Text,Never mind.,没什么。
@@ -1158,10 +1158,10 @@ dialogue|14|137|Dialogue Text,"It is. But do you mean to suggest, perhaps, that 
 dialogue|14|138|Dialogue Text,"Yes. I suggest you tell me the truth, Doctor.","是。我劝你把真相告诉我,医生。"
 dialogue|14|139|Dialogue Text,"Of course not, Doctor.","当然没有,医生。"
 dialogue|14|13|Dialogue Text,"[Horomachistry] 'The Cross died not, but passed within.' They're gone, but some of them became us.",司辰学。「介壳种并未死去，而是转入内里。」他们消失了，但其中一些化作了我们。
-dialogue|14|140|Dialogue Text,"[Aubière briefly removes his glasses to polish them. When he replaces them, his eyes seem sharper.]","[奥比耶尔摘下眼镜擦了擦。再戴上时,他的眼神似乎更锐利了。]"
+dialogue|14|140|Dialogue Text,"[Aubière briefly removes his glasses to polish them. When he replaces them, his eyes seem sharper.]","[奥比埃摘下眼镜擦了擦。再戴上时,他的眼神似乎更锐利了。]"
 dialogue|14|141|Dialogue Text,"I have concealed nothing from you. The circles in which we both move - the same matters occur, and co-occur. And this institution - indeed, this building itself - benefits from certain parallels to your [[Hush House]]. Some, I will be frank, beyond my understanding.","我对你什么都没隐瞒。我们彼此活动的圈子里——同样的事一再发生,交相发生。而本院——说实在的,连这栋房子本身——得益于与你的[[噤声居屋]]的某些相似。其中一些,老实说,超出我的理解。"
 dialogue|14|142|Dialogue Text,"That is all. If there is a deeper design, it is hidden from me also. You have my word on it.","就这些。若说背后还有更深的设计,那对我同样隐而不见。我以名誉担保。"
-dialogue|14|143|Dialogue Text,"You're a liar, Aubière.","你撒谎,奥比耶尔。"
+dialogue|14|143|Dialogue Text,"You're a liar, Aubière.","你撒谎,奥比埃。"
 dialogue|14|144|Dialogue Text,"Your word is enough for me, Doctor.","医生,你的话,我信。"
 dialogue|14|145|Dialogue Text,It is a regrettable thing you have said. I do not wish to speak further on the matter. Pray give me a moment to compose myself.,你这话说得令人遗憾。这件事我不想再谈了。请容我平复一下心绪。
 dialogue|14|146|Dialogue Text,"I appreciate that. I will not always be frank with you, you know. But I will always try.","我领这份情。你知道,我不会总是对你开诚布公。但我会一直尽力。"
@@ -1245,16 +1245,16 @@ dialogue|14|38|Dialogue Text,We will need to speak of it later. But let's not ma
 dialogue|14|39|Dialogue Text,<i>Hélas</i>; my little sin is exposed.,<i>唉</i>；我的小罪过败露了。
 dialogue|14|3|Dialogue Text,"[HOROMACHISTRY] 'He cannot be stilled; he demands the dance; he is beaten, like a drum.'",司辰学。「他无法静止；他渴求舞蹈；他遭人敲打，如同鼓面。」
 dialogue|14|41|Dialogue Text,Then you don't provide any... little luxuries... for Strathcoyne?,这么说，你从不为斯特拉斯科因提供任何……小小的奢侈……？
-dialogue|14|43|Dialogue Text,[Aubière draws a slip of printed paper from his pocket and passes it to me.] Here is the proof of it. Now. I propose to put this sordid matter behind us. I look forward to speaking of happier things.,欧比耶尔从口袋里掏出一张印刷纸条，递给我。这就是证据。现在，我提议把这桩不光彩的事抛到脑后。我盼着谈些更愉快的事。
+dialogue|14|43|Dialogue Text,[Aubière draws a slip of printed paper from his pocket and passes it to me.] Here is the proof of it. Now. I propose to put this sordid matter behind us. I look forward to speaking of happier things.,奥比埃从口袋里掏出一张印刷纸条，递给我。这就是证据。现在，我提议把这桩不光彩的事抛到脑后。我盼着谈些更愉快的事。
 dialogue|14|46|Dialogue Text,So...,那么……
 dialogue|14|47|Dialogue Text,"Do you ever make use of the black market, Doctor?",医生，你可曾用过黑市？
 dialogue|14|48|Dialogue Text,"'Black market'. It's a diffuse concept, is it not? Of course one makes certain... informal transactions. But nothing that would interest the authorities.",「黑市。」这是个含混的概念，不是吗？当然，人难免会做某些……非正式的买卖。但绝无会让当局感兴趣的事。
 dialogue|14|4|Dialogue Text,[Evade] Sounds dangerous.,回避。听起来很危险。
 dialogue|14|50|Dialogue Text,"I see. Never mind, then.",我明白了。那就算了。
 dialogue|14|51|Dialogue Text,<i>À bientôt.</i>,<i>回头见。</i>
-dialogue|14|52|Dialogue Text,"Cut it out, Aubière. You're taking back-handers from Strathcoyne to get him Cuban cigars.",别装了，欧比耶尔。你从斯特拉斯科因那儿收好处费，替他搞古巴雪茄。
-dialogue|14|53|Dialogue Text,[Say nothing; place a cigar carefully on Aubière's desk; shake my head regretfully.],一言不发；把一支雪茄轻轻放在欧比耶尔的桌上；遗憾地摇摇头。
-dialogue|14|54|Dialogue Text,"Aubière picks up the cigar and runs it under his nose, smiling his smile of scrupulous cleanness.",欧比耶尔拿起雪茄，放到鼻下嗅了嗅，露出他那副一丝不苟的干净笑容。
+dialogue|14|52|Dialogue Text,"Cut it out, Aubière. You're taking back-handers from Strathcoyne to get him Cuban cigars.",别装了，奥比埃。你从斯特拉斯科因那儿收好处费，替他搞古巴雪茄。
+dialogue|14|53|Dialogue Text,[Say nothing; place a cigar carefully on Aubière's desk; shake my head regretfully.],一言不发；把一支雪茄轻轻放在奥比埃的桌上；遗憾地摇摇头。
+dialogue|14|54|Dialogue Text,"Aubière picks up the cigar and runs it under his nose, smiling his smile of scrupulous cleanness.",奥比埃拿起雪茄，放到鼻下嗅了嗅，露出他那副一丝不苟的干净笑容。
 dialogue|14|55|Dialogue Text,"But it is a such a little sin, is it not, M. Hobson? I hardly think you would wish to waste the time of the police with this. And I am a man of some standing in Antibes.",可这是多么微小的罪过，不是吗，霍布森先生？我想，你总不至于想为这点事浪费警察的时间。何况，我在昂蒂布也算有些声望。
 dialogue|14|56|Dialogue Text,But your Incorporate masters might take a dim view of your private operations.,但你的集团主子们，怕是会对你的私下勾当大为不满。
 dialogue|14|57|Dialogue Text,"A <i>very</i> little sin. And I'm sorry that I've come to you in this sordid way. Tell me what I need to know, and we need never speak of it again.",一个<i>非常</i>微小的罪过。我也抱歉，以这般不光彩的方式来找你。告诉我我想知道的，我们便再也不用提起此事。
@@ -1264,7 +1264,7 @@ dialogue|14|5|Dialogue Text,[Lie] 'Thunderskin?' I've never heard of it.,谎话�
 dialogue|14|60|Dialogue Text,Very well. [[Nina Lagasse]]?,那好吧。[[尼娜·拉加斯]]?
 dialogue|14|61|Dialogue Text,[[Nina Lagasse]].,[[尼娜·拉加斯]]。
 dialogue|14|63|Dialogue Text,[[Nina Lagasse]]. And whatever cash you might have in that desk of yours.,[[尼娜·拉加斯]]。还有你那张书桌里可能放着的现钞。
-dialogue|14|64|Dialogue Text,[Dr Aubière's smile falters; it becomes tinged with sorrow. But he opens a drawer and places a crisp wad of notes on to the desk.] There. As to the other matter...,"[奥比耶尔医生的笑容微微僵住,染上一丝哀色。但他还是拉开抽屉,把一沓崭新的钞票放到桌上。]钱在这。至于另一件事……"
+dialogue|14|64|Dialogue Text,[Dr Aubière's smile falters; it becomes tinged with sorrow. But he opens a drawer and places a crisp wad of notes on to the desk.] There. As to the other matter...,"[奥比埃医生的笑容微微僵住,染上一丝哀色。但他还是拉开抽屉,把一沓崭新的钞票放到桌上。]钱在这。至于另一件事……"
 dialogue|14|65|Dialogue Text,"Mlle Lagasse travels with a circus. She left it to come here; she left here to catch up with it. The name of the circus was <i>Rosa Mundi</i>, and its next destination was the city of Mimata. That is as much as I know.","拉加斯小姐跟着一个马戏团四处巡游。她离开马戏团来到此地;离开此地,是为了赶回去。那马戏团名叫<i>罗莎·蒙迪</i>,下一站是米玛塔城。我所知道的,仅此而已。"
 dialogue|14|66|Dialogue Text,"Of course, Doctor. I'm sorry to have troubled you.","当然,医生。打扰您了,抱歉。"
 dialogue|14|67|Dialogue Text,[Smile nastily.],[不怀好意地笑了笑。]
@@ -1272,7 +1272,7 @@ dialogue|14|68|Dialogue Text,[Smile enigmatically.],[高深莫测地笑了笑。
 dialogue|14|70|Dialogue Text,"M. Hobson, I have lost a trinket. A little silver coin I'm certain it was on my desk when we spoke. Do you know what might possibly have happened to it?","霍布森先生,我丢了件小玩意儿。一枚小小的银币,我记得咱们说话的时候它还放在我桌上。你知道它可能上哪儿去了吗?"
 dialogue|14|71|Dialogue Text,"Come now, doctor. I have my quirks, but I've never been a petty thief. [Smile amiably.]","得了吧,医生。我确实有些怪癖,但从来不做小偷小摸的事。[和气地笑了笑。]"
 dialogue|14|72|Dialogue Text,[Bristle Englishly] Really? [Pause] Really!,[摆出英国人的派头]真的?[顿了顿]真的!
-dialogue|14|73|Dialogue Text,"Interesting. An effect of the Wars, you know. As the onteiric order crumbles, it becomes much easier to lose things. I'm astonished I have any socks left at , for instance.","有意思。战争的效应,你知道。梦境协调局的秩序一旦崩解,丢东西就容易得多。我倒很惊讶自己现在还能剩几双袜子呢,比如说。"
+dialogue|14|73|Dialogue Text,"Interesting. An effect of the Wars, you know. As the onteiric order crumbles, it becomes much easier to lose things. I'm astonished I have any socks left at , for instance.","有意思。战争的效应,你知道。太虚的秩序一旦崩解,丢东西就容易得多。我倒很惊讶自己现在还能剩几双袜子呢,比如说。"
 dialogue|14|75|Dialogue Text,Humm. I'm sorry to have troubled you. I'm sure it's somewhere. It's probably somewhere.,"唔。打扰你了,抱歉。肯定在什么地方。大概在什么地方吧。"
 dialogue|14|76|Dialogue Text,Humm. I suppose we'll see.,唔。我想我们总会知道的。
 dialogue|14|77|Dialogue Text, [Return the silver spintria.]I apologise. I submitted to an ignoble impulse., [归还那枚银币。]我道歉。我屈从于一念之鄙。
@@ -1313,7 +1313,7 @@ dialogue|151|2|Dialogue Text,Come in; welcome.,"进来吧,欢迎。"
 dialogue|151|30|Dialogue Text,"I never mix business with politics. A rule of long standing. Very useful, this last decade. Now: shall we do business?","我从不把生意与政治混为一谈。这是多年的规矩。过去这十年,尤其受用。好了:我们谈生意吧?"
 dialogue|151|31|Dialogue Text,"Later, perhaps.",改日再说吧。
 dialogue|151|32|Dialogue Text,You knew me as Spencer Hobson.,您认识的我是斯宾塞·霍布森。
-dialogue|151|33|Dialogue Text,You knew me as Sylvain Huissier.,您认识的我是西尔万·于西耶。
+dialogue|151|33|Dialogue Text,You knew me as Sylvain Huissier.,您认识的我是西尔万·韦西耶。
 dialogue|151|34|Dialogue Text,"Forgive me, [q=alias.formal.fr], but there is something about you that recalls... the abandoned chocolate-box. The colours are bright, the corners square, the lid only a little askew. But one senses an absence.","恕我直言,[q=alias.formal.fr],您身上有某种东西让我想起……一盒被遗弃的巧克力。色彩鲜亮,棱角方正,盒盖只是微微歪斜。但人感觉得到,里面空了。"
 dialogue|151|35|Dialogue Text,"I should not, perhaps, have raised the matter. I hope I have not offended.","也许,我不该提起这件事。希望没有冒犯到您。"
 dialogue|151|36|Dialogue Text,[Sniff severely.],[重重地哼了一声。]
@@ -1480,7 +1480,7 @@ dialogue|155|216|Dialogue Text,"Thank you, Milicien. But I just want to be close
 dialogue|155|217|Dialogue Text,Enough!,够了！
 dialogue|155|218|Dialogue Text,Hm... so here we are at the heart of the matter.,嗯……这就说到问题的核心了。
 dialogue|155|219|Dialogue Text,[Reply frivolously.],[轻佻地回答。]
-dialogue|155|21|Dialogue Text,Sylvain Huissier.,西尔万·于西耶。
+dialogue|155|21|Dialogue Text,Sylvain Huissier.,西尔万·韦西耶。
 dialogue|155|220|Dialogue Text,"An aristocratic name. In fact, 'François' is the Admiral's first name. ",一个贵族气的名字。事实上，“弗朗索瓦”正是那位海军上将的名字。
 dialogue|155|222|Dialogue Text,[Consider my papers - what do I have?],[想想我的证件——手头有什么？]
 dialogue|155|223|Dialogue Text,[I have no papers I'm willing to show the milicien.],[我没有愿意给这个民兵看的证件。]
@@ -1497,7 +1497,7 @@ dialogue|155|234|Dialogue Text,"Beyond the gates, a sign reads SANITARIUM AUJOUR
 dialogue|155|235|Dialogue Text,[Look around.],[四下看看。]
 dialogue|155|236|Dialogue Text,"Léon returns, smiling.",莱昂笑着回来了。
 dialogue|155|237|Dialogue Text,It's done. The State thanks you.,办妥了。邦国感谢你。
-dialogue|155|238|Dialogue Text,There are... abysses of night... in Antibes.,昂蒂布有……黑夜的深渊……
+dialogue|155|238|Dialogue Text,There are... abysses of night... in Antibes.,有……黑夜的深渊……在昂蒂布。
 dialogue|155|239|Dialogue Text,And?,然后呢？
 dialogue|155|240|Dialogue Text,No-one mentioned them.,没人提过这事。
 dialogue|155|241|Dialogue Text,Shouldn't someone... put up some sort of sign?,难道就不该有人……立块什么警示牌吗？
@@ -1661,14 +1661,14 @@ dialogue|166|26|Dialogue Text,"[High and perilous knowledge?? Show me, now!]",[�
 dialogue|166|2|Dialogue Text,"Serious adepts might sniff at the idea of kitchen rituals. But practitioners of Preservation know better. And Ithastry might be a high art, but you can get a lot done over an ordinary gas flame.","一本正经的修士或许会对厨房里的仪式嗤之以鼻。但保存术的修习者心里有数。盗火术或许是门高深的技艺,可在寻常的煤气火焰上,也能做成许多事。"
 dialogue|167|2|Dialogue Text,[Turn my face up to the sun. Close my eyes.],[把脸迎向太阳。闭上眼睛。]
 dialogue|167|3|Dialogue Text,A moment of peace beneath the swaying leaves. Then back to the world.,"摇曳的枝叶之下,一瞬安宁。然后,回到这个世界。"
-dialogue|167|4|Dialogue Text,"Like picnics, the Arts Unconsidered - Bosk, Birdsong, Preservation - do well out in the open air. Unlike picnics, they're safer as a solitary practice.","与野餐一样,未拾技艺——丛林学、鸟鸣学、保存术——在开阔的露天里也大有可为。与野餐不同的是,它们独自修习时更为安全。"
+dialogue|167|4|Dialogue Text,"Like picnics, the Arts Unconsidered - Bosk, Birdsong, Preservation - do well out in the open air. Unlike picnics, they're safer as a solitary practice.","与野餐一样,未识技艺——丛林学、鸟鸣学、保存术——在开阔的露天里也大有可为。与野餐不同的是,它们独自修习时更为安全。"
 dialogue|167|5|Dialogue Text,[Back into the park.],[回到公园里。]
 dialogue|168|5|Dialogue Text,"TO OUR DEAD, 1914-1919. Dark years, and darkness hangs here like smoke.","「致吾等逝者,1914-1919。黑暗的岁月,黑暗如烟,至今悬垂于此。」"
 dialogue|168|6|Dialogue Text,"My first war, that. I was a chaplain with the Dorsetshires. In different times, I'd never have been attached so young.","那是我的第一场战争。当时,我是多塞特团的随军牧师。若在别的时代,我绝不会那么年轻就被编入团中。"
 dialogue|168|7|Dialogue Text,"The arts of Bosk, of Hushery, of Skolekosophy are best worked in shadow.","丛林学、静默术、蠕虫学这些技艺,最宜在暗影之中施展。"
 dialogue|168|8|Dialogue Text,A memory uncoils...,"一段回忆,缓缓舒展开来……"
 dialogue|168|9|Dialogue Text,[Leave.],[离开。]
-dialogue|169|10|Dialogue Text,And tucked away at the back... a tin of coffee. Three-quarters full.,"而在最里面,藏着一听咖啡。还剩四分之三。"
+dialogue|169|10|Dialogue Text,And tucked away at the back... a tin of coffee. Three-quarters full.,而在最里面……藏着一听咖啡。还剩四分之三。
 dialogue|169|11|Dialogue Text,[Pop the top and sniff.],[掀开盖子闻一闻。]
 dialogue|169|13|Dialogue Text,"Surprisingly fresh, especially for the coffee-less wilderness of post-war Europe. It's an imported British brand. She must have connections... or she must be a connection herself.","出乎意料地新鲜,尤其是在战后欧洲这片没有咖啡的荒原上。是个进口的英国牌子。她必定有些门路……或者,她自己就是个门路。"
 dialogue|169|14|Dialogue Text,Better not mention this in the café.,这件事最好别在店里提起。
@@ -1819,7 +1819,7 @@ dialogue|218|5|Dialogue Text,[Craft] Use it.,[炼制] 加以利用。
 dialogue|218|6|Dialogue Text,Leave it.,置之不理。
 dialogue|219|1|Dialogue Text,"The grass here ripples with life, like a well-kept horse in a sunray.","此处的草叶如波浪般起伏,生机盎然,像一匹养得油亮的马立在日光之中。"
 dialogue|219|2|Dialogue Text,The woman in the chair is watching me curiously. I should at least speak to her before I begin interfering with her floor.,"椅中的女人正好奇地看着我。在我开始动她的地板之前,至少该先同她说句话。"
-dialogue|219|3|Dialogue Text,A good place for the Arts Unconsidered.,施展未拾技艺的好地方。
+dialogue|219|3|Dialogue Text,A good place for the Arts Unconsidered.,施展未识技艺的好地方。
 dialogue|219|4|Dialogue Text,[Leave the Verdant Place alone for the moment.],[暂且别动那片青翠之地。]
 dialogue|219|5|Dialogue Text,[Craft] To work.,[炼制] 开工。
 dialogue|219|6|Dialogue Text,Later.,改日再说。
@@ -2014,7 +2014,7 @@ dialogue|25|6|Dialogue Text,Let 'em guess.,让他们猜去吧。
 dialogue|25|7|Dialogue Text,Why do I do the things that I do?,我为何会做出我所做的事？
 dialogue|25|8|Dialogue Text,'Why?' When did I ever care about 'why'?,「为什么」？我几时在乎过「为什么」？
 dialogue|25|9|Dialogue Text,"There's always a reason... but often, I'm playing the long game.",总归有理由……但很多时候，我放的是长线。
-dialogue|26|10|Dialogue Text,"...while my pre-Wars French passport, in the name of Sylvain Huissier, gives my place of birth accurately. But the France that issued it no longer exists, and the passport is long invalid.","……而我那本战前的法国护照,以西尔万·于西耶之名签发,出生地写得分毫不差。但签发它的那个法国已不复存在,护照也早已失效。"
+dialogue|26|10|Dialogue Text,"...while my pre-Wars French passport, in the name of Sylvain Huissier, gives my place of birth accurately. But the France that issued it no longer exists, and the passport is long invalid.","……而我那本战前的法国护照,以西尔万·韦西耶之名签发,出生地写得分毫不差。但签发它的那个法国已不复存在,护照也早已失效。"
 dialogue|26|1|Dialogue Text,A bulky manila envelope bulges an inside pocket. Time to open it.,一只厚实的牛皮纸信封把内袋撑得鼓鼓囊囊。该打开它了。
 dialogue|26|2|Dialogue Text,[Retrieve the contents.],[取出其中的物件。]
 dialogue|26|4|Dialogue Text,"Two passports. Neither qualifies me as a citizen of the French State. My British passport, in the name of Spencer Hobson, is valid, though the place of birth is false...","两本护照。没有一本能证明我是法国邦国的公民。我那本英国护照以斯宾塞·霍布森之名签发,依然有效,只是出生地是假的……"
@@ -2053,7 +2053,7 @@ dialogue|27|39|Dialogue Text,[A long shrug.],[一个长长的耸肩。]
 dialogue|27|40|Dialogue Text,Do you mind if I ask you about someone?,介意我向你打听一个人吗?
 dialogue|27|42|Dialogue Text,About Vincent...,关于文森特……
 dialogue|27|43|Dialogue Text,About Strathcoyne...,关于斯特拉斯科因……
-dialogue|27|44|Dialogue Text,Aubière...,欧比耶尔……
+dialogue|27|44|Dialogue Text,Aubière...,奥比埃……
 dialogue|27|45|Dialogue Text,[[Nina Lagasse]]...,[[尼娜·拉加斯]]……
 dialogue|27|46|Dialogue Text,I know nothing.,我一无所知。
 dialogue|27|48|Dialogue Text,"The richer the man, the harder to like. M. Strathcoyne [the name is much gallified] is very rich.","人越有钱,越难让人喜欢。斯特拉斯科因先生[这名字被法语化得厉害]非常有钱。"
@@ -2523,7 +2523,7 @@ dialogue|36|31|Dialogue Text,"[Nothing obvious happens. Eventually, I drift off 
 dialogue|36|32|Dialogue Text,"And I'm here, as I promised. I can't take your hand. Sinombre has passed beyond flesh. But now turn to my light and consider my voice, and we'll see what will open to you...",而我如约来了。我无法握住你的手——西诺姆布尔已超脱肉身。但现在，转向我的光，凝听我的声音，看看有什么会为你开启……
 dialogue|36|33|Dialogue Text,[Something opens to me.],[有什么为我打开了。]
 dialogue|36|34|Dialogue Text,[Dreams.],[梦境。]
-dialogue|36|35|Dialogue Text,"I prepared Labrikon earlier. I'll use it to visit Aubière's dreams. [This won't be restful, and you won't lose Troubles.]",我之前准备了拉布里孔。我要用它进入欧比耶尔的梦境。[这一觉不会安稳，烦扰也不会消除。]
+dialogue|36|35|Dialogue Text,"I prepared Labrikon earlier. I'll use it to visit Aubière's dreams. [This won't be restful, and you won't lose Troubles.]",我之前准备了拉布里孔。我要用它进入奥比埃的梦境。[这一觉不会安稳，烦扰也不会消除。]
 dialogue|36|36|Dialogue Text,"A drop on each eyelid, in each ear, on the tip of the tongue. Sprinkle the rest around the room.",每只眼皮上一滴，每只耳朵里一滴，舌尖上一滴。剩下的洒在房间各处。
 dialogue|36|37|Dialogue Text,"The odour of Labrikon is grainy and dank - like cellar-stone, or the smell of the lower layers of the Mansus.",拉布里孔的气味粗粝而阴湿——像地窖的石头，像漫宿底层的味道。
 dialogue|36|38|Dialogue Text,"Lie back, close my eyes, wait for sleep.",躺下，闭上眼，等待睡意降临。
@@ -2687,14 +2687,14 @@ dialogue|41|2|Dialogue Text,Mirrors. They are duplicitous things.,镜子。都�
 dialogue|41|30|Dialogue Text,Murmur an invocation to the [[Watchman]]. See what might be revealed.,向[[守夜人]]低声念诵祷文，看看会揭示出什么。
 dialogue|41|31|Dialogue Text,A hidden door! Not locked in any way that might matter.,一扇暗门！门上没有任何值得一提的锁。
 dialogue|41|32|Dialogue Text,Step through.,跨步而入。
-dialogue|41|35|Dialogue Text,I'm by the wall at the back of Aubière's office.,我正站在欧比耶尔办公室的后墙边。
-dialogue|41|36|Dialogue Text,"If I step through the hidden door here, I'll be in Aubière's secret office, or secret lumber room.",若我从这里的暗门穿过去，就会进到欧比耶尔的秘室，或他那间秘密储物室。
+dialogue|41|35|Dialogue Text,I'm by the wall at the back of Aubière's office.,我正站在奥比埃办公室的后墙边。
+dialogue|41|36|Dialogue Text,"If I step through the hidden door here, I'll be in Aubière's secret office, or secret lumber room.",若我从这里的暗门穿过去，就会进到奥比埃的秘室，或他那间秘密储物室。
 dialogue|41|37|Dialogue Text,A wave of panic washes over me. What if the door has somehow stuck? What if I can't get out?,一阵恐慌如潮水漫过我。万一门卡住了呢？万一我出不去呢？
 dialogue|41|38|Dialogue Text,It won't be stuck. I can get out.,不会卡住的。我出得去。
 dialogue|41|39|Dialogue Text,"I can always get out. (But once I couldn't, whispers the night.)",我总能出得去。（但有那么一次我出不去，夜色低声说。）
 dialogue|41|3|Dialogue Text,The moonlight here is clear enough to make out the edges of the discoloured patch - of the texture of the paint.,这里的月光清朗得足以辨出那块变色区域的边缘——以及涂料的纹理。
-dialogue|41|40|Dialogue Text,Step back through to Aubière's outer office.,穿回欧比耶尔的外间办公室。
-dialogue|41|42|Dialogue Text,But of course I can't do that when Aubière is here.,但欧比耶尔在场的时候，我当然不能这么做。
+dialogue|41|40|Dialogue Text,Step back through to Aubière's outer office.,穿回奥比埃的外间办公室。
+dialogue|41|42|Dialogue Text,But of course I can't do that when Aubière is here.,但奥比埃在场的时候，我当然不能这么做。
 dialogue|41|43|Dialogue Text,Like my patients. If you will excuse the drollery.,就像我的病人一样。请原谅这个玩笑。
 dialogue|41|44|Dialogue Text,[It isn't particularly funny. Smile anyway.],[并不怎么好笑。但还是笑一笑。]
 dialogue|41|46|Dialogue Text,[Funny. Smile.],[很好笑。微笑。]
@@ -2727,8 +2727,8 @@ dialogue|42|5|Dialogue Text,Leave the bear to its shadowy solitude.,让熊留在
 dialogue|42|6|Dialogue Text,"Glass eyes gleam, yellowed fangs. It must be decades dead.","玻璃眼珠闪着光,发黄的獠牙。它想必已死去数十年了。"
 dialogue|42|7|Dialogue Text,A plaque reads: JÉREMIE - HAUTE-GARONNE - 1895,铭牌上写着:热雷米 - 上加龙省 - 1895
 dialogue|42|8|Dialogue Text,"Like bristly, musty carpet - with a squelch to it, as if the carpet had been laid on a rotting floor.","像一块粗硬发霉的地毯——摸着还有湿漉漉的咕啾感,仿佛那地毯铺在了一具腐烂的地板上。"
-dialogue|42|9|Dialogue Text,"Perhaps the bear came with the house, originally. Presumably Aubière stuck it in here because he felt it didn't strike the right tone for his high-minded institution. ","也许这头熊原本就是随这宅子而来的。想来欧比耶尔把它塞进这里,是因为他觉得它与他那志趣高洁的机构调性不合。"
-dialogue|44|10|Dialogue Text,"Welland was a Forge-[[long]] with military inclinations - a member of the Society of the Noble Endeavour who were often alchemists and generals, British royalists. What was he doing in Atlanta in 1865? And why does he feature in Aubière's dream?",韦兰是一位有军人倾向的铸之[[长生者]]——“高尚事业社”的成员，该社中人多为炼金术士与将军，是英国的保皇党人。1865 年，他在亚特兰大做什么？又为何会出现在欧比耶尔的梦中？
+dialogue|42|9|Dialogue Text,"Perhaps the bear came with the house, originally. Presumably Aubière stuck it in here because he felt it didn't strike the right tone for his high-minded institution. ","也许这头熊原本就是随这宅子而来的。想来奥比埃把它塞进这里,是因为他觉得它与他那志趣高洁的机构调性不合。"
+dialogue|44|10|Dialogue Text,"Welland was a Forge-[[long]] with military inclinations - a member of the Society of the Noble Endeavour who were often alchemists and generals, British royalists. What was he doing in Atlanta in 1865? And why does he feature in Aubière's dream?",韦兰是一位有军人倾向的铸之[[长生者]]——“高尚事业社”的成员，该社中人多为炼金术士与将军，是英国的保皇党人。1865 年，他在亚特兰大做什么？又为何会出现在奥比埃的梦中？
 dialogue|44|1|Dialogue Text,"A glowering man in glowering middle age, nicely filling out an ornate military uniform.",一个阴沉着脸的男人，正值阴沉的盛年，把一身华丽的军装撑得刚刚好。
 dialogue|44|2|Dialogue Text,"Welland, Welland...",韦兰，韦兰……
 dialogue|44|3|Dialogue Text,Is there something odd about his hair?,他的头发是不是有点古怪？
@@ -2742,12 +2742,12 @@ dialogue|45|4|Dialogue Text,Retreat from the chill behind the white rope.,从白
 dialogue|45|5|Dialogue Text,I used to visit the White Door in dreams myself. Something about the chill tugs at a memory...,我自己过去也常在梦中拜访白门。那寒意似乎牵动着某段回忆……
 dialogue|45|7|Dialogue Text,"Before I left the world, sometimes I would dream of the White Door, and the Dead who gave up their voices to pass. After I left the world, in the days I drifted dark, other visitors mistook me for one of them. After a time, the visitors came no more; and I drifted higher...",在我离开人世之前，我偶尔会梦见白门，以及那些为通过而舍弃声音的亡者。离开人世之后，在我于黑暗中飘荡的日子里，其他访客把我误认作他们中的一员。过了一段时间，访客不再来了；而我飘向更高处……
 dialogue|45|8|Dialogue Text,Dreams flee on waking. The memory is gone where memories go.,梦在醒来时遁去。记忆已消逝，消逝于记忆该去之处。
-dialogue|46|1|Dialogue Text,"Aubière conceals his passions, but cannot suppress them. This panel fairly vibrates with the strength of his ambition.",欧比耶尔隐藏着自己的激情，却无法压制它们。这块木板随着他野心的力度微微震颤。
+dialogue|46|1|Dialogue Text,"Aubière conceals his passions, but cannot suppress them. This panel fairly vibrates with the strength of his ambition.",奥比埃隐藏着自己的激情，却无法压制它们。这块木板随着他野心的力度微微震颤。
 dialogue|46|2|Dialogue Text,"A panel of dark wood, daubed with the symbol of a closed eye. It resembles the door of the sanitarium living room; but it isn't actually a door, or I would be able to open it.",一块深色木板，上面涂着一个闭眼的符号。它像疗养院客厅的门；但它并不是真的门，否则我就能打开它了。
 dialogue|46|3|Dialogue Text,"In Fucine, 'the tongue of witches', that symbol means...",在富西讷语——“女巫之舌”——中，那个符号的意思是……
 dialogue|46|5|Dialogue Text,"'Passion' - intuition, the hidden rivers which flow beneath the soul.",“激情”——直觉，那些奔流于灵魂之下的隐秘河流。
 dialogue|46|6|Dialogue Text,...I don't recall. It can be difficult to understand writing in dreams.,……我不记得了。梦中的文字本就难以辨认。
-dialogue|47|1|Dialogue Text,Aubière treats his body with respect. This panel is solid and well-fitted.,欧比耶尔善待自己的躯体。这块木板厚实，严丝合缝。
+dialogue|47|1|Dialogue Text,Aubière treats his body with respect. This panel is solid and well-fitted.,奥比埃善待自己的躯体。这块木板厚实，严丝合缝。
 dialogue|47|2|Dialogue Text,"A panel of sturdy wood, daubed with the symbol of a cross-charged heart. It resembles the door of the sanitarium dining room; but it isn't actually a door, or I would be able to open it.",一块结实的木板，上面涂着一个缀有十字的心形符号。它像疗养院餐厅的门；但它并不是真的门，否则我就能打开它了。
 dialogue|47|3|Dialogue Text,"Some surgeons have been known to pray in the dead tongue called 'Fucine'. In its written form, that symbol means...",据说有些外科医生会用一种被称为“富西讷语”的死语祈祷。以书写形式呈现时，那个符号的意思是……
 dialogue|47|5|Dialogue Text,"...health, the body, the soul's dwelling-place.",……健康，躯体，灵魂的居所。
@@ -2755,7 +2755,7 @@ dialogue|47|6|Dialogue Text,"...I don't recall. It can be difficult to understan
 ","……我不记得了。梦中的文字本就难以辨认。
 "
 dialogue|47|7|Dialogue Text,[Back to the hallway.],[回到走廊。]
-dialogue|48|1|Dialogue Text,The wooden panel is cold and smooth. Aubière is a man of powerfully focused reason. ,木板冰冷而光滑。欧比耶尔是一个理智高度专注的人。
+dialogue|48|1|Dialogue Text,The wooden panel is cold and smooth. Aubière is a man of powerfully focused reason. ,木板冰冷而光滑。奥比埃是一个理智高度专注的人。
 dialogue|48|2|Dialogue Text,"A panel of varnished wood, daubed with the symbol of an open eye. It resembles the door of the sanitarium library; but it isn't actually a door, or I would be able to open it.",一块上了漆的木板，上面涂着一个睁眼的符号。它像疗养院图书室的门；但它并不是真的门，否则我就能打开它了。
 dialogue|48|3|Dialogue Text,"In Fucine, 'the dry tongue', that symbol means...",在富西讷语——“干涸之舌”——中，那个符号的意思是……
 dialogue|48|5|Dialogue Text,Reason. The uppermost components of the soul - the capacity for daylight understanding.,理智。灵魂最上层的构成——那种白昼般明彻的理解能力。
@@ -2814,15 +2814,15 @@ dialogue|49|66|Dialogue Text,"The arrangement is unconventional... certainly she
 dialogue|49|67|Dialogue Text,But here I am. This must be something for your notes.,但我就在这里。这想必值得你记上一笔。
 dialogue|49|68|Dialogue Text,Perhaps. If I remember this. It's really a dream?,也许吧。如果我还能记得。这真的只是一场梦？
 dialogue|49|69|Dialogue Text,Interesting. And a little concerning. I suppose this is what you people call 'nyctodromy'.,有趣。也有点令人不安。我猜这就是你们这些人所说的「夜游术」。
-dialogue|49|6|Dialogue Text,"Oh...yes. [Aubière glances, startled, at the image in the Wood.]",哦……是啊。[欧比耶尔吃了一惊，瞥向林地中的影像。]
+dialogue|49|6|Dialogue Text,"Oh...yes. [Aubière glances, startled, at the image in the Wood.]",哦……是啊。[奥比埃吃了一惊，瞥向林地中的影像。]
 dialogue|49|70|Dialogue Text,'You people'?,「你们这些人」？
 dialogue|49|71|Dialogue Text,Let's just call it a dream.,就当它是一场梦吧。
 dialogue|49|72|Dialogue Text,Adepts. Accursed wanderers. Remortals. Otherworldly entities...,修士。受诅咒的浪游者。长生者。异界存在……
 dialogue|49|73|Dialogue Text,"I mean nothing by it. But you understand it is surprising, to meet you in such a dream.",我并无冒犯之意。但你得理解，在这样一场梦里遇见你，实在令人惊讶。
 dialogue|49|74|Dialogue Text,Back to the world...,回到尘世……
 dialogue|49|75|Dialogue Text,[My heart pulses with desperation. The night responds. Give in to that desperation.],「我的心因绝望而搏动。夜回应了我。向那绝望屈服吧。」
-dialogue|49|76|Dialogue Text,I am threatening Aubière. Here I am in his secret thoughts. I will drag us both into madness if I must. We will both regret it. Scarlet darkness writhes at the edges of what we both see.,我在威胁欧比耶尔。我正身处他隐秘的思绪之中。若有必要，我会把我们都拖入疯狂。我们都会为此后悔。猩红的黑暗在我们两人的视野边缘翻腾。
-dialogue|49|77|Dialogue Text,"I have stopped speaking. Aubière watches me, wide-eyed.",我已不再言语。欧比耶尔睁大眼睛注视着我。
+dialogue|49|76|Dialogue Text,I am threatening Aubière. Here I am in his secret thoughts. I will drag us both into madness if I must. We will both regret it. Scarlet darkness writhes at the edges of what we both see.,我在威胁奥比埃。我正身处他隐秘的思绪之中。若有必要，我会把我们都拖入疯狂。我们都会为此后悔。猩红的黑暗在我们两人的视野边缘翻腾。
+dialogue|49|77|Dialogue Text,"I have stopped speaking. Aubière watches me, wide-eyed.",我已不再言语。奥比埃睁大眼睛注视着我。
 dialogue|49|78|Dialogue Text,"...let us not be hasty, M. Hobson.",……不要操之过急，霍布森先生。
 dialogue|49|79|Dialogue Text,She's a member of staff? Not just a patient?,她是这里的雇员？不只是个病人？
 dialogue|49|7|Dialogue Text,"This is a dream, is it not? How are you here?",这是一场梦，不是吗？你怎么会在这里？
@@ -2839,7 +2839,7 @@ dialogue|4|109|Dialogue Text,"Very well. How may I assist you?
 ","好吧。我能帮你什么？
 "
 dialogue|4|110|Dialogue Text,Nothing happens.,什么都没发生。
-dialogue|4|111|Dialogue Text,"Over steepled fingers, Aubière watches.",欧比耶尔指尖相抵，静静看着。
+dialogue|4|111|Dialogue Text,"Over steepled fingers, Aubière watches.",奥比埃指尖相抵，静静看着。
 dialogue|4|114|Dialogue Text,"A rattling sound. There is something inside, the weight of a large coin. Definitely neither consecrated wafers nor dust.",里面传来咔嗒声。有东西，分量像一枚大硬币。绝非祝圣面饼，也绝非尘埃。
 dialogue|4|116|Dialogue Text,"Latin, scratched, not engraved, on the base. The scratches have worn so thin that, had I not turned it to reflect the sunlight, I wouldn't have seen it at all. ECCE PRAESENSUM ROSARUM.",底部是拉丁文，划刻而成，而非镌刻。划痕磨损得极浅，若不是我把它转过来对着阳光，我根本不会看见。ECCE PRAESENSUM ROSARUM。
 dialogue|4|117|Dialogue Text,Scratches on the bottom. Perhaps someone scratched a message there and it wore away. Perhaps someone just stored it in a bag of nails.,底部有划痕。也许有人在那儿刻过一句话，后来磨损掉了。也许只是有人把它同一袋钉子放在一处。
@@ -2850,37 +2850,37 @@ dialogue|4|122|Dialogue Text,[Sombre interpretation] 'Mark well this foreboding 
 dialogue|4|123|Dialogue Text,"[Neutral interpretation] 'Behold, a presentiment of roses.'",中性之解。「看哪，这玫瑰的预感。」
 dialogue|4|124|Dialogue Text,[Optimistic interpretation] 'Here is the revelation of roses.',乐观之解。「这便是玫瑰的启示。」
 dialogue|4|125|Dialogue Text,Not a phrase I've heard in any liturgical or theological context.,这句话，我在任何礼拜仪式或神学语境中都未曾听过。
-dialogue|4|126|Dialogue Text,Aubière's mouth is also open.,欧比耶尔的嘴也张着。
+dialogue|4|126|Dialogue Text,Aubière's mouth is also open.,奥比埃的嘴也张着。
 dialogue|4|127|Dialogue Text,Remarkable!,了不起！
-dialogue|4|128|Dialogue Text,"Aubière cracks open a new notebook, clicks a clean chrome ballpoint pen, and excitedly jots down a note.",欧比耶尔翻开一本新笔记本，咔嗒一声按出一支锃亮的镀铬圆珠笔，兴奋地记下一笔。
+dialogue|4|128|Dialogue Text,"Aubière cracks open a new notebook, clicks a clean chrome ballpoint pen, and excitedly jots down a note.",奥比埃翻开一本新笔记本，咔嗒一声按出一支锃亮的镀铬圆珠笔，兴奋地记下一笔。
 dialogue|4|129|Dialogue Text,Your turn.,轮到你了。
 dialogue|4|130|Dialogue Text,So... Nina?,那么……尼娜？
-dialogue|4|131|Dialogue Text,Aubière stops writing. He purses his mouth thoughtfully.,欧比耶尔停下笔。他抿起嘴，若有所思。
+dialogue|4|131|Dialogue Text,Aubière stops writing. He purses his mouth thoughtfully.,奥比埃停下笔。他抿起嘴，若有所思。
 dialogue|4|132|Dialogue Text,"I apologise most sincerely, M. Hobson. I have reconsidered. I think it would be therapeutically unhelpful for me to tell you where to find Mlle Lagasse.",我万分真诚地向你道歉，霍布森先生。我重新考虑过了。我想，告诉你拉加斯小姐的去处，对你的治疗并无好处。
 dialogue|4|133|Dialogue Text,Really.,是吗。
 dialogue|4|134|Dialogue Text,You'll find it pretty damned therapeutically unhelpful if you <i>don't</i> tell me.,你要是<i>不</i>告诉我，你很快就会领教，那才叫对治疗毫无好处。
-dialogue|4|135|Dialogue Text,"I'm disappointed in you, Dr Aubière.",我对你很失望，欧比耶尔医生。
+dialogue|4|135|Dialogue Text,"I'm disappointed in you, Dr Aubière.",我对你很失望，奥比埃医生。
 dialogue|4|136|Dialogue Text,[Look him in the eye and wait.],直视他的眼睛，等着。
 dialogue|4|137|Dialogue Text,"My revised proposal is this. You remain as my guest for a few days, so that I can satisfy my - my concerns about your wellbeing. Your medical history is extraordinary. You must know that.",我修订后的提议是这样的。你以我客人的身份再留几天，好让我满足我——我对你安康的担忧。你的病史非同寻常。你应当知道这点。
 dialogue|4|138|Dialogue Text,"You mean, the Worms ate me, but here I am?",你是说，蠕虫吃了我，可我还在这儿？
 dialogue|4|139|Dialogue Text,I do understand that. And I can only repeat my apology.,我确实明白。而我只能再次道歉。
 dialogue|4|140|Dialogue Text,M. Hobson! We are surely not the kind of men to make <i>threats</i>!,霍布森先生！我们想来都不是会发出<i>威胁</i>的那种人！
-dialogue|4|141|Dialogue Text,"After a few moments, Aubière looks away. He coughs to cover his embarrassment.",片刻之后，欧比耶尔移开目光。他咳了一声，掩饰窘迫。
+dialogue|4|141|Dialogue Text,"After a few moments, Aubière looks away. He coughs to cover his embarrassment.",片刻之后，奥比埃移开目光。他咳了一声，掩饰窘迫。
 dialogue|4|142|Dialogue Text,To hell with your revised proposal. To hell with your institution. And to particular hell with you.,去你修订后的提议。去你的疗养院。尤其，去你。
 dialogue|4|143|Dialogue Text,'Guest'. And what if I want to leave?,「客人。」那，要是我执意离开呢？
 dialogue|4|144|Dialogue Text,"Good heavens, M. Hobson, then you can leave, of course, at any time! I would in any case find it very difficult to restrict your movements.",天哪，霍布森先生，那您当然随时都可以离开！况且，要限制您的行动，我无论如何也会觉得很难办。
-dialogue|4|146|Dialogue Text,[Aubière makes a moue of distaste.] Just so. Among other things.,欧比耶尔厌恶地撇了撇嘴。正是如此。诸如此类。
+dialogue|4|146|Dialogue Text,[Aubière makes a moue of distaste.] Just so. Among other things.,奥比埃厌恶地撇了撇嘴。正是如此。诸如此类。
 dialogue|4|147|Dialogue Text,"Do you want to treat me, or to study me?",你是想治疗我，还是研究我？
-dialogue|4|148|Dialogue Text,[Aubière flaps a hand deprecatingly.] An old friend of mine would say: 'Why only one? Why only two?',欧比耶尔不以为然地摆摆手。我的一位老朋友会说：「为什么只有一个？为什么只有两个？」
+dialogue|4|148|Dialogue Text,[Aubière flaps a hand deprecatingly.] An old friend of mine would say: 'Why only one? Why only two?',奥比埃不以为然地摆摆手。我的一位老朋友会说：「为什么只有一个？为什么只有两个？」
 dialogue|4|150|Dialogue Text,[Mull a response.],斟酌着如何作答。
 dialogue|4|151|Dialogue Text,"It is full sunlight in this room, but I can almost hear the night. The night would say: stay here, and you might win this man's co-operation. Or you might find another way. You might not need his co-operation.",这间屋子里阳光满溢，但我几乎能听见夜晚。夜晚会说：留在这里，你或许能赢得这个人的合作。或者你可以另寻他路。也许你根本不需要他的合作。
 dialogue|4|152|Dialogue Text,Ask more questions.,再问些问题。
-dialogue|4|153|Dialogue Text,[Decide] Dr Aubière...,下定决心。欧比耶尔医生……
+dialogue|4|153|Dialogue Text,[Decide] Dr Aubière...,下定决心。奥比埃医生……
 dialogue|4|154|Dialogue Text,Yes?,嗯？
 dialogue|4|155|Dialogue Text,I agree to your revised proposal.,我接受你修订后的提议。
 dialogue|4|156|Dialogue Text,I'll stay here for the moment. And perhaps we'll talk again.,我暂且留在这里。也许，我们还会再谈。
 dialogue|4|157|Dialogue Text,"I understand your feelings, M. Hobson, most sincerely I -",我理解你的感受，霍布森先生，万分真诚地，我——
-dialogue|4|158|Dialogue Text,"[Stand up abruptly; stalk out, daring Aubière to ask for his box back.]",猛然起身；大步离去，看欧比耶尔敢不敢开口讨回他的盒子。
+dialogue|4|158|Dialogue Text,"[Stand up abruptly; stalk out, daring Aubière to ask for his box back.]",猛然起身；大步离去，看奥比埃敢不敢开口讨回他的盒子。
 dialogue|4|159|Dialogue Text,[Stand up abruptly; drop the pyx clattering on his desk; stalk out.],猛然起身；把圣体盒哐当丢在他桌上；大步离去。
 dialogue|4|15|Dialogue Text,"I propose an arrangement. I have in my desk a certain box, which has resisted my efforts to open it. Before your so-mysterious disappearance, you were, I understand, good with locks. Seals. Safeguards of that kind.","我提议一项安排。我的书桌里有一只盒子,一直抗拒着我打开它的尝试。在您那次神秘莫测的失踪之前,据我所知,您精于锁具。封缄。诸如此类的防护之法。"
 dialogue|4|160|Dialogue Text,[Stand up abruptly; pocket the little ceramic jar; drop the pyx clattering on his desk; stalk out.],猛然起身；把小瓷罐揣进兜里；把圣体盒哐当丢在他桌上；大步离去。
@@ -2922,15 +2922,15 @@ dialogue|4|194|Dialogue Text,Touch the box with a tongue-tip.,用舌尖触碰盒
 dialogue|4|195|Dialogue Text,The chill of the metal is more clearly perceptible. There is no taste; except the dust of an object kept for some time in a doctor's desk.,金属的凉意更清晰可辨。没有味道；只有某件在医生抽屉里搁置已久的器物所沾的灰尘味。
 dialogue|4|196|Dialogue Text,Withdraw tongue.,收回舌尖。
 dialogue|4|197|Dialogue Text,"Give the box a more definite, slurping lick. As if addressing oneself to an ice-cream.",更用力地舔一口盒子，发出啜吸声。就像对着一个冰淇淋。
-dialogue|4|198|Dialogue Text,"Nothing further occurs. Except that Aubière, clearly alarmed, half-raises a hand in protest.",再无其他发生。只是欧比耶尔明显受了惊，半举起一只手表示抗议。
-dialogue|4|200|Dialogue Text,"I feel Aubière's eyes on my back, but he says nothing.",我感觉欧比耶尔的目光落在我背上，但他什么也没说。
+dialogue|4|198|Dialogue Text,"Nothing further occurs. Except that Aubière, clearly alarmed, half-raises a hand in protest.",再无其他发生。只是奥比埃明显受了惊，半举起一只手表示抗议。
+dialogue|4|200|Dialogue Text,"I feel Aubière's eyes on my back, but he says nothing.",我感觉奥比埃的目光落在我背上，但他什么也没说。
 dialogue|4|201|Dialogue Text,"The director is a man in distinguished middle age with a look of sleek intelligence. His hair, his nails, his smile are all extremely clean.",院长是位风度高雅的中年人，神情透着油滑的机敏。他的头发、指甲、笑容，全都干净得出奇。
 dialogue|4|203|Dialogue Text,I need to see a patient of yours. [[Nina Lagasse]].,我要见你的一位病人。[[尼娜·拉加斯]]。
 dialogue|4|204|Dialogue Text,"Mm. Mademoiselle Lagasse, I'm afraid, has left us.",嗯。恐怕，拉加斯小姐已经离开我们了。
 dialogue|4|206|Dialogue Text,So...?,那么……？
 dialogue|4|207|Dialogue Text,The director of the Sanitarium Aujourd'hui smiles at me from behind his desk.,今日疗养院的院长隔着办公桌向我微笑。
 dialogue|4|208|Dialogue Text,DEBUG exit early,调试：提前退出。
-dialogue|4|20|Dialogue Text,"Spencer Hobson. What a fortunate and delightful honour. I am Dr Aubière. You are very welcome to my little institution, M. Hobson.","斯宾塞·霍布森。何等有幸,何等快意。我是欧比耶尔医生。欢迎光临我这小小的机构,霍布森先生。"
+dialogue|4|20|Dialogue Text,"Spencer Hobson. What a fortunate and delightful honour. I am Dr Aubière. You are very welcome to my little institution, M. Hobson.","斯宾塞·霍布森。何等有幸,何等快意。我是奥比埃医生。欢迎光临我这小小的机构,霍布森先生。"
 dialogue|4|210|Dialogue Text,"Hello again, M. Hobson. Do sit down.",又见面了，霍布森先生。请坐。
 dialogue|4|212|Dialogue Text,[Sit down.],坐下。
 dialogue|4|213|Dialogue Text,"Later, perhaps, Doctor.",也许改天吧，医生。
@@ -2959,7 +2959,7 @@ dialogue|4|236|Dialogue Text,Simple courtesy?,以礼相待？
 dialogue|4|239|Dialogue Text,[That's everything that I might consider doing. Let's explore the Sanitarium.],这就是我所能想到的全部选择。去探索疗养院吧。
 dialogue|4|23|Dialogue Text,"Most certainly. There are excellent photographs in the files. You have had quite the career. Your time in the Suppression Bureau, in the Légion du Seuil. That regrettable business in Poland....","自然知道。档案里有极为出色的照片。您的履历相当不凡。您在防剿局的岁月,在门关军团的岁月。还有波兰那桩令人遗憾的勾当……"
 dialogue|4|240|Dialogue Text,"Blackmail, perhaps. If I can sniff out his secrets.",敲诈，或许可行。只要我能嗅出他的秘密。
-dialogue|4|241|Dialogue Text,"At night, when Aubière is gone from his office, I might be able to locate his records.",到了夜里，等欧比耶尔离开办公室，我也许能找到他的档案。
+dialogue|4|241|Dialogue Text,"At night, when Aubière is gone from his office, I might be able to locate his records.",到了夜里，等奥比埃离开办公室，我也许能找到他的档案。
 dialogue|4|242|Dialogue Text,With the right tools - or the right assistance - his dreams might be open to me.,若有合适的工具——或合适的助力——他的梦境或许会向我敞开。
 dialogue|4|243|Dialogue Text,"I could just co-operate with the man, as he suggested, and hope to win him round eventually.",我也可以按他的提议，同这人合作，指望最终能把他争取过来。
 dialogue|4|244|Dialogue Text,It's obviously the honourable path.,这显然是体面之道。
@@ -2968,7 +2968,7 @@ dialogue|4|246|Dialogue Text,Sod that for a game of soldiers.,去他妈的吧。
 dialogue|4|24|Dialogue Text,"And then you disappeared, M. Hobson. Where did you go?","而后您便消失了,霍布森先生。您去了何处？"
 dialogue|4|25|Dialogue Text,Where's [[Nina Lagasse]]?,[[尼娜·拉加斯]]在哪儿？
 dialogue|4|27|Dialogue Text,"May I ask, what is your interest?","敢问,您有何来意？"
-dialogue|4|28|Dialogue Text,"The honour is mine, Dr Aubière.","荣幸的是我,欧比耶尔医生。"
+dialogue|4|28|Dialogue Text,"The honour is mine, Dr Aubière.","荣幸的是我,奥比埃医生。"
 dialogue|4|29|Dialogue Text,"Handsome place, this. How did you pay for it?",这地方真体面。您是如何弄到钱的？
 dialogue|4|30|Dialogue Text,"Perhaps, M. Hobson, we can discuss that later. For now - how may I assist you?","或许,霍布森先生,我们稍后再谈这个。眼下——我该如何为您效劳？"
 dialogue|4|31|Dialogue Text,Not at all. I do hope I may be of some assistance.,不必客气。我由衷希望能帮上些忙。
@@ -2981,7 +2981,7 @@ dialogue|4|38|Dialogue Text,Mm. Mm.,嗯。嗯。
 dialogue|4|39|Dialogue Text,Certain privileges are afforded to me by our patrons. I would very much like to employ those privileges to your benefit.,"我们的赞助人赋予了我某些特权。我非常乐意动用这些特权,为您谋得好处。"
 dialogue|4|41|Dialogue Text,"...it is a grave responsibility, M. Hobson, to be a healer of minds, just as it is an adept. Especially minds so exceptional as those of our patients....","……成为心灵的医者是一项沉重的责任,霍布森先生,正如成为一名修士。尤其是我们病人那般卓异的心灵……"
 dialogue|4|43|Dialogue Text,in that I am the holder - the keeper - the guardian! - of certain information not shared with the wider public. That includes any information I might have on Mlle Lagasse's whereabouts.,正因为我乃是某些信息的所有者——守护者——卫士!——这些信息从不与广众共享。其中便包括我可能掌握的关于拉加斯小姐下落的一切信息。
-dialogue|4|44|Dialogue Text,"[Aubière gives a tight smile, as if snapping closed a preferred hypothesis.] I am very sorry, M. Hobson, but any information I might have on Mlle Lagasse's whereabouts - that information is confidential.","[欧比耶尔露出紧绷的一笑,仿佛啪地合上了一册心爱的假说。] 非常抱歉,霍布森先生,但凡我可能掌握的关于拉加斯小姐下落的信息——那些信息均属机密。"
+dialogue|4|44|Dialogue Text,"[Aubière gives a tight smile, as if snapping closed a preferred hypothesis.] I am very sorry, M. Hobson, but any information I might have on Mlle Lagasse's whereabouts - that information is confidential.","[奥比埃露出紧绷的一笑,仿佛啪地合上了一册心爱的假说。] 非常抱歉,霍布森先生,但凡我可能掌握的关于拉加斯小姐下落的信息——那些信息均属机密。"
 dialogue|4|45|Dialogue Text,Of course. I understand.,当然。我明白。
 dialogue|4|46|Dialogue Text,[Menacing] That's unfortunate.,[威胁] 那可真遗憾。
 dialogue|4|47|Dialogue Text,"You mean, it'll cost me.","你的意思是,我得付出代价。"
@@ -2989,7 +2989,7 @@ dialogue|4|48|Dialogue Text,"Nothing so crude, M. Hobson. However...","没那么
 dialogue|4|49|Dialogue Text,Go on.,说下去。
 dialogue|4|50|Dialogue Text,"If I open that box for you, then you'll tell me where I can find Nina?","如果我替你打开那只盒子,你便会告诉我,我能在哪里找到尼娜？"
 dialogue|4|53|Dialogue Text,Precisely so.,正是如此。
-dialogue|4|54|Dialogue Text,"That's very kind of you, Dr Aubière. I hope I can return your kindness in some way.","您太客气了,欧比耶尔医生。但愿我能以某种方式回报您的好意。"
+dialogue|4|54|Dialogue Text,"That's very kind of you, Dr Aubière. I hope I can return your kindness in some way.","您太客气了,奥比埃医生。但愿我能以某种方式回报您的好意。"
 dialogue|4|55|Dialogue Text,"Stop wasting my time, Doctor. What are you talking about?","别浪费我的时间,医生。您究竟在说什么？"
 dialogue|4|56|Dialogue Text,Of course. I'm still an ordained priest of the Church Solar...,当然。我仍是太阳教会的一名授职神父……
 dialogue|4|57|Dialogue Text,A vessel to carry the consecrated Host - to those too ill to attend church.,"一个器皿,盛装祝圣过的圣体——送予那些病重得无法去教堂的人。"
@@ -2999,13 +2999,13 @@ dialogue|4|63|Dialogue Text,"The doctor bends over in his chair to poke around i
 dialogue|4|64|Dialogue Text,Wait politely.,礼貌地等候。
 dialogue|4|66|Dialogue Text,Take the opportunity to swipe something valuable off his desk.,趁机从他桌上顺走一件值钱的东西。
 dialogue|4|68|Dialogue Text,"Try to read some of the papers on his desk, upside-down.",试着倒着读他桌上的几份文件。
-dialogue|4|69|Dialogue Text,Here. Do you know what is a 'pyx'? [Aubière is vertical again.],给。你知道什么是「圣体盒」吗？〔欧比耶尔又直起身了。〕
+dialogue|4|69|Dialogue Text,Here. Do you know what is a 'pyx'? [Aubière is vertical again.],给。你知道什么是「圣体盒」吗？〔奥比埃又直起身了。〕
 dialogue|4|69|Menu Text,Clears any Exhibits from our desk interactions,清除我们桌面互动中留下的全部展品
 dialogue|4|70|Dialogue Text,[He's holding a circular box the size of a small cake-tin. A worn silver-gilt dove sits atop it.],他捧着一只圆盒，大小如同小号蛋糕模。盒顶蹲着一只磨损的银鎏金鸽子。
-dialogue|4|72|Dialogue Text,"Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission. Both thank Aubière for his reports - though the ERP letter is much terser. Both discuss further funding... and Aubière is straightening up.",信头来自一家名为门宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团。两封信都感谢欧比耶尔呈交的报告——不过 ERP 那封要简慢得多。两封都谈及进一步的资助……而欧比耶尔正在直起身来。
-dialogue|4|73|Dialogue Text,"Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission - but Aubière is already straightening up.",信头来自一家名为门宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团——但欧比耶尔已经直起身来。
-dialogue|4|80|Dialogue Text,"A little antique coin - silver, perhaps. I pocket it hastily as Aubière returns to the vertical.",一枚小小的古币——也许是银的。趁欧比耶尔重新直起身，我匆匆把它揣进口袋。
-dialogue|4|81|Dialogue Text,A little antique silver coin is just too far away to snag. I settle for a fountain pen and pocket it hastily as Aubière returns to the vertical.,那枚小小的古银币太远，够不着。我退而求其次，拿了一支钢笔，趁欧比耶尔重新直起身时匆匆揣进兜里。
+dialogue|4|72|Dialogue Text,"Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission. Both thank Aubière for his reports - though the ERP letter is much terser. Both discuss further funding... and Aubière is straightening up.",信头来自一家名为曼宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团。两封信都感谢奥比埃呈交的报告——不过 ERP 那封要简慢得多。两封都谈及进一步的资助……而奥比埃正在直起身来。
+dialogue|4|73|Dialogue Text,"Letterheads from an Incorporate entity called the Menninger Foundation, and from the European Recovery Program - the Acheson Mission - but Aubière is already straightening up.",信头来自一家名为曼宁格基金会的集团实体，以及欧洲复兴计划——艾奇逊使团——但奥比埃已经直起身来。
+dialogue|4|80|Dialogue Text,"A little antique coin - silver, perhaps. I pocket it hastily as Aubière returns to the vertical.",一枚小小的古币——也许是银的。趁奥比埃重新直起身，我匆匆把它揣进口袋。
+dialogue|4|81|Dialogue Text,A little antique silver coin is just too far away to snag. I settle for a fountain pen and pocket it hastily as Aubière returns to the vertical.,那枚小小的古银币太远，够不着。我退而求其次，拿了一支钢笔，趁奥比埃重新直起身时匆匆揣进兜里。
 dialogue|4|82|Dialogue Text,Cough impatiently.,不耐烦地咳嗽一声。
 dialogue|4|83|Dialogue Text,What's in it?,里面是什么？
 dialogue|4|84|Dialogue Text,"If it's a pyx, then I would imagine only the dust of centuries. If a reliquary, then, perhaps, a relic of St Galileo. Or, it might be, a surprise! Enticing, no?",若是圣体盒，我想里面只有几个世纪的尘埃。若是圣物匣，那或许装着圣伽利略的遗骸。又或许……是个惊喜！引人好奇，不是吗？
@@ -3022,8 +3022,8 @@ dialogue|4|95|Dialogue Text,Shake the box.,摇一摇盒子。
 dialogue|4|96|Dialogue Text,"You're a doctor, and your patient records are confidential.... unless I crack open your puzzle-box. That's a little unusual, isn't it?",你是医生，病人的病历是保密的……除非我撬开了你的谜盒。这多少有点不寻常，不是吗？
 dialogue|4|97|Dialogue Text,"Yes. Irregular, even. But though I wish to help, I must account for my actions. If I am asked why I shared this information - then if I can say that I needed your expertise - it will go easier for us both.",是的，甚至可以说是不合常规。但即便我愿意相助，也必须为自己的行为负责。若有人问起我为何泄露这些信息——那时，我若能说，我需要你的专业——对我们俩都会好办些。
 dialogue|4|98|Dialogue Text,"The sunlight folds itself tidily across the desk, softened by the glass of the window. The softened colour of it takes me back...",阳光穿过窗玻璃，柔柔地、整整齐齐地叠在桌面上。那柔化的颜色，让我回到从前……
-dialogue|4|99|Dialogue Text,"Just so the Cornish sunlight folded itself across the desk in the Westcott Room, where Serena would wait to question me after my visits to the infirmary. This Aubière is a little like Serena: a velvet surface, but under pressure, hard as oak.",正如康沃尔的阳光也曾那样叠在韦斯科特室的桌面上——我每回探过医务室，塞蕾娜都会在那儿等着盘问我。这个欧比耶尔，有几分像塞蕾娜：天鹅绒的表面，一旦受压，却硬如橡木。
-dialogue|50|10|Dialogue Text,"""Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…""",“言语是一道创口；沉默是白银。白银之门并不存在，也不可能有，纵在月亮之屋中……”
+dialogue|4|99|Dialogue Text,"Just so the Cornish sunlight folded itself across the desk in the Westcott Room, where Serena would wait to question me after my visits to the infirmary. This Aubière is a little like Serena: a velvet surface, but under pressure, hard as oak.",正如康沃尔的阳光也曾那样叠在韦斯科特室的桌面上——我每回探过医务室，塞蕾娜都会在那儿等着盘问我。这个奥比埃，有几分像塞蕾娜：天鹅绒的表面，一旦受压，却硬如橡木。
+dialogue|50|10|Dialogue Text,"""Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…""",“言语是一道创口；沉默是白银。白银之门并不存在，也不可能有，纵在月之居屋中……”
 dialogue|50|11|Dialogue Text,Coseley believed that it was language that debased the [[Cross]] into mere humanity.,科斯利相信，正是语言使[[介壳种]]沦为凡人之身。
 dialogue|50|12|Dialogue Text,I never really understood that.,我从未真正理解过这一点。
 dialogue|50|13|Dialogue Text,"As far as I could make out, Coseley never much cared if anyone else agreed with him.",据我所能了解的，科斯利从不在意别人是否认同他。
@@ -3062,7 +3062,7 @@ dialogue|54|20|Dialogue Text,Ubu.,于布。
 dialogue|54|21|Dialogue Text,He called the owl 'Ubu'.,他给那只猫头鹰取名叫「于布」。
 dialogue|54|22|Dialogue Text,"[Potential] Villas full of idiots, waiting for the war to kill them all.","[天赋]别墅里住满了蠢人,等着战争把他们统统杀死。"
 dialogue|54|23|Dialogue Text,[Welcome to <i>Travelling at Night.</i>],[欢迎来到<i>Travelling at Night.</i>]
-dialogue|54|24|Dialogue Text,"""The sun is a cut throat"", the night recites.","「太阳是割开的喉咙」,夜色如此吟诵。"
+dialogue|54|24|Dialogue Text,"""The sun is a cut throat"", the night recites.",「骄阳是道割开的喉咙」，夜色如此吟诵。
 dialogue|54|25|Dialogue Text,But now I'm in the world again. My heart throbs and clashes with anticipation.,"可如今,我再次置身人间。我的心因期盼而悸动、翻涌。"
 dialogue|54|26|Dialogue Text,This gold-and-grey divided city has suffered - but it's not like anywhere else now. Poor dying Europe is going out in style.,"这座金灰交织、被撕裂的城市饱经苦难——但如今,它已不同于任何别处。可怜又垂死的欧洲,正在华丽地退场。"
 dialogue|54|27|Dialogue Text,"Well, I can almost hear the night saying, does anything? It has a point. I'd better hurry.","唔,我几乎能听见夜色在问:万事万物,当真有所不同吗?它说得有道理。我最好快些。"
@@ -3163,7 +3163,7 @@ dialogue|55|52|Dialogue Text,Yeah. Audrey's cool.,是啊。奥德丽人很酷。
 dialogue|55|54|Dialogue Text,I should go.,我该走了。
 dialogue|55|55|Dialogue Text,"I should go. Thanks for the omelette, Bessy.","我该走了。谢谢你的蛋卷,贝茜。"
 dialogue|55|56|Dialogue Text,Any time!,随时都行!
-dialogue|55|57|Dialogue Text,"Some kind of Incorporate foundation? Menninger, maybe? Graveyard, man. I don't know.","某种集团的基金会?梅宁格那样的,也许?公墓呗,老兄。我不知道。"
+dialogue|55|57|Dialogue Text,"Some kind of Incorporate foundation? Menninger, maybe? Graveyard, man. I don't know.","某种集团的基金会?曼宁格那样的,也许?公墓呗,老兄。我不知道。"
 dialogue|55|60|Dialogue Text,What it is.,就是这么回事。
 dialogue|55|63|Dialogue Text,"What it <i>is</i>. [Bessy nods, smiling, humming.]","就是这么<i>回事</i>。[贝茜点点头,笑着,哼着歌。]"
 dialogue|55|64|Dialogue Text,"Uh... [Bessy, confused, looks around, spotting a coffee-pot behind her.]","呃……[贝茜一脸困惑,环顾四周,看见身后有个咖啡壶。]"
@@ -3218,11 +3218,11 @@ dialogue|57|21|Dialogue Text,This is the dream that sets its teeth in the neck's
 dialogue|57|29|Dialogue Text,"Wake. Battle through the moment of waking confusion. Where I am, who I am -",醒来。闯过初醒时的迷乱。我在哪里，我是谁——
 dialogue|57|2|Dialogue Text,These are the black halls of sightless Sleep.,这里是盲目之眠的漆黑殿堂。
 dialogue|57|30|Dialogue Text,And I'm in the Sanitarium Aujourd'hui.,而我身在今日疗养院。
-dialogue|57|45|Dialogue Text,"My dreams are only a hushed polka of the day's events. I make no attempt to reach the House that has no walls, or even the Wood around its walls. Much safer to stick with the midnight shuffle of sleeping thought.",我的梦不过是白日旧事的一支低声波尔卡。我无意抵达那座无墙之屋，甚至它墙外的树丛也不曾触及。午夜睡思的曳步要安全得多。
+dialogue|57|45|Dialogue Text,"My dreams are only a hushed polka of the day's events. I make no attempt to reach the House that has no walls, or even the Wood around its walls. Much safer to stick with the midnight shuffle of sleeping thought.",我的梦不过是白日旧事的一支低声波尔卡。我无意抵达那座无墙的居屋，甚至它墙外的树丛也不曾触及。午夜睡思的曳步要安全得多。
 dialogue|57|46|Dialogue Text, Memories gossiping beneath a dome of echoes..., 种种回忆在一座回声穹顶之下窃窃私语……
 dialogue|57|47|Dialogue Text,"Is anyone watching this place? I'm so used to being hunted. [The more nights you spend in the same place, the more Traces you'll get each night.]",有人在盯着这个地方吗？我早已习惯了被追猎。〔你在同一处停留的夜晚越多，每夜获得的痕迹就越多。〕
 dialogue|57|48|Dialogue Text,"This is the first night I've spent here. Unless I move on tomorrow, I might attract attention. [Spencer won't gain a [[Trace]] in his first night anywhere.]",这是我在这里度过的第一夜。除非我明日便启程离开，否则可能会引来注意。〔无论身处何地，斯宾塞的第一夜都不会获得[[痕迹]]。〕
-dialogue|57|49|Dialogue Text,I'm Sylvain Huissier.,我是西尔万·于西耶。
+dialogue|57|49|Dialogue Text,I'm Sylvain Huissier.,我是西尔万·韦西耶。
 dialogue|57|50|Dialogue Text,I'm Spencer Hobson. ,我是斯宾塞·霍布森。
 dialogue|57|5|Dialogue Text,Recovery... [ [[Weariness]] fades.],正在恢复……〔[[倦怠]]正在消退。〕
 dialogue|57|7|Dialogue Text,"Pain troubles my sleep, but I'm healing. [When you sleep, [[Pain]] is converted to [[Weariness]].]",疼痛搅扰我的睡眠，但我正在痊愈。〔入眠时，[[痛苦]]会转化为[[倦怠]]。〕
@@ -3260,18 +3260,18 @@ dialogue|61|43|Dialogue Text,The tiniest of revenges.,最微小的复仇。
 dialogue|61|44|Dialogue Text,"Picasso probably invented the story himself, and spread it once the Enemy was gone.","这故事大概是毕加索自己编造的,待敌人离去之后,便将它散播开来。"
 dialogue|61|4|Dialogue Text,Who was she?,她是谁？
 dialogue|61|6|Dialogue Text,The Sanitarium wanted a bit of local colour.,疗养院想要一点本地色彩。
-dialogue|62|12|Dialogue Text,"Below the House, the [[little joys of night]].","屋宇之下,是[[夜的微小欢愉]]。"
+dialogue|62|12|Dialogue Text,"Below the House, the [[little joys of night]].","居屋之下,是[[夜的微小欢愉]]。"
 dialogue|62|13|Dialogue Text,Never again.,再也不了。
 dialogue|62|14|Dialogue Text,"[Step away, cautiously.]",[小心地退开。]
-dialogue|62|1|Dialogue Text,"'Beneath the skin of the world we find the Mansus, also called the World-Spine, also called the House of the Sun. Above the House is the [[Glory]], the origin of light, to which souls aspire. At the foot of the House, and around its walls - though it has no walls - is the [[Wood]].'","“在世界表皮之下,我们寻得漫宿——亦名世界之脊,亦名太阳居屋。屋宇之上是[[辉光]],光的源头,众灵魂所向往者。屋宇脚下,环绕四壁——虽说它并无墙壁——是那[[木材]]。”"
+dialogue|62|1|Dialogue Text,"'Beneath the skin of the world we find the Mansus, also called the World-Spine, also called the House of the Sun. Above the House is the [[Glory]], the origin of light, to which souls aspire. At the foot of the House, and around its walls - though it has no walls - is the [[Wood]].'","“在世界表皮之下,我们寻得漫宿——亦名世界之脊,亦名太阳居屋。居屋之上是[[辉光]],光的源头,众灵魂所向往者。居屋脚下,环绕四壁——虽说它并无墙壁——是那[[木材]]。”"
 dialogue|62|2|Dialogue Text,Right there above the fireplace?,"就挂在那儿,壁炉上方？"
 dialogue|62|3|Dialogue Text,I've seen this before...,我以前见过这个……
-dialogue|62|4|Dialogue Text,And below the House - below the House -,而屋宇之下——屋宇之下——
+dialogue|62|4|Dialogue Text,And below the House - below the House -,而居屋之下——居屋之下——
 dialogue|62|5|Dialogue Text,"This is what the Bureau would call a 'clear and immediate oneiric hazard.' There are a dozen images here which would have landed a dreamer in gaol. The Bureau's grip has loosened since the twenties, but still, it's quite something to display the painting so publicly.","这正是防剿局所称的“明确而迫近的梦境危害”。这里的图像足有十几处,足以令一个做梦者锒铛入狱。自二十年代以来,防剿局的掌控已有所松动,即便如此,如此公然地展出这幅画,也实在非同小可。"
 dialogue|62|7|Dialogue Text,This is the work of the visionary they called the Magyar. It used to be one of the treasures of Hush House. I saw it there when I visited as a priest in the local parish - above the fireplace in the Westcott Room. It's safer to hang it above a fireplace - to keep the influences from threading their way into the dreams of the locals.,"这是那位被称作“马扎尔人”的幻视者之作。它曾是噤声居屋的珍藏之一。当年我以本地教区神父的身份造访时,正是在那里见过它——在韦斯科特厅的壁炉上方。把它挂在壁炉上方更稳妥——免得那些影响丝丝缕缕,渗入本地人的梦中。"
 dialogue|62|8|Dialogue Text,"In my time as a parish priest in Cornwall, I saw it somewhere in [[Hush House]]. But where, exactly, is lost in a welter of scarred memories.","我在康沃尔任教区神父期间,曾在[[噤声居屋]]的某处见过它。但究竟是在何处,已湮没在一片伤痕累累的记忆之中。"
 dialogue|62|9|Dialogue Text,How did it come here? Has someone been furnishing the Sanitarium Aujourd'hui with treasures from occult auctions?,它如何到了这里？莫非有人一直在用神秘拍卖会上拍得的珍藏来装点今日疗养院？
-dialogue|63|10|Dialogue Text,"When I was priest in [[Brancrug]], I sometimes saw Christopher Illopoly in his rooms in [[Hush House]] - to argue about theology and drink his horrible burdock tea. I saw it there, I think...","我在[[布兰库格]]任神父时,偶尔会去[[噤声居屋]]的房间拜访克里斯托弗·伊洛波利——为争论神学,也为喝他那难以下咽的牛蒡茶。我想,我就是在那里见过它。"
+dialogue|63|10|Dialogue Text,"When I was priest in [[Brancrug]], I sometimes saw Christopher Illopoly in his rooms in [[Hush House]] - to argue about theology and drink his horrible burdock tea. I saw it there, I think...","我在[[布兰库格]]任神父时,偶尔会去[[噤声居屋]]的房间拜访克里斯托弗·伊洛波利——为争论神学,也为喝他那难以下咽的牛蒡茶。我想,我就是在那里见过它……"
 dialogue|63|11|Dialogue Text,"I remember that I remarked on it; and he told me that it was a 'prefigure', done before the war by one of the Librarians of the place - someone who had the knack of copying work by other artists. But he'd copy the work before they'd ever actually painted it.","我记得我曾就它作过评点;他告诉我,那是一件“先行之作”,战前由此地一位司书所作——此人颇擅摹仿其他艺术家的作品。但他摹仿的,是那些艺术家尚未来得及画出的作品。"
 dialogue|63|12|Dialogue Text,"So is it the original, from the House, or the... actual original... from what was then the future?","那么,这幅是出自居屋的原作,还是……真正的原作……那件来自彼时而言尚属未来的原作？"
 dialogue|63|13|Dialogue Text,Look closer.,凑近细看。
@@ -3378,9 +3378,9 @@ dialogue|6|43|Dialogue Text,Leave it for now.,暂且放着。
 dialogue|6|44|Dialogue Text,Approach it.,走上前去。
 dialogue|6|45|Dialogue Text,The safe opens easily.,保险柜轻而易举地打开了。
 dialogue|6|46|Dialogue Text,Look through the financial records.,翻看财务记录。
-dialogue|6|48|Dialogue Text,But there's something else. On almost every document there's an enigmatic line item: ONTEIRIC CO-ORDINATION.,但还有别的东西。几乎每一份文件上都有一个费解的条目:梦境协调。
-dialogue|6|49|Dialogue Text,The Sanitarium receives substantial funding from the European Recovery Program - the Acheson Mission - and from a semi-charitable Incorporate entity called the Meninger Foundation. <I>Very</i> substantial funding.,疗养院从欧洲复兴计划——艾奇逊使命——以及一家名为门宁格基金会的半慈善集团实体处获得大笔资金。<i>极其</i>大笔的资金。
-dialogue|6|50|Dialogue Text,The '<i>Office</i> of Onteiric Coordination' - the [[OOC]]? Who exactly is funding Aubière? Is the money really coming from Menninger?,“梦境<i>协调</i>办公室”——就是[[梦境协调局]]？究竟是谁在资助欧比耶尔？这笔钱当真来自门宁格吗？
+dialogue|6|48|Dialogue Text,But there's something else. On almost every document there's an enigmatic line item: ONTEIRIC CO-ORDINATION.,但还有别的东西。几乎每一份文件上都有一个费解的条目:冥合。
+dialogue|6|49|Dialogue Text,The Sanitarium receives substantial funding from the European Recovery Program - the Acheson Mission - and from a semi-charitable Incorporate entity called the Meninger Foundation. <I>Very</i> substantial funding.,疗养院从欧洲复兴计划——艾奇逊使命——以及一家名为曼宁格基金会的半慈善集团实体处获得大笔资金。<i>极其</i>大笔的资金。
+dialogue|6|50|Dialogue Text,The '<i>Office</i> of Onteiric Coordination' - the [[OOC]]? Who exactly is funding Aubière? Is the money really coming from Menninger?,“冥合<i>办公室</i>”——就是[[OOC]]？究竟是谁在资助奥比埃？这笔钱当真来自曼宁格吗？
 dialogue|6|5|Dialogue Text,"I turn the handle. With an oiled click, the safe swings open, yawning a steel yawn...","我转动把手。随着一声油润的咔嗒,保险柜的门荡开,仿佛打了个钢铁的哈欠……"
 dialogue|7|100|Dialogue Text,One human eye tracks my movements. Three other eyes glitter.,一只人眼追随着我的动作。另外三只眼睛闪闪发亮。
 dialogue|7|102|Dialogue Text,Three eyes seem unfazed by my dressing-gown. The fourth widens indignantly.,三只眼睛似乎对我的睡袍无动于衷。第四只则愤然瞪圆。
@@ -3388,17 +3388,17 @@ dialogue|7|103|Dialogue Text,"Perhaps, sir, we can speak further when you've tro
 dialogue|7|104|Dialogue Text,[Retreat.],[退下。]
 dialogue|7|105|Dialogue Text,Hrmph!,哼!
 dialogue|7|12|Dialogue Text,Mr Hobson.,霍布森先生。
-dialogue|7|14|Dialogue Text,Aye. Dark times. But Dr Aubière sees to it for me.,"是啊。黑暗的时局。但欧比耶尔医生,替我照看着。"
+dialogue|7|14|Dialogue Text,Aye. Dark times. But Dr Aubière sees to it for me.,"是啊。黑暗的时局。但奥比埃医生,替我照看着。"
 dialogue|7|15|Dialogue Text,Out of the goodness of his heart?,出于他的一片好心?
 dialogue|7|16|Dialogue Text,[The air around Strathcoyne carries a distinctive odour. Sniff discreetly.],"[斯特拉斯科因周身的气息,带着一种独特的气味。不动声色地嗅了嗅。]"
 dialogue|7|17|Dialogue Text,I understand your arm is named Annabelle?,"我听说,您的胳膊名叫安娜贝尔?"
 dialogue|7|18|Dialogue Text,"My arm has no 'name', Mr Hobson! This is a tedious and puerile bit of pawkiness perpetrated by an... ignoramus.","我的胳膊没有「名字」,霍布森先生!这是某个……无知之徒,炮制出的乏味又幼稚的促狭把戏。"
-dialogue|7|19|Dialogue Text,"Dr Aubière is an 'ignoramus'? He has his flaws, but he's an educated man, surely.","欧比耶尔医生是「无知之徒」?他确实有缺点,但他毕竟是个受过教育的人。"
+dialogue|7|19|Dialogue Text,"Dr Aubière is an 'ignoramus'? He has his flaws, but he's an educated man, surely.","奥比埃医生是「无知之徒」?他确实有缺点,但他毕竟是个受过教育的人。"
 dialogue|7|1|Dialogue Text,"You'll be Hobson, then.","那么,你就是霍布森了。"
-dialogue|7|20|Dialogue Text,"Dr Aubière is most certainly not the author of this calumny! In fact, I have his personal assurance that he will discipline that author.","欧比耶尔医生,绝非这诽谤的炮制者!事实上,他向我当面保证过,会好好管教那个炮制者。"
-dialogue|7|21|Dialogue Text,"I'm sorry to tell you, Mr Strathcoyne, that I heard this 'Annabelle' nonsense directly from Dr Aubière. I had no idea it would offend you so. I'm very disappointed in him.","很抱歉告诉您,斯特拉斯科因先生,这「安娜贝尔」的胡话,我是从欧比耶尔医生那里亲耳听来的。我不知道这会如此冒犯您。我对他,非常失望。"
+dialogue|7|20|Dialogue Text,"Dr Aubière is most certainly not the author of this calumny! In fact, I have his personal assurance that he will discipline that author.","奥比埃医生,绝非这诽谤的炮制者!事实上,他向我当面保证过,会好好管教那个炮制者。"
+dialogue|7|21|Dialogue Text,"I'm sorry to tell you, Mr Strathcoyne, that I heard this 'Annabelle' nonsense directly from Dr Aubière. I had no idea it would offend you so. I'm very disappointed in him.","很抱歉告诉您,斯特拉斯科因先生,这「安娜贝尔」的胡话,我是从奥比埃医生那里亲耳听来的。我不知道这会如此冒犯您。我对他,非常失望。"
 dialogue|7|23|Dialogue Text,Are you sure? I had thought much better of him.,"你确定吗?我原以为,他远比这高明。"
-dialogue|7|24|Dialogue Text,"I'm sorry to tell <i>you</i>, Mr Hobson, that you must be mistaken. Dr Aubière is a man of excellent character.","很抱歉,我要告诉<i>你</i>,霍布森先生,你一定是弄错了。欧比耶尔医生,品行端方。"
+dialogue|7|24|Dialogue Text,"I'm sorry to tell <i>you</i>, Mr Hobson, that you must be mistaken. Dr Aubière is a man of excellent character.","很抱歉,我要告诉<i>你</i>,霍布森先生,你一定是弄错了。奥比埃医生,品行端方。"
 dialogue|7|25|Dialogue Text,"I'm afraid so. I had it directly from him. In fact, the doctor is the only person I've heard use this silly nickname.","恐怕是的。我是从他本人那里听来的。事实上,这个傻绰号,我只听医生一个人用过。"
 dialogue|7|26|Dialogue Text,Perhaps I was mistaken. It doesn't sound very much like him.,"也许是我弄错了。听起来,不太像他会做的事。"
 dialogue|7|27|Dialogue Text,"This is very disappointing. Very disappointing indeed. He is not the man I thought, not that man at all. I should have known when - hm.","这实在令人失望。实在令人失望。他不是我以为的那个人,全然不是。我本该早就察觉——嗯。"
@@ -3411,11 +3411,11 @@ dialogue|7|32|Dialogue Text,I'm not surprised at all. I think he may not even be
 dialogue|7|33|Dialogue Text,"Don't flannel me, Hobson. I'm not so great a fool as all that. But yes, it is disappointing.","别跟我耍滑头,霍布森。我还没蠢到那份上。不过,确实令人失望。"
 dialogue|7|34|Dialogue Text,"Let's not get carried away, Mr Hobson.","我们别得意忘形,霍布森先生。"
 dialogue|7|35|Dialogue Text,"It is. But perhaps kept between us two for the time being, hey?","确实如此。但暂且只限于你我之间,嗯?"
-dialogue|7|36|Dialogue Text,[Raising the subject with Aubière may provide an opportunity to pressure him.],"[向欧比耶尔提起此事,或可借机给他施压。]"
+dialogue|7|36|Dialogue Text,[Raising the subject with Aubière may provide an opportunity to pressure him.],"[向奥比埃提起此事,或可借机给他施压。]"
 dialogue|7|37|Dialogue Text,Cigar smoke. Of course: he has those black market Romeo y Julietas in the humidor in his room.,雪茄烟雾。自然:他房间的保湿盒里存着那些黑市罗密欧与朱丽叶。
 dialogue|7|3|Dialogue Text,My name is Fraser Strathcoyne. Did you have business with me?,"我是弗雷泽·斯特拉斯科因。你找我,有何贵干?"
 dialogue|7|42|Dialogue Text,"Well, I pay a small surcharge. This is the world we live in, Mr Hobson. I trust the matter will remain between us. I wouldn't want to provoke unseemly envy.","嗯,我付了一笔小小的额外费用。我们活在这个世道里,霍布森先生。我相信此事会止于你我之间。我可不想招来不合时宜的艳羡。"
-dialogue|7|43|Dialogue Text,"This is one of the privileges for which I pay my little surcharge to Dr Aubière. As I said, I hope the matter will remain between us. I wouldn't want to provoke unseemly jealousy.","这正是我付那笔小小费用给欧比耶尔医生换来的特权之一。如我所说,我希望此事止于你我之间。我可不想招来不合时宜的嫉妒。"
+dialogue|7|43|Dialogue Text,"This is one of the privileges for which I pay my little surcharge to Dr Aubière. As I said, I hope the matter will remain between us. I wouldn't want to provoke unseemly jealousy.","这正是我付那笔小小费用给奥比埃医生换来的特权之一。如我所说,我希望此事止于你我之间。我可不想招来不合时宜的嫉妒。"
 dialogue|7|44|Dialogue Text,"When he and I made the arrangement to supply my special requirements, Mr Hobson. This is the world we live in; but it is not an arrangement that an honest man would have offered me.","就在我与他就供应我的特别要求达成约定之时,霍布森先生。我们活在这个世道里;可这不是一个诚实的人会给我的约定。"
 dialogue|7|45|Dialogue Text,"Are you a cigar man, Mr Strathcoyne?","您是抽雪茄的人吗,斯特拉斯科因先生?"
 dialogue|7|46|Dialogue Text,[Don't mention the cigars.],[别提雪茄的事。]
@@ -3491,7 +3491,7 @@ dialogue|89|3|Dialogue Text,Look around -,环顾四周——
 dialogue|89|4|Dialogue Text,"Not quite silent. Bird-song, leaf-rustle. And off from behind the post office, the faint strains of a melodeon.",并非全然寂静。鸟鸣，叶响。邮局背后，隐隐传来手风琴的乐声。
 dialogue|89|5|Dialogue Text,A flash of unexpected colour above the post office - flags rippling lazily in the dank air of the valley.,邮局上方掠过一抹出人意料的色彩——旗帜在谷地阴湿的空气中懒洋洋地翻卷。
 dialogue|89|6|Dialogue Text,The circus...?,马戏团……？
-dialogue|89|7|Dialogue Text,"YOU are Spencer Hobson, Sylvain Hussier, Father Brass, hollow of spirit and brazen of heart.",你，就是斯宾塞·霍布森，西尔万·于西耶，黄铜神父——魂魄空洞，心肠如铜。
+dialogue|89|7|Dialogue Text,"YOU are Spencer Hobson, Sylvain Hussier, Father Brass, hollow of spirit and brazen of heart.",你，就是斯宾塞·霍布森，西尔万·韦西耶，黄铜神父——魂魄空洞，心肠如铜。
 dialogue|89|8|Dialogue Text,THIS has been the <i>Travelling at Night</i> demo. ,这便是<i>Travelling at Night</i>的试玩版。
 dialogue|8|10|Dialogue Text,<i>Commedia del Sole</i>.' Comedy of the Sun'?,<i>太阳喜剧</i>。'太阳的喜剧'?
 dialogue|8|11|Dialogue Text,"As much theatre as anything. They're not advertising any booth shows, or beasts, or acrobats.","与其说是马戏,不如说是戏剧。他们没有为任何摊位表演、猛兽或杂技做宣传。"
@@ -3700,7 +3700,7 @@ misc|Quote|sharedassets2.assets|8|_content,"		The war was lost
 		我活在你们中间,伪装良好"
 misc|Quote|sharedassets2.assets|8|_source,Nevermind,《别在意》
 misc|Quote|sharedassets2.assets|9|_author,Julian Coseley,朱利安·科斯利
-misc|Quote|sharedassets2.assets|9|_content,"Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…","言语是创口;沉默是白银。没有白银之门,也不可能有,即使在月之宫中亦复如是……"
+misc|Quote|sharedassets2.assets|9|_content,"Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…","言语是创口;沉默是白银。没有白银之门,也不可能有,即使在月之居屋中亦复如是……"
 misc|Quote|sharedassets2.assets|9|_source,The Fallen Cross,《坠落的十字》
 misc|SceneConfig|level9|2678|QualityEffectsForEmptyCharacter[0].text,=rosa_mundi,=rosa_mundi
 misc|SkeletonDataAsset|resources.assets|28257|blendModeMaterials.additiveMaterials[0].pageName,vincent NS.png,vincent NS.png
@@ -3773,12 +3773,12 @@ so|Alias|resources.assets|28301|_label,Spencer Hobson,斯宾塞·霍布森
 so|Alias|resources.assets|28301|_lastName,Hobson,霍布森
 so|Alias|resources.assets|28302|_familiar,Sil,西尔
 so|Alias|resources.assets|28302|_firstName,Sylvain,西尔万
-so|Alias|resources.assets|28302|_formal,Mr Huissier,于西耶先生
-so|Alias|resources.assets|28302|_formalDe,Herr Huissier,于西耶先生
-so|Alias|resources.assets|28302|_formalFr,Monsieur Huissier,于西耶先生
-so|Alias|resources.assets|28302|_formalSov,Comrade Huissier,于西耶同志
-so|Alias|resources.assets|28302|_label,Sylvain Huissier,西尔万·于西耶
-so|Alias|resources.assets|28302|_lastName,Huissier,于西耶
+so|Alias|resources.assets|28302|_formal,Mr Huissier,韦西耶先生
+so|Alias|resources.assets|28302|_formalDe,Herr Huissier,韦西耶先生
+so|Alias|resources.assets|28302|_formalFr,Monsieur Huissier,韦西耶先生
+so|Alias|resources.assets|28302|_formalSov,Comrade Huissier,韦西耶同志
+so|Alias|resources.assets|28302|_label,Sylvain Huissier,西尔万·韦西耶
+so|Alias|resources.assets|28302|_lastName,Huissier,韦西耶
 so|AnimationReferenceAsset|resources.assets|28231|animationName,idle,idle
 so|AnimationReferenceAsset|resources.assets|28232|animationName,run,run
 so|AnimationReferenceAsset|resources.assets|28233|animationName,walk,walk
@@ -3789,9 +3789,9 @@ so|AnimationReferenceAsset|sharedassets4.assets|71|animationName,run/run,run/run
 so|AnimationReferenceAsset|sharedassets4.assets|72|animationName,walk/walk,walk/walk
 so|Aspect|resources.assets|28589|_description,"A token of the old order of Heaven - or of [[Corona]], which claims to be its inheritor.  An Incorporate dollar is the easiest option, but there are ways to craft a token in the absence of greenbacks.
 
-[Since the Wars, the currency of Corona is used for the Bright Arts - but you can create an Eye of Authority as a substitute.]","旧天堂秩序的凭证——或属于自称其继承者的[[科罗纳]]。一张集团美元是最省事的选项,但即使没有美钞,也有办法制出这样的凭证。
+[Since the Wars, the currency of Corona is used for the Bright Arts - but you can create an Eye of Authority as a substitute.]","旧天堂秩序的凭证——或属于自称其继承者的[[冕]]。一张集团美元是最省事的选项,但即使没有美钞,也有办法制出这样的凭证。
 
-[大战之后,科罗纳的货币用于光之技艺——但你可以制作一枚权威之眼作为替代。]"
+[大战之后,冕的货币用于光之技艺——但你可以制作一枚权威之眼作为替代。]"
 so|Aspect|resources.assets|28589|_label,Authority,权威
 so|Aspect|resources.assets|28590|_description,The skeleton of a commedia scenario.,一幕即兴喜剧的骨架。
 so|Aspect|resources.assets|28590|_label,Canovaccio,幕表
@@ -3828,7 +3828,7 @@ so|Aspect|resources.assets|28598|_description,"A token of the fundamental necess
 [Since the Wars, the currency of Gleam is used for the Night Arts - but you can create a Mark of Necessity as a substitute.]
 ","一枚支撑世界之根本必需的凭证。一张联盟的<i>多利亚</i>可用——但也可以炼制出这样的凭证。
 
-[大战之后,格利姆的货币用于夜之技艺——但你可以制作一枚必需之印迹作为替代。]"
+[大战之后,烁的货币用于夜之技艺——但你可以制作一枚必需之印迹作为替代。]"
 so|Aspect|resources.assets|28598|_label,Necessity,必需
 so|Aspect|resources.assets|28599|_description,"A pinch of transformation, intoxication, or subversion. Effective as a gift, or when used to treat food and drink.","一小撮转化、迷醉或颠覆之物。作为礼物有效,用于处理食物与饮品时同样有效。"
 so|Aspect|resources.assets|28599|_label,Bewitch,蛊惑
@@ -3879,7 +3879,7 @@ so|Aspect|resources.assets|28617|_description,"'The green wealth in the world's 
 
 Some rites of the [[Arts Unconsidered]] require the shedding of blood with an instrument that has never before tasted blood. In another age, this is one reason that adepts continued to use flint rather than iron.","「世界脉络中的绿色财富,旧日那位更红、更低的太阳的微薄代价,迸发的杯之欢愉:这些都是血。」
 
-[[未拾技艺]]的某些仪式,须用一件从未尝过血的器具来放血。在另一个年代,这正是修士们始终用燧石而不用铁器的原因之一。"
+[[未识技艺]]的某些仪式,须用一件从未尝过血的器具来放血。在另一个年代,这正是修士们始终用燧石而不用铁器的原因之一。"
 so|Aspect|resources.assets|28617|_label,Sharp,锋锐
 so|Aspect|resources.assets|28618|_description,"Little precious things: jewellery, time-pieces, semi-precious knick-knacks.",小巧的珍物:珠宝、钟表、半宝石小玩意儿。
 so|Aspect|resources.assets|28618|_label,Trinket,小饰物
@@ -3937,7 +3937,7 @@ The Hour that unsealed and unseamed is Uncounted now. Another Hour stood at ever
 
 那位开封解缝的司辰如今已除名。曾有另一位司辰伫立于每一道门槛:或许它仍在。"
 so|Aspect|resources.assets|28634|_label,Knock,启
-so|Aspect|resources.assets|28635|_description," Lucent intellect, merciless revelation, aureate clarity. Lantern is the principle of the secret place sometimes called the House of the Sun, or the [[Mansus]], and of the light above it. It is [[Corona]] and [[Gleam]], now, the West and the East, and the eyes of its [[Hours]] are closed.","澄澈的智性,无情的揭示,金色的清明。灯是那隐秘之处的准则——那处有时被称为太阳之屋,或称[[漫宿]]——也是其上方光芒的准则。如今它是[[科罗纳]]与[[格利姆]],是西方与东方,而它诸[[司辰]]的眼睛已然闭合。"
+so|Aspect|resources.assets|28635|_description," Lucent intellect, merciless revelation, aureate clarity. Lantern is the principle of the secret place sometimes called the House of the Sun, or the [[Mansus]], and of the light above it. It is [[Corona]] and [[Gleam]], now, the West and the East, and the eyes of its [[Hours]] are closed.","澄澈的智性,无情的揭示,金色的清明。灯是那隐秘之处的准则——那处有时被称为太阳居屋,或称[[漫宿]]——也是其上方光芒的准则。如今它是[[冕]]与[[烁]],是西方与东方,而它诸[[司辰]]的眼睛已然闭合。"
 so|Aspect|resources.assets|28635|_label,Lantern,灯
 so|Aspect|resources.assets|28636|_description,"'I knew a man who captured moths in a bell-jar. On nights like this, he would release them one by one to die in the candle.'
 
@@ -3997,7 +3997,7 @@ so|AxisQuality|resources.assets|28652|_description,The management situation at t
 so|AxisQuality|resources.assets|28652|_label,Rosa Mundi: Management,罗莎·蒙迪:经营
 so|AxisQuality|resources.assets|28653|_description,"In Europe now, the seasons often follow weather, not the other way around.","如今的欧洲,季节常常跟着天气走,而不是反过来。"
 so|AxisQuality|resources.assets|28653|_label,Season,季节
-so|AxisQuality|resources.assets|28654|_description,I've located a hidden space behind Aubière's office.,我找到了欧比耶尔办公室后面的一个隐蔽空间。
+so|AxisQuality|resources.assets|28654|_description,I've located a hidden space behind Aubière's office.,我找到了奥比埃办公室后面的一个隐蔽空间。
 so|AxisQuality|resources.assets|28654|_label,The Doctor's Nook,医生的角落
 so|AxisQuality|resources.assets|28655|_description,Bessy cooks these hearty and sustaining marvels as a perpetual habit.,"烹制这些丰盛又耐饿的美味,是贝茜雷打不动的习惯。"
 so|AxisQuality|resources.assets|28655|_label,Bessy's Omelette,贝茜的蛋饼
@@ -4035,13 +4035,13 @@ so|AxisQuality|resources.assets|28690|_friendlyCriteria[0].friendlyText,Nina in 
 so|AxisQuality|resources.assets|28690|_label,Heart's Desire?,心之所愿?
 so|AxisQuality|resources.assets|28691|_description,"Nina's invited me to travel with the Rosa Mundi circus. This will allow me to travel safety, and to get the help I need from the Rosa Mundi troupe.","尼娜邀请我与罗莎·蒙迪马戏团同行。这样我就能安全旅行,也能从罗莎·蒙迪的团员那里得到我需要的帮助。"
 so|AxisQuality|resources.assets|28691|_label,Rosa Mundi: Welcome,罗莎·蒙迪:欢迎
-so|AxisQuality|resources.assets|28692|_description,If I can't win Dr Aubière's co-operation... perhaps I can compel it.,若我无法赢得欧比耶尔医生的配合……也许我能迫使它发生。
+so|AxisQuality|resources.assets|28692|_description,If I can't win Dr Aubière's co-operation... perhaps I can compel it.,若我无法赢得奥比埃医生的配合……也许我能迫使它发生。
 so|AxisQuality|resources.assets|28692|_keywords[0].Description,"Give up this plan. No-op once the plan has concluded, so a won plan is never undone.","放弃这项计划。计划一旦结束即不再起效,因此赢下的计划永远不会被推翻。"
 so|AxisQuality|resources.assets|28692|_keywords[0].Keyword,abandon,abandon
 so|AxisQuality|resources.assets|28692|_label,Compel Dr A.,胁迫 A 医生
-so|AxisQuality|resources.assets|28693|_description,"Dr Aubière keeps close the secret of where to find Nina Lagasse. But in dreams, it's difficult to keep secrets.","欧比耶尔医生把尼娜·拉加斯的下落藏得严严实实。但在梦里,秘密最难守住。"
+so|AxisQuality|resources.assets|28693|_description,"Dr Aubière keeps close the secret of where to find Nina Lagasse. But in dreams, it's difficult to keep secrets.","奥比埃医生把尼娜·拉加斯的下落藏得严严实实。但在梦里,秘密最难守住。"
 so|AxisQuality|resources.assets|28693|_label,The Dreams of Dr A.,A 医生的梦境
-so|AxisQuality|resources.assets|28694|_description,"Somewhere, Dr Aubière must keep records of his previous patients. But there's no sign of anything like that in the office where he meets patients.","欧比耶尔医生一定在某个地方保存着他过往病人的记录。但他接诊病人的办公室里,却找不到任何此类东西的踪迹。"
+so|AxisQuality|resources.assets|28694|_description,"Somewhere, Dr Aubière must keep records of his previous patients. But there's no sign of anything like that in the office where he meets patients.","奥比埃医生一定在某个地方保存着他过往病人的记录。但他接诊病人的办公室里,却找不到任何此类东西的踪迹。"
 so|AxisQuality|resources.assets|28694|_label,The Secrets of Dr A.,A 医生的秘密
 so|AxisQuality|resources.assets|28704|_description,"I promised that I would help the Lantern-long Sinombre, the next time that she needed it.","我答应过,下一次灯性长生者西诺姆布尔需要帮助时,我会伸出援手。"
 so|AxisQuality|resources.assets|28704|_label,Debt to Sinombre,欠西诺姆布尔的债
@@ -4063,7 +4063,7 @@ so|BundleOfEffects|resources.assets|28709|_label,Drink Pastis,喝茴香酒
 so|BundleOfEffects|resources.assets|28710|_label,Drink Red Wine,喝红葡萄酒
 so|BundleOfEffects|resources.assets|28711|_label,Drink White Wine,喝白葡萄酒
 so|BundleOfEffects|resources.assets|28712|Effects[0].text,do:abandon,do:abandon
-so|BundleOfEffects|resources.assets|28712|_label,Finish Aubiere Business,了结欧比耶尔的事
+so|BundleOfEffects|resources.assets|28712|_label,Finish Aubiere Business,了结奥比埃的事
 so|Career|resources.assets|28306|_description,"I was always good with my hands, and I took that talent to the stage to pay the bills. Eventually, my illusions were sufficiently convincing to draw the attention of the [[Suppression Bureau]].
 
 In Europe, since the War, a knack for appearances and disappearances is more useful than ever.
@@ -4475,7 +4475,7 @@ so|Destination|resources.assets|28331|_label,Brancrug Village,布兰库格村
 so|Destination|resources.assets|28331|_mapLabel,Brancrug,布兰库格
 so|Destination|resources.assets|28332|_description,The new heart of Europe... not quite as broken as we might expect,欧洲的新心脏……并不像我们预想的那般破碎
 so|Destination|resources.assets|28332|_label,Brussels,布鲁塞尔
-so|Destination|resources.assets|28333|_description,"Skeleton-strewn, [[Gleam]]-gifted; but memories linger of the second capital of the Dual Monarchy","骸骨遍野,禀[[微光]]之赐;但关于二元君主国第二都城的记忆,仍在徘徊"
+so|Destination|resources.assets|28333|_description,"Skeleton-strewn, [[Gleam]]-gifted; but memories linger of the second capital of the Dual Monarchy","骸骨遍野,禀[[烁]]之赐;但关于二元君主国第二都城的记忆,仍在徘徊"
 so|Destination|resources.assets|28333|_label,Budapest,布达佩斯
 so|Destination|resources.assets|28334|_description,The devastated city where the New King fell in battle - and its coastal lifeline,"新王战殁于斯的废墟之城,连同它的海岸生命线"
 so|Destination|resources.assets|28334|_label,Caen,卡昂
@@ -4514,7 +4514,7 @@ so|Destination|resources.assets|28351|_description,Walled and wooded town aboil 
 so|Destination|resources.assets|28351|_label,Perugia,佩鲁贾
 so|Destination|resources.assets|28352|_description,"Empty ghetto, silver sky, rising Hives. Step away from the window.","空荡的隔都,银色的天空,升起的蜂巢。离那扇窗远些。"
 so|Destination|resources.assets|28352|_label,Prague,布拉格
-so|Destination|resources.assets|28353|_description,"'In the secrecy of the polling booth, Heaven sees you -  the Advisor doesn't.' The Eternal City has chosen Corona, not Gleam... for now.","「在投票间的隐秘之中,天堂看得见你——顾问却看不见。」永恒之城选择了冠冕,而非微光……至少目前如此。"
+so|Destination|resources.assets|28353|_description,"'In the secrecy of the polling booth, Heaven sees you -  the Advisor doesn't.' The Eternal City has chosen Corona, not Gleam... for now.","「在投票间的隐秘之中,天堂看得见你——顾问却看不见。」永恒之城选择了冕,而非烁……至少目前如此。"
 so|Destination|resources.assets|28353|_label,Rome,罗马
 so|Destination|resources.assets|28354|_description,"The Oath of Kufra is fulfilled; above the scarred Cathedral, three colours glow","库夫拉之誓已然履行;在伤痕累累的大教堂上方,三色光芒闪耀"
 so|Destination|resources.assets|28354|_label,Strasbourg,斯特拉斯堡
@@ -4586,9 +4586,9 @@ so|ExperienceQuality|resources.assets|28770|_label,Winter Experiences,冬之经�
 so|FamiliarAliasQuality|resources.assets|28291|_label,Alias — Familiar,化名——熟识
 so|FirstNameAliasQuality|resources.assets|28292|_label,Alias — First name,化名——名字
 so|Footnote|resources.assets|28361|Choices[0].description,"Without the [[Incorporates]] to unite their efforts, they might still have lost.",若不是[[集团]]统合各自的努力，他们或许仍然会输。
-so|Footnote|resources.assets|28361|Choices[0].label,Corona,冠冕
+so|Footnote|resources.assets|28361|Choices[0].label,Corona,冕
 so|Footnote|resources.assets|28361|Choices[1].description,"Without the [[Ministries]] to fight the hardest battles, they might still have lost.",若不是[[联盟]]打了最艰苦的仗，他们或许仍然会输。
-so|Footnote|resources.assets|28361|Choices[1].label,Gleam,微光
+so|Footnote|resources.assets|28361|Choices[1].label,Gleam,烁
 so|Footnote|resources.assets|28361|Choices[2].description,"If they hadn't joined their powers, there would have been nothing left of the [[Histories]] at all.",倘若他们不曾联合同心，[[历史]]恐怕什么也不会留下。
 so|Footnote|resources.assets|28361|Choices[2].label,Conjunction,联合
 so|Footnote|resources.assets|28361|description,Those countries that fought the [[Enemy]].,那些与[[敌人]]作战的国家。
@@ -4629,7 +4629,7 @@ so|Footnote|resources.assets|28364|Choices[3].description,"The [[Sun-in-Rags]], 
 so|Footnote|resources.assets|28364|Choices[3].label,Inescapable,无可逃脱
 so|Footnote|resources.assets|28364|description,"The Church of the Unconquerable [[Sun]] acknowledges four <i>[[Horae]] Canonicae</i>, but its outer rites and doctrines present a humanised, comfortable version of each. The earliest church councils resolved that the inner mysteries of the Hours are much too dangerous to be approached directly. They're right, of course - most of all, about the mysteries of one particular Hour.",不可征服之太阳的教会承认四种<i>[[时序女神]]正时</i>，但其外部仪式与教义呈现的是每种正时人性化、令人安适的版本。最早的教会公会议认定，司辰的内层奥秘太过危险，不可直接触及。他们当然是对的——尤其是关于某一位司辰的奥秘。
 so|Footnote|resources.assets|28364|label,Church,教会
-so|Footnote|resources.assets|28365|Choices[0].description,"The [[Sun]] still glows, and Corona is only his latest blessing.",[[太阳]]仍在发光，冠冕不过是他最新的恩赐。
+so|Footnote|resources.assets|28365|Choices[0].description,"The [[Sun]] still glows, and Corona is only his latest blessing.",[[太阳]]仍在发光，冕不过是他最新的恩赐。
 so|Footnote|resources.assets|28365|Choices[0].label,Solar,日相
 so|Footnote|resources.assets|28365|Choices[1].description,The USA has always been a hotbed of [[Crucian]] heresy. This is some new permutation. Good?,美国一直是[[十字派]]异端的温床。这是某种新的变体。好事？
 so|Footnote|resources.assets|28365|Choices[1].label,Heresy,异端
@@ -4680,10 +4680,10 @@ so|Footnote|resources.assets|28374|Choices[1].description,I've changed so much s
 so|Footnote|resources.assets|28374|Choices[1].label,My old name,我旧日的名字
 so|Footnote|resources.assets|28374|Choices[2].description,Interesting people always have more than one name.,有趣的人永远不止一个名字。
 so|Footnote|resources.assets|28374|Choices[2].label,Another name.,另一个名字。
-so|Footnote|resources.assets|28374|description,"Sylvain Huissier is the name I was christened under, back in the Paris orphanage. It's the name on my old Third Republic passport.",西尔万·于西耶是我在巴黎孤儿院受洗时用的名字。它写在我旧时第三共和国护照上。
+so|Footnote|resources.assets|28374|description,"Sylvain Huissier is the name I was christened under, back in the Paris orphanage. It's the name on my old Third Republic passport.",西尔万·韦西耶是我在巴黎孤儿院受洗时用的名字。它写在我旧时第三共和国护照上。
 so|Footnote|resources.assets|28375|description,A place of peace and healing near the Cornish village of [[Brancrug]]. One of the seven great libraries of the [[Watchman's Tree]].,康沃尔郡[[布兰库格]]村附近的一处平和疗愈之所。[[守夜人之树]]的七座伟大图书馆之一。
 so|Footnote|resources.assets|28375|label,Hush House,噤声居屋
-so|Footnote|resources.assets|28376|description,"The touch of [[Corona]] reliably destroys individuals, but it can be safely (or 'safely') manifested through a corporation with suitably sacred founding documents, whose officers and representatives are visibly exalted. The United States are now, in some senses, the Incorporate States.",[[冠冕]]的触碰必然摧毁个体，但可以经由一家拥有恰当神圣创始文件的法人实体安全地（或者说『安全地』）显化，其高管与代表明显受到尊崇。在某种意义上，美利坚合众国如今已是集团合众国。
+so|Footnote|resources.assets|28376|description,"The touch of [[Corona]] reliably destroys individuals, but it can be safely (or 'safely') manifested through a corporation with suitably sacred founding documents, whose officers and representatives are visibly exalted. The United States are now, in some senses, the Incorporate States.",[[冕]]的触碰必然摧毁个体，但可以经由一家拥有恰当神圣创始文件的法人实体安全地（或者说『安全地』）显化，其高管与代表明显受到尊崇。在某种意义上，美利坚合众国如今已是集团合众国。
 so|Footnote|resources.assets|28376|label,Incorporate,集团
 so|Footnote|resources.assets|28377|Choices[0].description,I saw what happened to people who passed that door. Not all of them. But enough of them. So I never really made the attempt.,我见过穿过那扇门的人会怎样。不是所有人。但足够多的人。所以，我从未真正做出尝试。
 so|Footnote|resources.assets|28377|Choices[0].label,I never tried,我从未尝试
@@ -4797,7 +4797,7 @@ You can improve Skills with those [[Experiences]]. A virtuous circle, though not
 so|Footnote|resources.assets|28389|label,Skill,技艺
 so|Footnote|resources.assets|28390|Choices[0].description,"I remember a night when Ghirbi was talkative. He spoke in his siege-engine voice of the [[histories]] he'd overheard in the waking world. I listened, until his stories tailed off again into weeping.",我记得一个夜晚，吉比尔话很多。他用那攻城机械般的嗓音讲起他在醒时世界偷听到的[[历史]]。我听着，直到他的故事又渐渐消隐成呜咽。
 so|Footnote|resources.assets|28390|Choices[0].label,Pity,悲悯
-so|Footnote|resources.assets|28390|Choices[1].description,"I remember a night when Ghirbi spoke of the Door. 'Our company it was that shattered it. Before the [[Gods-who-were-flesh]], the House was forbidden to mortals. We were the first [[Know]]. I wish that we had not. I wish I had died in the world...'",我记得一个夜晚，吉比尔说起那扇门。『是我们一伙人砸碎了它。在[[肉源之神]]之前，漫宿对凡人是不许进入的。我们是最早的[[知者]]。我但愿我们不曾那样做。我但愿我当年就死在人间……』
+so|Footnote|resources.assets|28390|Choices[1].description,"I remember a night when Ghirbi spoke of the Door. 'Our company it was that shattered it. Before the [[Gods-who-were-flesh]], the House was forbidden to mortals. We were the first [[Know]]. I wish that we had not. I wish I had died in the world...'",我记得一个夜晚，吉比尔说起那扇门。『是我们一伙人砸碎了它。在[[肉源之神]]之前，居屋对凡人是不许进入的。我们是最早的[[知者]]。我但愿我们不曾那样做。我但愿我当年就死在人间……』
 so|Footnote|resources.assets|28390|Choices[1].label,Regret,悔恨
 so|Footnote|resources.assets|28390|Choices[2].description,"I remember a night when Ghirbi wept again. I scooped up his tears of molten brass in my cupped palm. In the dream, my skin peeled and blistered, but only in the dream.",我记得一个夜晚，吉比尔又哭了。我捧起手掌，接住他熔铜般滚烫的眼泪。在梦里，我的皮肤剥落、起泡，但只是梦里。
 so|Footnote|resources.assets|28390|Choices[2].label,Pain,痛苦
@@ -5011,9 +5011,9 @@ All seems a bit pointless now, really.","那些凡人与不朽的机构,如[[防
 
 如今,这一切似乎都有点徒劳了,真的。"
 so|Footnote|resources.assets|28419|label,Duties,职司
-so|Footnote|resources.assets|28421|Choices[0].description,Can [[Gleam]] master Eternity?,[[微光]]能驾驭永恒吗?
+so|Footnote|resources.assets|28421|Choices[0].description,Can [[Gleam]] master Eternity?,[[烁]]能驾驭永恒吗?
 so|Footnote|resources.assets|28421|Choices[0].label,Shape,塑形
-so|Footnote|resources.assets|28421|Choices[1].description,Can [[Corona]] bring us Eternity?,[[冠冕]]能为我们带来永恒吗?
+so|Footnote|resources.assets|28421|Choices[1].description,Can [[Corona]] bring us Eternity?,[[冕]]能为我们带来永恒吗?
 so|Footnote|resources.assets|28421|Choices[1].label,Enjoy,享受
 so|Footnote|resources.assets|28421|Choices[2].description,"[[Moth]] is drawn to the light; but look to the [[Cross]], children of difference, for [[History]].","[[蛾]]为光所吸引;但若想寻得[[历史]],当看向[[介壳种]]——他们是差异之子。"
 so|Footnote|resources.assets|28421|Choices[2].label,Struggle,抗争
@@ -5067,7 +5067,7 @@ who ends all nights</i>","<i>以火重塑者;
 so|Footnote|resources.assets|28424|label,Forge of Days,白日铸炉
 so|Footnote|resources.assets|28425|description,"Poisoned by the Enemy's works, shattered by the Allies' revenges. The Western zone is under Allied military government - which for most purposes means Incorporate influence - and the Acheson Mission is closing some of the wounds in the world. But it's not a nation in the way it used to be. It's barely even a place.","为敌人的造物所毒,被盟友的复仇击碎。西区处于盟军军政府治下——在大多数情况下,这意味着[[集团]]的影响——而艾奇逊使团正在弥合这世上的一些伤口。但它已不是昔日意义上的国家了。它甚至几乎称不上一个地方。"
 so|Footnote|resources.assets|28425|label,Germany Allied Zone,德国盟占区
-so|Footnote|resources.assets|28426|description,The Acheson Mission was launched to rebuild Europe... under a Coronal paradigm. The [[Ministries]] are having none of that. Their most recent response is to blockade Berlin. Anyone from the West trying to reach the capital - even the Allied sector - will need sympathetic intervention or a very unusual plan.,"艾奇逊使团的成立,是为了重建欧洲……奉行冠冕范式。[[联盟]]对此绝不买账。他们最近的回应,是封锁柏林。任何试图从西方抵达首都的人——哪怕是盟军管区——都需要善意的干预,或一个极不寻常的计划。"
+so|Footnote|resources.assets|28426|description,The Acheson Mission was launched to rebuild Europe... under a Coronal paradigm. The [[Ministries]] are having none of that. Their most recent response is to blockade Berlin. Anyone from the West trying to reach the capital - even the Allied sector - will need sympathetic intervention or a very unusual plan.,"艾奇逊使团的成立,是为了重建欧洲……奉行冕之范式。[[联盟]]对此绝不买账。他们最近的回应,是封锁柏林。任何试图从西方抵达首都的人——哪怕是盟军管区——都需要善意的干预,或一个极不寻常的计划。"
 so|Footnote|resources.assets|28426|label,Germany Soviet Zone,德国苏占区
 so|Footnote|resources.assets|28427|description,"The gift the Stars brought the [[Ministries]]. Something like [[Lantern]], but not.","群星赠予[[联盟]]的礼物。有几分像[[灯]],却又不尽相同。"
 so|Footnote|resources.assets|28428|description,"Those [[Hours]] who were born into the world as mortals, before they begain their long fierce rise to become the engines of [[Eternity]]'s encroachment.","那些以凡人之躯降生于世的[[司辰]],在开启漫长而炽烈的攀升、成为[[永恒]]侵蚀之引擎之前,曾是血肉之躯。"
@@ -5104,7 +5104,7 @@ No [[Hour]] is young, but the Horned-Axe is very old indeed. She's survived at l
 
 没有哪位[[司辰]]年轻,但角斧确实年迈至极。她已在[太阳]中熬过了至少三场战争。"
 so|Footnote|resources.assets|28433|label,Horned-Axe,角斧
-so|Footnote|resources.assets|28434|description,"Hungary is quiet beneath the steel blessings of the Stars. The old Republic aligns now with the paradigms of Gleam. But beneath Strigonium, a prince of the Church Solar still holds the Holy Crown. Until he's broken, not quite everything has changed.","在群星钢铁般的赐福之下,匈牙利一片寂静。旧共和国如今已与微光的范式同轨。但在斯特里戈尼乌姆之下,太阳教会的一位亲王仍握着圣冠。在他被粉碎之前,并非一切都已改变。"
+so|Footnote|resources.assets|28434|description,"Hungary is quiet beneath the steel blessings of the Stars. The old Republic aligns now with the paradigms of Gleam. But beneath Strigonium, a prince of the Church Solar still holds the Holy Crown. Until he's broken, not quite everything has changed.","在群星钢铁般的赐福之下,匈牙利一片寂静。旧共和国如今已与烁的范式同轨。但在斯特里戈尼乌姆之下,太阳教会的一位亲王仍握着圣冠。在他被粉碎之前,并非一切都已改变。"
 so|Footnote|resources.assets|28434|label,Hungary,匈牙利
 so|Footnote|resources.assets|28436|Choices[0].description,I believe Fate won.,我相信是命运赢了。
 so|Footnote|resources.assets|28436|Choices[0].label,Fate,命运
@@ -5194,7 +5194,7 @@ The [[Uncounted]] [[Hour]] who once appeared in [[Church]] iconography as the Wh
 
 那位[[除名]]的[[司辰]],曾以白衣圣母、护佑母亲的玻璃贞女之姿出现在[[教会]]的图像中。有时,她被描述为太阳的夜之身。"
 so|Footnote|resources.assets|28443|label,Meniscate,弧月
-so|Footnote|resources.assets|28444|description,"The revolutionary [[Icarian]] workers' councils which drove the revolution in Russia have become more efficient, under the [[Gleam]]-light. The Stars accept and synthesise their decisions, beneath the avuncular and mighty gaze of Steel - the 'Advisory Entity to the Council of Ministers.' The Stars in turn pass their gifts to the Ministries, who enact those decisions. What could be better?","当年推动俄国革命的革命性[[伊加利亚]]工人委员会,在[[微光]]的照耀下变得愈发高效。群星在钢铁——「部长会议顾问实体」——亲切而威严的注视之下,接受并综合它们的决定。群星再将馈赠转交联盟,由联盟来执行那些决定。还能有比这更好的吗?"
+so|Footnote|resources.assets|28444|description,"The revolutionary [[Icarian]] workers' councils which drove the revolution in Russia have become more efficient, under the [[Gleam]]-light. The Stars accept and synthesise their decisions, beneath the avuncular and mighty gaze of Steel - the 'Advisory Entity to the Council of Ministers.' The Stars in turn pass their gifts to the Ministries, who enact those decisions. What could be better?","当年推动俄国革命的革命性[[伊加利亚]]工人委员会,在[[烁]]的照耀下变得愈发高效。群星在钢铁——「部长会议顾问实体」——亲切而威严的注视之下,接受并综合它们的决定。群星再将馈赠转交联盟,由联盟来执行那些决定。还能有比这更好的吗?"
 so|Footnote|resources.assets|28444|label,Ministries,联盟
 so|Footnote|resources.assets|28462|description,"Where there's rubble, there'll be steel; where there's shards of glass, there'll be mirrors. What's old is lost, what's new is coming. The Kingdom of the Netherlands is getting to work.","哪里有瓦砾,哪里就会有钢铁;哪里有碎玻璃,哪里就会有镜子。旧的已经逝去,新的正在到来。荷兰王国开始忙碌起来。"
 so|Footnote|resources.assets|28462|label,Netherlands,荷兰
@@ -5222,7 +5222,7 @@ so|Footnote|resources.assets|28469|description,"Only the approved candidates get
 so|Footnote|resources.assets|28469|label,Poland,波兰
 so|Footnote|resources.assets|28470|description,"In this place, at this time, if you fill the slots with the necessary ingredients, you can obtain something useful. Some ingredients are consumed - some just serve as catalysts. Look closely at  ingredient slots to learn more.","在此地,在此刻,若你用必要的原料填满槽位,便能得到某种有用的东西。有些原料会被消耗——有些只是充当催化剂。仔细看看原料槽位,了解更多。"
 so|Footnote|resources.assets|28470|label,Selected Recipe,选中的配方
-so|Footnote|resources.assets|28471|description,"The Romanian People's Republic is an Icarian state... but there are no Star-fragments here. Though King Michael is gone, the other Michael, the Messenger who writes in invisible blood, the dead-guide for whom candles are lit - that Michael is seen every day in Cluj, in paintings, mirrors, chalk. A power walks that has nothing to do with Gleam.","罗马尼亚人民共和国是一个伊加利亚国家……但这里没有星之碎片。虽然米哈伊国王已经不在了,但另一位米哈伊——那位以隐形之血书写的信使,那位人们为他点烛的引魂者——这位米哈伊每天都在克卢日现身:在画作里,在镜子里,在粉笔痕迹里。有一股与微光毫无干系的权能,正在行走。"
+so|Footnote|resources.assets|28471|description,"The Romanian People's Republic is an Icarian state... but there are no Star-fragments here. Though King Michael is gone, the other Michael, the Messenger who writes in invisible blood, the dead-guide for whom candles are lit - that Michael is seen every day in Cluj, in paintings, mirrors, chalk. A power walks that has nothing to do with Gleam.","罗马尼亚人民共和国是一个伊加利亚国家……但这里没有星之碎片。虽然米哈伊国王已经不在了,但另一位米哈伊——那位以隐形之血书写的信使,那位人们为他点烛的引魂者——这位米哈伊每天都在克卢日现身:在画作里,在镜子里,在粉笔痕迹里。有一股与烁毫无干系的权能,正在行走。"
 so|Footnote|resources.assets|28471|label,Romania,罗马尼亚
 so|Footnote|resources.assets|28473|description,A greeting and a parting in the tongue of Lagash; and the name of a spirit.,"拉格什之语中的一声问候,与一声道别;也是一位灵的名字。"
 so|Footnote|resources.assets|28473|label,Silim,西利姆
@@ -5266,7 +5266,7 @@ so|Footnote|resources.assets|28476|description,"""One, Great, and Free."" The Ca
 
 Spain stayed out of the Wars - it has less need of [[Gleam]] or [[Corona]] - and there is something else here - a high host that visits select doors in the deep night. The scent of burning wax goes before it.","「统一、伟大、自由。」马德里的考迪罗兑现了第一句豪言,但另外两句依旧遥不可及。不过,这个没有国王的王国,境况或许正在好转。法兰西[[邦国]]的达尔朗政权重新开放了边境。[[集团]]在对抗[[伊加利亚主义]]的战争中,愿意宽恕旧日的罪愆。霜冻开始消融。
 
-西班牙置身于战争之外——它对[[微光]]或[[冠冕]]的需求较少——而这里还有别的什么:一支高贵的行列,在深夜里造访特定的门扉。燃烧的蜡香先它而至。"
+西班牙置身于战争之外——它对[[烁]]或[[冕]]的需求较少——而这里还有别的什么:一支高贵的行列,在深夜里造访特定的门扉。燃烧的蜡香先它而至。"
 so|Footnote|resources.assets|28476|label,Spain,西班牙
 so|Footnote|resources.assets|28477|Choices[0].description,... but lost.,……却已失落。
 so|Footnote|resources.assets|28477|Choices[0].label,Remembered,被铭记
@@ -5349,7 +5349,7 @@ so|Footnote|resources.assets|28487|label,Vagabond,浪游者
 so|Footnote|resources.assets|28488|Choices[0].description,"I favour the Bright Arts: so that's Holy Places above all, but sometimes also Quiet Places, Thresholds and Hearths.",我偏好光之技艺：因此以圣地为先，但也时常用到静谧之处、门阈与炉畔。
 so|Footnote|resources.assets|28488|Choices[1].description,"I favour the Night Arts: so that's Wounds and Shadowed Places first, but sometimes also Quiet Places and Thresholds.",我偏好夜之技艺：因此以伤处与阴影之地为先，但也时常用到静谧之处与门阈。
 so|Footnote|resources.assets|28488|Choices[1].label,Dark,暗
-so|Footnote|resources.assets|28488|Choices[2].description,"I favour the Arts Unconsidered - so that's Verdant Places above all, but also sometimes Shadowed Places, Hearths and Thresholds.",我偏好未拾技艺：因此以翠绿之地为首，但也时常用到阴影之地、炉畔与门阈。
+so|Footnote|resources.assets|28488|Choices[2].description,"I favour the Arts Unconsidered - so that's Verdant Places above all, but also sometimes Shadowed Places, Hearths and Thresholds.",我偏好未识技艺：因此以翠绿之地为首，但也时常用到阴影之地、炉畔与门阈。
 so|Footnote|resources.assets|28488|Choices[2].label,Dusk,暮
 so|Footnote|resources.assets|28488|description,"Venues are hallowed, sinister, powerful or convenient locations where you can craft occult tools. Only a few Unworldly [[Skills]] can be used at each Venue - you'll quickly learn which Venues are most useful to you.",场所是神圣、凶险、强力或便捷的所在，你可以在其中炼制秘术器物。每处场所只能使用少数非尘世[[技艺]]——你很快会明白哪些场所对你最有用。
 so|Footnote|resources.assets|28488|label,Venue,场所
@@ -5466,7 +5466,7 @@ so|Given|resources.assets|28805|_label,Near Death,濒临死亡
 so|Given|resources.assets|28806|_label,No Daffer Involvement Yet,达弗尚未介入
 so|Given|resources.assets|28807|QReqs[0].text,orderedRefreshment,orderedRefreshment
 so|Given|resources.assets|28807|_label,Two Orders per Visit,每次到访两笔订单
-so|Given|resources.assets|28808|_label,Create Minor Arts Unconsidered Items,制作次级未拾技艺器物
+so|Given|resources.assets|28808|_label,Create Minor Arts Unconsidered Items,制作次级未识技艺器物
 so|Given|resources.assets|28809|_label,Create Minor Bright Arts Items,制作次级光之技艺器物
 so|Given|resources.assets|28810|_label,Create Minor Night Arts Items,制作次级夜之技艺器物
 so|ItemAudioFXLibrary|resources.assets|28303|_listings[0]._name,Generic_Pickup,Generic_Pickup
@@ -5556,7 +5556,7 @@ so|Item|resources.assets|28819|_label,Large Manila Envelope,大号马尼拉纸�
 so|Item|resources.assets|28820|_label,Testing Papers,测试用纸
 so|Item|resources.assets|28821|_description,"'Spencer Hobson: multiple entries Italian Republic, Free Territory of Trieste'. A single sheet of paper, enlivened with the flaming-sword stamp of Supreme Headquarters Allied Expeditionary Force.",「斯宾塞·霍布森：可多次入境意大利共和国、的里雅斯特自由区」。一张单页纸，加盖着盟军远征军最高司令部的火剑印章，显得神气活现。
 so|Item|resources.assets|28821|_label,AMG Travel Permit: Italy,AMG 旅行通行证：意大利
-so|Item|resources.assets|28823|_description,"A permit for Sylvain Huissier to pass through the Allied zones of occupation in Germany, supposedly issues by the <i>Commandement en chef français en Allemagne</i> at Baden-Baden. A reasonably convincing forgery.",一张准许西尔万·于西耶通行德国各盟军占领区的通行证，据称由巴登-巴登的<i>法国驻德占领军总司令部</i>签发。算得上相当足以乱真的赝品。
+so|Item|resources.assets|28823|_description,"A permit for Sylvain Huissier to pass through the Allied zones of occupation in Germany, supposedly issues by the <i>Commandement en chef français en Allemagne</i> at Baden-Baden. A reasonably convincing forgery.",一张准许西尔万·韦西耶通行德国各盟军占领区的通行证，据称由巴登-巴登的<i>法国驻德占领军总司令部</i>签发。算得上相当足以乱真的赝品。
 so|Item|resources.assets|28823|_label,"CCFA Travel Permit: Germany, Allied Zone (Counterfeit)",CCFA 旅行通行证：德国，盟军占领区（伪造）
 so|Item|resources.assets|28824|_description,"A cramped page of Cyrillic text and overlaid stamps, all in aniline purple of many shades from faded to fresh, and headed with a single silver Star. Most of the text is legible with careful attention to detail, but one layer artfully obscures the next, so that it's almost impossible to trace the detail back to the beginning.",一页挤满西里尔字母文字、叠满层层印章的纸，一律是深浅不一的苯胺紫，从褪色到簇新，页首以一颗银星为冠。用心细看，大部分文字尚可辨认，但一层巧妙地掩着下一层，几乎不可能将细节一路回溯到源头。
 so|Item|resources.assets|28824|_label,Ministries Visa (Passable Counterfeit),联盟签证（足以乱真的赝品）
@@ -5584,13 +5584,13 @@ so|Item|resources.assets|28835|_description,A passable counterfeit in the name o
 so|Item|resources.assets|28835|_label,French State Passport (Passable Counterfeit),法兰西邦国护照（足以乱真的赝品）
 so|Item|resources.assets|28836|_description,"A pre-war passport in the name of M. Sylvain [[Huissier]]. My place of birth is given as Paris. That much is true, as far as I know, but it's not a name I often use. It can be convenient to travel as a Frenchman, but I can't legally be a citizen of both Britain and France.
 
-It carries a consular stamp in purple aniline ink, confirming that the Fourth Republic recognises me as a citizen. Both the passport and the stamp are forgeries, but they're good ones. They'll get me across the Republic border unless I'm very unlucky.","一本战前护照，持有人为西尔万·[[于西耶]]先生。出生地一栏写的是巴黎。就我所知，那部分属实，但这并非我常用的名字。以法国人的身份旅行有时颇为方便，可我无法合法地同时身为英国与法国的公民。
+It carries a consular stamp in purple aniline ink, confirming that the Fourth Republic recognises me as a citizen. Both the passport and the stamp are forgeries, but they're good ones. They'll get me across the Republic border unless I'm very unlucky.","一本战前护照，持有人为西尔万·[[韦西耶]]先生。出生地一栏写的是巴黎。就我所知，那部分属实，但这并非我常用的名字。以法国人的身份旅行有时颇为方便，可我无法合法地同时身为英国与法国的公民。
 
 护照上有一枚紫色苯胺墨的领事印章，确认第四共和国承认我为公民。护照和印章都是伪造的，但都是上好的伪造。除非我倒霉到家，否则它们足以带我越过共和国的边境。"
 so|Item|resources.assets|28836|_label,Third Republic Passport (Endorsed),第三共和国护照（已签注）
 so|Item|resources.assets|28837|_description,"A pre-war passport in the name of M. Sylvain [[Huissier]]. My place of birth is given as Paris. That much is true, as far as I know, but it's not a name I often use. It can be convenient to travel as a Frenchman, but I can't legally be a citizen of both Britain and France.
 
-So the passport is a forgery - and the Republic has issued new ones anyway, leaving it invalid. Everything's changed since the Wars.","一本战前护照，持有人为西尔万·[[于西耶]]先生。出生地一栏写的是巴黎。就我所知，那部分属实，但这并非我常用的名字。以法国人的身份旅行有时颇为方便，可我无法合法地同时身为英国与法国的公民。
+So the passport is a forgery - and the Republic has issued new ones anyway, leaving it invalid. Everything's changed since the Wars.","一本战前护照，持有人为西尔万·[[韦西耶]]先生。出生地一栏写的是巴黎。就我所知，那部分属实，但这并非我常用的名字。以法国人的身份旅行有时颇为方便，可我无法合法地同时身为英国与法国的公民。
 
 所以这本护照是伪造的——何况共和国反正也换了新护照，它已经失效。自战争以来，一切都变了。"
 so|Item|resources.assets|28837|_label,Third Republic Passport (Invalid),第三共和国护照（已失效）
@@ -5600,7 +5600,7 @@ so|Item|resources.assets|28839|_description,VIZĂ DE INTRARE. The arms of the Pe
 so|Item|resources.assets|28839|_label,Romanian Visa,罗马尼亚签证
 so|Item|resources.assets|28840|_description,"VISADO DE ENTRADA. The consul's signature adorns a stamp of vivid violet ink - yoke, arrows, eagle, and the Pillars of Hercules. Look close enough, and there's a tiny radiance at the top of each pillar, like a candle flame.",入境签证。领事的签名落在一枚艳紫墨印上——轭、箭、鹰，以及赫拉克勒斯之柱。凑近细看，每根柱顶都有一点微光，仿佛烛焰。
 so|Item|resources.assets|28840|_label,Spanish Visa,西班牙签证
-so|Item|resources.assets|28842|_description,"The letter confirms that its bearer, Père Laiton, has the diocese's authorisation to pursue matters concerning the medical records of his one-time parishioner, Liliane Huissier. It carries the stamp of the episcopal chancery. It's easily good enough to convince someone who doesn't spend much time looking at episcopal chancery stamps.",这封信确认持信人黄铜神父获得教区授权，可处理其昔日教区居民莉莉安·于西耶的医疗档案事宜。信上盖着主教府的公章。对不常细看主教府公章的人来说，它足以乱真。
+so|Item|resources.assets|28842|_description,"The letter confirms that its bearer, Père Laiton, has the diocese's authorisation to pursue matters concerning the medical records of his one-time parishioner, Liliane Huissier. It carries the stamp of the episcopal chancery. It's easily good enough to convince someone who doesn't spend much time looking at episcopal chancery stamps.",这封信确认持信人黄铜神父获得教区授权，可处理其昔日教区居民莉莉安·韦西耶的医疗档案事宜。信上盖着主教府的公章。对不常细看主教府公章的人来说，它足以乱真。
 so|Item|resources.assets|28842|_label,Forged Letter from Bishop of Nantes,伪造的南特主教信函
 so|Item|resources.assets|28843|_description,"A soggy mess of identity cards and mulched ration books, scavenged from the Dead of Kerisham beach.",一堆湿透的身份证件与沤烂成浆的配给簿，是从凯尔伊苏姆海滩的亡者身上捡来的。
 so|Item|resources.assets|28843|_label,Drowned Papers,溺亡者的文件
@@ -5691,7 +5691,7 @@ One Swiss franc is worth about one dollar.","欧洲人人都知道，他们的[[
 so|Item|resources.assets|28868|_label,Swiss Franc,瑞士法郎
 so|Item|resources.assets|28869|_description,"The Corona-touched [[currency]] of the United States, buttery smooth beneath the fingertips, faintly luminous even in darkness. Much valued in the wilder hinterlands of Europe as a talisman of onteirological stability. The new five dollar bill is sometimes nailed above doors to invoke the protection the one whose likeness it bears - Barkley, who is both President and Incorporate.
 
-Every other currency's value is expressed in terms of the dollar. Heaven bless America.","美国那种被冠冕触及的[[货币]]，指尖抚过如奶油般滑顺，即使在黑暗中也会发出微光。在欧洲更蛮荒的内地，它作为梦境学稳定的护符而备受珍视。崭新的五美元钞票有时会被钉在门楣之上，以祈求钞票上那位形象的庇护——巴克利，他既是总统，也是集团成员。
+Every other currency's value is expressed in terms of the dollar. Heaven bless America.","美国那种被冕触及的[[货币]]，指尖抚过如奶油般滑顺，即使在黑暗中也会发出微光。在欧洲更蛮荒的内地，它作为梦境学稳定的护符而备受珍视。崭新的五美元钞票有时会被钉在门楣之上，以祈求钞票上那位形象的庇护——巴克利，他既是总统，也是集团成员。
 
 所有其他货币的价值都以美元计。天佑美利坚。"
 so|Item|resources.assets|28869|_label,Dollar,美元
@@ -5714,13 +5714,13 @@ In Europe, since the Wars, there's no shortage of deaths, but this is among the 
 "
 so|Item|resources.assets|28875|_label,Hemlock,毒芹
 so|Item|resources.assets|28876|_description,All that dazzles is golden.,凡眩目者，皆为金色。
-so|Item|resources.assets|28876|_label,Influence: Corona's Promise,影响：冠冕之诺
+so|Item|resources.assets|28876|_label,Influence: Corona's Promise,影响：冕之诺
 so|Item|resources.assets|28877|_description,Intimations of anger; the storm-clouds of struggle.,愤怒的预兆；争斗的乌云。
 so|Item|resources.assets|28877|_label,Influence: Edge,影响：刃
 so|Item|resources.assets|28878|_description,The possibility of sparks; a heat that alters.,火花萌生的可能；一种会改变的热。
 so|Item|resources.assets|28878|_label,Influence: Forge,影响：铸
 so|Item|resources.assets|28879|_description,The Stars are bright here.,此处的群星格外明亮。
-so|Item|resources.assets|28879|_label,Influence: Gleam's Gift,影响：微光之赐
+so|Item|resources.assets|28879|_label,Influence: Gleam's Gift,影响：烁之赐
 so|Item|resources.assets|28880|_description,Heightened appetite; deepened sensation.,更盛的渴望；更深的感受。
 so|Item|resources.assets|28880|_label,Influence: Grail,影响：杯
 so|Item|resources.assets|28881|_description,Reassurance in motion.,律动中的慰藉。
@@ -5897,13 +5897,13 @@ so|Item|resources.assets|28927|_description,"A little white ceramic jar containi
 
 [这是珍稀之物。只在必要时使用。你可以卖掉它，但全欧洲没有几个人懂得它真正的价值。]"
 so|Item|resources.assets|28927|_label,Uzult,乌祖尔特
-so|Item|resources.assets|28928|_description,"A little white ceramic jar from Aubière's box - the pyx, the reliquary, whatever it was.",欧比耶尔匣子里的一只小小的白色瓷罐——圣体盒也好，圣物匣也好，管它是什么。
+so|Item|resources.assets|28928|_description,"A little white ceramic jar from Aubière's box - the pyx, the reliquary, whatever it was.",奥比埃匣子里的一只小小的白色瓷罐——圣体盒也好，圣物匣也好，管它是什么。
 so|Item|resources.assets|28928|_label,Pyx Jar,圣体盒罐
 so|Item|resources.assets|28929|_label,White Lilies,白百合
 so|Item|resources.assets|28930|_description,"A black-and-gold fountain pen monogrammed 'L.A.'
 ","一支黑金相间的钢笔，压着 'L.A.' 的花押。
 "
-so|Item|resources.assets|28930|_label,Aubière's Fountain Pen,欧比耶尔的钢笔
+so|Item|resources.assets|28930|_label,Aubière's Fountain Pen,奥比埃的钢笔
 so|Item|resources.assets|28931|_description,The sign of the half-human hill-child called <i>bisclavret</i>. The sign trembles with aguey vitality.,被称为<i>比斯克拉弗雷</i>的半人山野之子的印记。这印记带着寒热般的活力颤动着。
 so|Item|resources.assets|28931|_label,Bisclavret's Knot,比斯克拉弗雷之结
 so|Item|resources.assets|28932|_description,"A touchstone and talisman, worn as a good-luck piece until its owner became too closely acquainted with a howitzer shell at Remagen. The amulet survived the experience, so perhaps it assures its own good luck.",一枚试金石兼护身符，被当作辟邪吉物佩戴，直到它的主人在雷马根与一枚榴弹炮弹过于亲近。护符挺过了那场经历，所以也许它护佑的是自己的好运。
@@ -5928,7 +5928,7 @@ so|Item|resources.assets|28941|_description,"A safety razor blade. In short supp
 
 Notably useful for practitioners of the [[Arts Unconsidered]], who often need to shed blood with a tool that has never tasted blood.","一片安全剃须刀片。战争以来一直短缺。
 
-对[[未拾技艺]]的修行者尤其有用，他们常常需要用一件从未尝过血的工具来放血。"
+对[[未识技艺]]的修行者尤其有用，他们常常需要用一件从未尝过血的工具来放血。"
 so|Item|resources.assets|28941|_label,Razor Blade,剃刀刀片
 so|Item|resources.assets|28942|_description,"Ignites on anything, burns with a clear and beautiful white flame. They don't make these any more, because the manufacturing process made the match-girls' jaws rot, then glow, then collapse. Except in the Vatican, for certain essential rights; and there, we are assured, the matches are produced so safely and carefully that phossy jaw is entirely unknown.",在任何东西上都能擦燃，燃起清澈美丽的白色火焰。这种火柴已经不再生产了，因为制造过程会让火柴女工的颌骨腐烂，继而发光，继而塌陷。只有梵蒂冈还在为某些必不可少的礼典生产；而在那里，我们得到保证，火柴生产得如此安全、如此小心，磷毒性颌骨坏死完全不为人知。
 so|Item|resources.assets|28942|_label,Sanctified Lucifer Match,祝圣路西法火柴
@@ -5947,12 +5947,12 @@ so|Item|resources.assets|28948|_label,Carcass Spark,残骸火花
 so|Item|resources.assets|28949|_description,A little tangle of night-magics and serpent-tricks.,一小团夜之魔法与蛇术的纠缠。
 so|Item|resources.assets|28949|_label,Coiled Sign,盘绕印记
 so|Item|resources.assets|28950|_description,The powers of higher heaven might honour this request - or wink at an exception.,更高天界的力量也许会成全这一请求——或对某个例外睁一只眼闭一只眼。
-so|Item|resources.assets|28950|_label,Coronal Indulgence,冠冕之宽赦
+so|Item|resources.assets|28950|_label,Coronal Indulgence,冕之宽赦
 so|Item|resources.assets|28951|_description,"By this mark, we invoke the severest gaze of the powers of higher heaven.",凭此印记，我们唤起更高天界诸力量最严厉的注视。
-so|Item|resources.assets|28951|_label,Coronal Interdiction,冠冕之禁绝
+so|Item|resources.assets|28951|_label,Coronal Interdiction,冕之禁绝
 so|Item|resources.assets|28952|_description,"A web of subtle work to encourage peace, healing and a slow knitting-together of possibilities.",一张精巧织就的网，用以促成安宁、愈合，以及种种可能性的缓慢织合。
 so|Item|resources.assets|28952|_label,Cradle-Weft,摇篮纬纱
-so|Item|resources.assets|28953|_description,"A token invested with heavenly power, in defiance of Corona's claims of solar seignorage. Used for Bright Arts crafting recipes.",一件注入了天界力量的凭证，公然违抗冠冕对太阳铸币权的主张。用于光之技艺的炼制配方。
+so|Item|resources.assets|28953|_description,"A token invested with heavenly power, in defiance of Corona's claims of solar seignorage. Used for Bright Arts crafting recipes.",一件注入了天界力量的凭证，公然违抗冕对太阳铸币权的主张。用于光之技艺的炼制配方。
 so|Item|resources.assets|28953|_label,Eye of Authority,权威之眼
 so|Item|resources.assets|28954|_description,Here is the promise we all make each night.,这就是我们每夜都会许下的承诺。
 so|Item|resources.assets|28954|_label,Fetching Mommet,迷人的人偶
@@ -5968,7 +5968,7 @@ so|Item|resources.assets|28959|_description,No dawn knows only a single colour. 
 so|Item|resources.assets|28959|_label,Ichor Auroral,曙光神血
 so|Item|resources.assets|28960|_description,A dark and syrupy liquor favoured in unnamed forest villages.,一种深色黏稠的烈酒，在无名的林间村落里备受青睐。
 so|Item|resources.assets|28960|_label,Leathy,利西
-so|Item|resources.assets|28961|_description,"A token invested with unearthly power, in defiance of Gleam's claims of cosmic prerogative. Used for Night Arts crafting. ",一件注入了非尘世力量的凭证，公然违抗微光对宇宙特权的主张。用于夜之技艺的炼制。
+so|Item|resources.assets|28961|_description,"A token invested with unearthly power, in defiance of Gleam's claims of cosmic prerogative. Used for Night Arts crafting. ",一件注入了非尘世力量的凭证，公然违抗烁对宇宙特权的主张。用于夜之技艺的炼制。
 so|Item|resources.assets|28961|_label,Mark of Necessity,必然之印迹
 so|Item|resources.assets|28962|_description,The proper use of this sombre sign silences restless spirits. Improper use can trouble the sleep and health of living human spirits.,正确使用这阴沉的印记，能让不安的亡魂归于沉寂。使用不当则会扰乱生者的睡眠与健康。
 so|Item|resources.assets|28962|_label,Midnight Mark,午夜印记
@@ -6726,7 +6726,7 @@ so|Recipe|resources.assets|28523|_description,"The Ordo Limiae, later called the
 so|Recipe|resources.assets|28523|_label,Limian Discipline,利米亚典仪
 so|Recipe|resources.assets|28524|_description,"Use Lantern influence to reduce Dread. This rite invokes the Madrugad - or her departing remnants, at least - so it'll always increase Fascination to some degree.",用灯之影响削减恐惧。此仪式祈请昕旦——或者至少是祂正在消散的残余——因此总会在某种程度上增加入迷。
 so|Recipe|resources.assets|28524|_label,Operation of the Ascending Sun,旭日升腾行动
-so|Recipe|resources.assets|28525|_advice,The walls of the House are the size of starlight.,宅邸的墙壁，尺度与星光相同。
+so|Recipe|resources.assets|28525|_advice,The walls of the House are the size of starlight.,居屋的墙壁，尺度与星光相同。
 so|Recipe|resources.assets|28525|_description,Move through the dark angles and near superficies of the Bounds.,沿着边界之地的黑暗角度与近邻表面移动。
 so|Recipe|resources.assets|28525|_label,Starlit Steps,星光阶梯
 so|Recipe|resources.assets|28526|_description,"Thirza Blake, Seventh Librarian of Hush House, used this bracingly practical rite to ease her joint pains and the stomach cramps caused by her ceaseless enthusiasm for apples.",噤声居屋第七任馆长瑟莎·布莱克用这套极为实用、令人精神一振的仪式缓解关节疼痛，以及她因永不停歇地热爱苹果而造成的胃痉挛。
@@ -6744,7 +6744,7 @@ so|RelationshipQuality|resources.assets|29002|_label,Opinion - Aristide,看法 -
 so|RelationshipQuality|resources.assets|29003|_actorName,arun,arun
 so|RelationshipQuality|resources.assets|29003|_label,Opinion - Arun,看法 - 阿伦
 so|RelationshipQuality|resources.assets|29004|_actorName,sanitarium/aubiere,sanitarium/aubiere
-so|RelationshipQuality|resources.assets|29004|_label,Opinion - Dr Aubière,看法 - 欧比耶尔医生
+so|RelationshipQuality|resources.assets|29004|_label,Opinion - Dr Aubière,看法 - 奥比埃医生
 so|RelationshipQuality|resources.assets|29005|_actorName,bessy,bessy
 so|RelationshipQuality|resources.assets|29005|_label,Opinion - Bessy,看法 - 贝茜
 so|RelationshipQuality|resources.assets|29006|_actorName,bronek,bronek
@@ -6888,11 +6888,11 @@ so|Skill|resources.assets|29073|_description,"Music, riddles, miscellanea. Half-
 One of the [[Arts Unconsidered]]; it can be used at Thresholds and Verdant Places.
 ","音乐、谜语与杂学。依稀记得的交谈,闲言与窃听的果实。
 
-属[[未拾技艺]]之一;可用于门关与翠绿之地。
+属[[未识技艺]]之一;可用于门关与翠绿之地。
 "
 so|Skill|resources.assets|29073|_label,Birdsong,鸟鸣学
 so|Skill|resources.assets|29074|_description,"The lore of the primaeval wood; rarely written, often felt. One of the [[Arts Unconsidered]], used in Verdant and Shadowed Places.
-","太古之林的学问;罕有书载,多为亲觉。属[[未拾技艺]]之一,用于翠绿与幽影之地。
+","太古之林的学问;罕有书载,多为亲觉。属[[未识技艺]]之一,用于翠绿与幽影之地。
 "
 so|Skill|resources.assets|29074|_label,Bosk,丛林学
 so|Skill|resources.assets|29075|_description,"<i>I have the knack of being liked; and people who like me will often do things for me.</i>
@@ -6958,7 +6958,7 @@ so|Skill|resources.assets|29085|_description,"Healing, restoration, curation. Th
 
 One of the [[Arts Unconsidered]], used at Hearths and in Verdant Places.","疗愈、复原与看护。无形之艺中最良善的用途——往往也是与世俗医术交叠之处。
 
-属[[未拾技艺]]之一,用于炉边与翠绿之地。"
+属[[未识技艺]]之一,用于炉边与翠绿之地。"
 so|Skill|resources.assets|29085|_label,Preservation,保存术
 so|Skill|resources.assets|29086|_description,"The study of things that should not be studied: Worms, earthquakes, sub-real interventions.
 
@@ -6998,14 +6998,14 @@ so|StateSO|resources.assets|28024|_description,"I gave Zèlia the letter from Ma
 so|StateSO|resources.assets|28024|_displayName,Max,马克斯
 so|StateSO|resources.assets|28027|_description,I've helped Father Jaume open the eyes of St Reparata.,"我已帮助若梅神父,为圣雷帕拉塔开启了双眼。"
 so|StateSO|resources.assets|28027|_displayName,Opened,已开眼
-so|StateSO|resources.assets|28028|_description,There may be information that will compel Aubière's assistance. Perhaps someone else in the Sanitarum can help me.,"也许有某些情报,能让欧比耶尔不得不相助。疗养院里或许还有别人能帮我。"
+so|StateSO|resources.assets|28028|_description,There may be information that will compel Aubière's assistance. Perhaps someone else in the Sanitarum can help me.,"也许有某些情报,能让奥比埃不得不相助。疗养院里或许还有别人能帮我。"
 so|StateSO|resources.assets|28028|_displayName,Consideration,思量
 so|StateSO|resources.assets|28034|_description,Vincent knows me as 'Spencer Hobson'.,文森特如今知道我是'斯宾塞·霍布森'。
 so|StateSO|resources.assets|28034|_displayName,Reintroduced,重新相认
 so|StateSO|resources.assets|28039|_displayName,Retribution,报应
 so|StateSO|resources.assets|28040|_description,The Ministries have not yet taken an interest in me.,联盟尚未对我产生兴趣。
 so|StateSO|resources.assets|28040|_displayName,Unknown,未知
-so|StateSO|resources.assets|28041|_description,I've found what I need in Aubière's private records.,"我已在欧比耶尔的私人记录里,找到了所需的东西。"
+so|StateSO|resources.assets|28041|_description,I've found what I need in Aubière's private records.,"我已在奥比埃的私人记录里,找到了所需的东西。"
 so|StateSO|resources.assets|28044|_displayName,Red,红色
 so|StateSO|resources.assets|28047|_description,"...but I'm not sleeping. [To return to the daylight world, find a bed and sleep the last few hours.]","……但我没有睡着。[要回到日光之下的世界,找一张床,睡掉最后的几个小时。]"
 so|StateSO|resources.assets|28047|_displayName,Aprowl,夜行
@@ -7043,24 +7043,24 @@ so|StateSO|resources.assets|28097|_displayName,Coffee,咖啡
 so|StateSO|resources.assets|28105|_description,Father Jaume expressed his gratitude for my opening the eyes of St Reparata.,"若梅神父对我开启圣雷帕拉塔之眼一事,表达了谢意。"
 so|StateSO|resources.assets|28105|_displayName,Blessed,蒙福
 so|StateSO|resources.assets|28112|_displayName,Camomile,甘菊
-so|StateSO|resources.assets|28117|_description,"The Mansus has fallen, but we still dream. Dr Aubière must go somewhere to dream. A sufficiently skilled nyctodromist might follow him there - or perhaps there's another way.","漫宿已倾颓,但我们仍在做梦。欧比耶尔医生必然去了某处做梦。技艺足够精湛的夜游者,或许能循他而去——也许还有别的路。"
+so|StateSO|resources.assets|28117|_description,"The Mansus has fallen, but we still dream. Dr Aubière must go somewhere to dream. A sufficiently skilled nyctodromist might follow him there - or perhaps there's another way.","漫宿已倾颓,但我们仍在做梦。奥比埃医生必然去了某处做梦。技艺足够精湛的夜游者,或许能循他而去——也许还有别的路。"
 so|StateSO|resources.assets|28117|_displayName,Potential,天赋
 so|StateSO|resources.assets|28127|_description,I've learnt what I needed from Dr A in his dream.,"我在他的梦中,从 A 医生那里得知了我所需的一切。"
 so|StateSO|resources.assets|28130|_description,I declined to help her.,我拒绝帮助她。
 so|StateSO|resources.assets|28132|_description,I've set my alarm clock for midnight.,我已把闹钟定在午夜。
 so|StateSO|resources.assets|28132|_displayName,Clock,时钟
-so|StateSO|resources.assets|28133|_description,Where does Dr Aubière keep his records? There should be something in there about Nina.,欧比耶尔医生把记录放在哪里?里面应当会有关于尼娜的东西。
+so|StateSO|resources.assets|28133|_description,Where does Dr Aubière keep his records? There should be something in there about Nina.,奥比埃医生把记录放在哪里?里面应当会有关于尼娜的东西。
 so|StateSO|resources.assets|28133|_displayName,Search,搜寻
 so|StateSO|resources.assets|28138|_description,Zèlia came to believe that I wasn't the one she had summoned. Perhaps she was right.,"泽莉亚渐渐相信,我并非她所召唤的那个人。或许,她是对的。"
 so|StateSO|resources.assets|28138|_displayName,RejectedByZelia,被泽莉亚拒斥
-so|StateSO|resources.assets|28140|_description,"Apparently Strathcoyne's semi-independent appendage has been nicknamed 'Annabelle'. Strathcoyne really doesn't like that. He's been led to believe that Dr Aubière is responsible for the nickname. Let to believe by me, as it happens.","看来,斯特拉斯科因那条半独立的附属肢体,被人起了个绰号叫'安娜贝尔'。斯特拉斯科因对此大为不悦。他已被引导着相信,这绰号出自欧比耶尔医生之手。而引导他的人,恰好是我。"
+so|StateSO|resources.assets|28140|_description,"Apparently Strathcoyne's semi-independent appendage has been nicknamed 'Annabelle'. Strathcoyne really doesn't like that. He's been led to believe that Dr Aubière is responsible for the nickname. Let to believe by me, as it happens.","看来,斯特拉斯科因那条半独立的附属肢体,被人起了个绰号叫'安娜贝尔'。斯特拉斯科因对此大为不悦。他已被引导着相信,这绰号出自奥比埃医生之手。而引导他的人,恰好是我。"
 so|StateSO|resources.assets|28140|_displayName,Slandered,遭中伤
 so|StateSO|resources.assets|28144|_displayName,Numa,努玛
 so|StateSO|resources.assets|28145|_description,"Nina is absent from the circus. But she's here, somewhere. 'In the woods.'","尼娜不在马戏团。但她就在这里,某处。'在树林里。'"
 so|StateSO|resources.assets|28145|_displayName,Almost,几近
 so|StateSO|resources.assets|28146|_description,I know how to get into the hidden space at night.,我知道如何在夜里进入那处隐秘的空间。
 so|StateSO|resources.assets|28146|_displayName,Found,已寻得
-so|StateSO|resources.assets|28155|_description,I've learnt that Aubière is accepting inducements from his residents to provide black market goods. He probably wouldn't want this to come out.,"我已得知,欧比耶尔收受住院者的好处,为他们提供黑市货物。他多半不愿此事败露。"
+so|StateSO|resources.assets|28155|_description,I've learnt that Aubière is accepting inducements from his residents to provide black market goods. He probably wouldn't want this to come out.,"我已得知,奥比埃收受住院者的好处,为他们提供黑市货物。他多半不愿此事败露。"
 so|StateSO|resources.assets|28155|_displayName,Graft,贪渎
 so|StateSO|resources.assets|28162|_displayName,Denounced Andrée and Linou,告发安德烈与利努
 so|StateSO|resources.assets|28166|_description,Vincent still remembers me as 'Honoré Robichon' - the name I was using when we met in the Légion.,"文森特仍记得我是'奥诺雷·罗比雄'——我们在军团相识时,我用的正是这个名字。"
@@ -7087,7 +7087,7 @@ With Hushery 5, I can craft it at a Shadowed or a Quiet Place.
 静默术达到 5 时,我可以在幽影之地或静谧之地炼制。
 "
 so|StateSO|resources.assets|28199|_displayName,Crafting a Midnight Mark,炼制午夜印记
-so|StateSO|resources.assets|28202|_description,Strathcoyne has access to black market cigars. Was Aubière involved in their provision?,斯特拉斯科因能弄到黑市雪茄。欧比耶尔是否也参与了供应?
+so|StateSO|resources.assets|28202|_description,Strathcoyne has access to black market cigars. Was Aubière involved in their provision?,斯特拉斯科因能弄到黑市雪茄。奥比埃是否也参与了供应?
 so|StateSO|resources.assets|28202|_displayName,Suspicion,疑云
 so|StateSO|resources.assets|28203|_displayName,Entertainment,娱乐
 so|StateSO|resources.assets|28204|_displayName,Denounced Andrée,告发安德烈
@@ -7102,14 +7102,14 @@ so|StateSO|resources.assets|29167|_description,"I blighted Philomèle, completin
 so|StateSO|resources.assets|29172|_description,I've refused to help Sinombre.,我已拒绝帮助西诺姆布尔。
 so|StateSO|resources.assets|29172|_displayName,Reneged,食言
 so|StateSO|resources.assets|29178|_displayName,Denounced Linou,告发利努
-so|StateSO|resources.assets|29183|_description,"The presence that calls itself 'Dr Sinombre' has offered to convey me to Aubière's dream, if I meet its requirements.","那个自称'西诺姆布尔医生'的存在提出,只要我满足它的条件,便把我送进欧比耶尔的梦中。"
+so|StateSO|resources.assets|29183|_description,"The presence that calls itself 'Dr Sinombre' has offered to convey me to Aubière's dream, if I meet its requirements.","那个自称'西诺姆布尔医生'的存在提出,只要我满足它的条件,便把我送进奥比埃的梦中。"
 so|StateSO|resources.assets|29183|_displayName,Offer,提议
 so|StateSO|resources.assets|29184|_description,The card-players Chez Felix asked for drinks...,费利克斯之家的牌友们要了酒水……
 so|StateSO|resources.assets|29184|_displayName,Requested,已点单
 so|StateSO|resources.assets|29185|_description,Sinombre hasn't yet asked for help.,西诺姆布尔尚未开口求助。
 so|StateSO|resources.assets|29185|_displayName,Incurred,已欠
-so|StateSO|resources.assets|29188|_changeMessage,"Dr Aubière declares he will tell me where to find Nina Lagasse, if I stay a few days at the Sanitarium.","欧比耶尔医生宣称,只要我在疗养院小住几日,便告诉我尼娜·拉加斯在哪里。"
-so|StateSO|resources.assets|29188|_description,"Dr Aubière declares he will tell me where to find Nina, if I stay a few days at the Sanitarium and attend sessions with him. Aubière, however, has already reneged on one arrangement. There are likely other possibilities at the Sanitarium to winkle the information out.","欧比耶尔医生宣称,只要我在疗养院住上几天、参加他的诊疗,他就告诉我尼娜的去向。然而,欧比耶尔已经食言过一次。疗养院里大概还有别的办法,能把消息撬出来。"
+so|StateSO|resources.assets|29188|_changeMessage,"Dr Aubière declares he will tell me where to find Nina Lagasse, if I stay a few days at the Sanitarium.","奥比埃医生宣称,只要我在疗养院小住几日,便告诉我尼娜·拉加斯在哪里。"
+so|StateSO|resources.assets|29188|_description,"Dr Aubière declares he will tell me where to find Nina, if I stay a few days at the Sanitarium and attend sessions with him. Aubière, however, has already reneged on one arrangement. There are likely other possibilities at the Sanitarium to winkle the information out.","奥比埃医生宣称,只要我在疗养院住上几天、参加他的诊疗,他就告诉我尼娜的去向。然而,奥比埃已经食言过一次。疗养院里大概还有别的办法,能把消息撬出来。"
 so|StateSO|resources.assets|29188|_displayName,Possibilities,种种可能
 so|StateSO|resources.assets|29192|_description,Nina agreed to introduce me to something that could tell me where to find the graves of the Hours... in exchange for a single unspecified future service.,"尼娜答应引我去见一个能告诉我司辰之墓所在的东西……作为交换,是将来一桩尚未言明的效劳。"
 so|StateSO|resources.assets|29192|_displayName,Favours,人情
@@ -7131,7 +7131,7 @@ so|StateSO|resources.assets|29205|_description,Apparently Strathcoyne's semi-ind
 so|StateSO|resources.assets|29205|_displayName,Annabelle,安娜贝尔
 so|StateSO|resources.assets|29209|_description,Apparently Strathcoyne's semi-independent appendage has been nicknamed 'Annabelle'. Strathcoyne really doesn't like that.,"显然,斯特拉斯科因那半独立的附属肢体,被起了个「安娜贝尔」的绰号。斯特拉斯科因对此十分不悦。"
 so|StateSO|resources.assets|29209|_displayName,Objectionable,令人不快
-so|StateSO|resources.assets|29212|_description,Dr Aubière keeps his records in a secret office behind the public one. I'll need to get in there after dark.,欧比耶尔医生把档案保存在公事办公室后面的密室里。我得在天黑之后溜进去。
+so|StateSO|resources.assets|29212|_description,Dr Aubière keeps his records in a secret office behind the public one. I'll need to get in there after dark.,奥比埃医生把档案保存在公事办公室后面的密室里。我得在天黑之后溜进去。
 so|StateSO|resources.assets|29212|_displayName,Patience,耐心
 so|StateSO|resources.assets|29213|_description,I repaid my debt to Sinombre.,我还清了欠西诺姆布尔的债。
 so|StateSO|resources.assets|29213|_displayName,Repaid,已偿还
@@ -7147,13 +7147,13 @@ so|StateSO|resources.assets|29240|_description,"Everyone got what they merited, 
 so|StateSO|resources.assets|29240|_displayName,Consumed,已吞噬
 so|StateSO|resources.assets|29246|_description,"I gave Zèlia the letter from Maître Argant. She seems convinced it is, indeed, her missing husband. A happy ending.","我把阿尔冈大律师的信交给了泽莉亚。她似乎确信,那的确就是她失踪的丈夫。一个圆满的结局。"
 so|StateSO|resources.assets|29246|_displayName,Argant,阿尔冈
-so|StateSO|resources.assets|29248|_description,I've managed to enter Aubière's secret office.,我成功潜入了欧比耶尔的密室。
+so|StateSO|resources.assets|29248|_description,I've managed to enter Aubière's secret office.,我成功潜入了奥比埃的密室。
 so|StateSO|resources.assets|29248|_displayName,Entry,已潜入
 so|StateSO|resources.assets|29249|_description,I added something to cheer them up.,"我加了点东西,好让他们提提神。"
 so|StateSO|resources.assets|29249|_displayName,Bewitched,已施魅
 so|StateSO|resources.assets|29255|_displayName,Conscience,良心
-so|StateSO|resources.assets|29260|_changeMessage,I told Aubière where he could put his offer. But I can probably find someone else here who can help me find Nina Lagasse.,"我告诉欧比耶尔,他的提议该滚到哪儿去。但我大概还能在这里找到别人,帮我找到尼娜·拉加斯。"
-so|StateSO|resources.assets|29260|_description,"Dr Aubière declared he would tell me where to find Nina, if I stayed a few days at the Sanitarium and attended sessions with him. Aubière, however, has already reneged on one arrangement, so I told him to go to hell. There are likely other possibilities at the Sanitarium to winkle the information out. Or I could meet with him anyway, and see what he might let slip","欧比耶尔医生声称,只要我在疗养院多留几天、陪他参加几次疗程,他就告诉我尼娜在哪里。然而,欧比耶尔已经背弃过一次约定,所以我叫他滚蛋。疗养院里大概还有别的法子,能把消息撬出来。或者,我也可以照旧去见他,看看他会漏出什么口风。"
+so|StateSO|resources.assets|29260|_changeMessage,I told Aubière where he could put his offer. But I can probably find someone else here who can help me find Nina Lagasse.,"我告诉奥比埃,他的提议该滚到哪儿去。但我大概还能在这里找到别人,帮我找到尼娜·拉加斯。"
+so|StateSO|resources.assets|29260|_description,"Dr Aubière declared he would tell me where to find Nina, if I stayed a few days at the Sanitarium and attended sessions with him. Aubière, however, has already reneged on one arrangement, so I told him to go to hell. There are likely other possibilities at the Sanitarium to winkle the information out. Or I could meet with him anyway, and see what he might let slip","奥比埃医生声称,只要我在疗养院多留几天、陪他参加几次疗程,他就告诉我尼娜在哪里。然而,奥比埃已经背弃过一次约定,所以我叫他滚蛋。疗养院里大概还有别的法子,能把消息撬出来。或者,我也可以照旧去见他,看看他会漏出什么口风。"
 so|StateSO|resources.assets|29260|_displayName,Distrust,不信任
 so|StateSO|resources.assets|29262|_description,I know where to find Nina Lagasse. I don't need to risk snooping around in Dr A's records.,我知道去哪里找尼娜·拉加斯了。不必再冒险翻查 A 医生的档案。
 so|StateSO|resources.assets|29262|_displayName,Dropped,已搁置
@@ -7176,7 +7176,7 @@ so|StateSO|resources.assets|29280|_description,I've determined that I'll wake at
 so|StateSO|resources.assets|29280|_displayName,Internal,内部
 so|StateSO|resources.assets|29282|_description,"Philomèle asked me to convey her compliments to the bookseller Andrée, who sells other things than books.","菲洛梅尔托我向书商安德烈转达问候——那位安德烈,除了书,还卖些别的东西。"
 so|StateSO|resources.assets|29282|_displayName,Introduction: Philomèle,引荐:菲洛梅尔
-so|StateSO|resources.assets|29284|_description,The presence that calls itself 'Dr Sinombre' is ready to convey me to Dr Aubière's dream when I next sleep.,"那个自称「西诺姆布尔医生」的存在已经准备好,待我下次入睡时,把我送入欧比耶尔医生的梦境。"
+so|StateSO|resources.assets|29284|_description,The presence that calls itself 'Dr Sinombre' is ready to convey me to Dr Aubière's dream when I next sleep.,"那个自称「西诺姆布尔医生」的存在已经准备好,待我下次入睡时,把我送入奥比埃医生的梦境。"
 so|StateSO|resources.assets|29284|_displayName,Agreement,约定
 so|StateSO|resources.assets|29286|_changeMessage,"Nothing remains of this omelette, but there'll be another in time.","这份煎蛋卷已什么都不剩,但时候一到,还会有另一份。"
 so|StateSO|resources.assets|29286|_description,"Come back to the Sanitarium after travelling, and there'll be another omelette. There's always another omelette.","旅行之后回到疗养院,就还会有另一份煎蛋卷。煎蛋卷总会有下一份。"
@@ -7218,10 +7218,10 @@ so|StateSO|resources.assets|29357|_description,"I agreed to consider Zèlia's re
 [用一门非尘世技艺炼制一件凋零之物,再找个机会,在菲洛梅尔的食物或饮品里动手脚。或者,先与菲洛梅尔谈谈,再回到泽莉亚面前,假装已照她所托行事。或者,干脆就此作罢。]"
 so|StateSO|resources.assets|29357|_displayName,Considering,考虑中
 so|StateSO|resources.assets|29363|_displayName,Survival,幸存
-so|StateSO|resources.assets|29367|_description,Aubière submitted to my blackmail - with surprising grace.,欧比耶尔屈从了我的敲诈——带着出人意料的从容。
+so|StateSO|resources.assets|29367|_description,Aubière submitted to my blackmail - with surprising grace.,奥比埃屈从了我的敲诈——带着出人意料的从容。
 so|StateSO|resources.assets|29367|_displayName,Compulsion,胁迫
 so|StateSO|resources.assets|29368|_displayName,Spring,春天
-so|StateSO|resources.assets|29371|_description,"I could use my Unworldly skills to enter Aubière's dream and learn his secret. [Use Nyctodromy, Ithastry or Bosk to craft Labrikon, and take it to bed.]","我可以用非尘世技艺进入欧比耶尔的梦境,探知他的秘密。[用夜游术、盗火术或丛林学炼制拉布里孔,然后带着它入睡。]"
+so|StateSO|resources.assets|29371|_description,"I could use my Unworldly skills to enter Aubière's dream and learn his secret. [Use Nyctodromy, Ithastry or Bosk to craft Labrikon, and take it to bed.]","我可以用非尘世技艺进入奥比埃的梦境,探知他的秘密。[用夜游术、盗火术或丛林学炼制拉布里孔,然后带着它入睡。]"
 so|StateSO|resources.assets|29371|_displayName,Plan,计划
 so|TMP_DropdownWithCallbacks|level12|23068|m_Options.m_Options[0].m_Text,None: Pan as you prefer,无:平移随您喜好
 so|TMP_FontAsset|resources.assets|28260|m_CreationSettings.sourceFontFileGUID,fedbdab286218c341beba85094820c6d,fedbdab286218c341beba85094820c6d
@@ -7276,7 +7276,7 @@ so|TextMeshProUGUI|level10|2620|m_text,"Everything too battered or difficult or 
 to be seen in the sanitarium - it goes in here,
  tidied away so Aubière never has to think about it.","一切过于破旧、过于棘手、过于不时兴,
 不便在疗养院示人的东西——都收进这里,
- 拾掇停当,好让欧比耶尔永远不必再想起它们。"
+ 拾掇停当,好让奥比埃永远不必再想起它们。"
 so|TextMeshProUGUI|level10|2621|m_text,"A cracked mirror, not discarded but kept here,
 in this chamber of concealed business.","一面破裂的镜子,没有丢弃,而是收在这间藏着不可告人之事的密室里。"
 so|TextMeshProUGUI|level10|2622|m_text,A Matisse? Yes; it's signed. The subject is clearly someone he desired; or at least loved. Perhaps only someone he had to follow?,"一幅马蒂斯?是的,上面有签名。画中人显然是他渴望过的什么人;至少,是他爱过的。也许,只是他不得不追随的什么人?"
@@ -7701,7 +7701,7 @@ so|TextMeshProUGUI|level7|4633|m_text,Albania,阿尔巴尼亚
 so|TextMeshProUGUI|level7|4636|m_text,Caution,警告
 so|TextMeshProUGUI|level7|4638|m_text,'The black market is a CRIME',「黑市是犯罪」
 so|TextMeshProUGUI|level7|4639|m_text,A proud declaration of the State's struggle against immortality and corruption. Chez Feliz is the latest corrupt establishment to face the axe's edge.,邦国向长生与腐败宣战的自豪宣言。费利克斯之家是最近一个面临斧刃的腐败场所。
-so|TextMeshProUGUI|level7|4641|m_text,Coronal grace whispers from the stone. An Incorporate has marked this place.,冠冕的恩典自石中低语。集团成员在此留下印迹。
+so|TextMeshProUGUI|level7|4641|m_text,Coronal grace whispers from the stone. An Incorporate has marked this place.,冕的恩典自石中低语。集团成员在此留下印迹。
 so|TextMeshProUGUI|level7|4642|m_text,"An unfamiliar model of Peugeot. Scrupulously clean, and empty as a showroom model.",一辆陌生的标致车型。一尘不染，空得像展厅里的展车。
 so|TextMeshProUGUI|level7|4643|m_text,"They've kept this cicatrix under control, but it doesn't look as if it's getting any better. Likely it discolours the wallpaper, inside. Residents often develop sympathetic marks of their own.",他们把这处疤痕控制住了，但它看起来并没有好转的迹象。屋里大约连墙纸都被染变了色。住户们身上往往也会长出相应的印记。
 so|TextMeshProUGUI|level7|4644|m_text,"A stately, gleaming Citroën. The Bureau used this model, back before the War. A fine lambswool scarf lies crumpled on the passenger seat.",一辆庄重锃亮的雪铁龙。战争之前，防剿局用的就是这款车。副驾驶座上，一条上好的羔羊毛围巾皱巴巴地堆着。
@@ -8553,7 +8553,7 @@ A couple of fixes to our analytics + consent code, which I'll explain cos transp
 * 给「抉择」的显示理了个发
 * 物品栏技艺修正值的相关工作
 * 昂蒂布图层错误修复
-* 如果你完成了一项欧比耶尔计划,却没在完成另一项之前领取奖励,你可能会被锁在奖励之外——已修复
+* 如果你完成了一项奥比埃计划,却没在完成另一项之前领取奖励,你可能会被锁在奖励之外——已修复
 * 顶部 HUD 中的自动存档玫瑰指示器 + 自动存档消息更新
 * 顶部 HUD 按钮的悬停标签
 * 新的日记图标;修复日记关联尺寸
@@ -8571,7 +8571,7 @@ A couple of fixes to our analytics + consent code, which I'll explain cos transp
 * 配方与日记的聚焦面板现在能正确显示链接
 * 红底聚焦面板上的链接样式更易读
 * 任何「揭示」物品,不只是「警醒之眼」,现在都能让你找到某扇隐藏的门
-* 欧比耶尔*现在应该*处处都带着重音符号了。作为英语使用者,我老是忘记加
+* 奥比埃*现在应该*处处都带着重音符号了。作为英语使用者,我老是忘记加
 * 所有计划现在都有重要性了。我的意思是,它们现在被归类到某个重要性等级,但更简洁的说法更有趣。
 
 ## 2026.7.h.8 - ""六月的世纪""
@@ -8768,7 +8768,7 @@ A couple of fixes to our analytics + consent code, which I'll explain cos transp
 ## 2026.7.f.26 - ""在战壕中""
 
 * 修复了一个恶劣的循环:如果你技艺检定失败、尝试救援、然后点击「认输」。在我们的黑色博物馆里,它被称为「生铁牡丹」
-* 修复了欧比耶尔的密室从未正确显现的问题
+* 修复了奥比埃的密室从未正确显现的问题
 * 文森特不再在你招募他后上床睡觉时出现重复。是的,字面意思。我们还不得不重做追随者代码。
 * 修复了莱昂永远学不会你选择的名字的问题
 * 移除了莱昂追逐你的一个循环;
@@ -8826,7 +8826,7 @@ A couple of fixes to our analytics + consent code, which I'll explain cos transp
 * 各种小错误修复
 * 如果你与 NPC 谈论他们环境中的某物,初见对话可能会出错
 * 昂蒂布的一个书柜更容易够到了
-* 移除了欧比耶尔办公室里遗留的动画实验
+* 移除了奥比埃办公室里遗留的动画实验
 * 闹钟现在可以正常工作了
 * 修复了技艺与激情假装需要额外一点经验才能升级的问题
 * 修复了阻碍购买某些从 0 级开始的技艺的问题
