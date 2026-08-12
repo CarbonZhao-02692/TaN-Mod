@@ -109,7 +109,7 @@
  },
  {
   "text": "\"When the Sun-in-Splendour was divided, its Names fractured too.\" \n\nThe Names of the [[Hours]], are their major servants, or aspects, or emanations. Some, perhaps all, Names were previously [[Long]].\n\n[[Mansus]]-spirits often like to tell gullible mortals they're Names. Who's going to quibble?",
-  "translation": "「当辉耀之日被分割，它的尊名也随之碎裂。」\n\n[[司辰]]的尊名，是它们主要的仆从、面向或流溢。有些尊名——也许全部——先前都是[[长生者]]。\n\n[[漫宿]]的灵体常常喜欢对轻信的凡人自称尊名。谁会去计较呢？"
+  "translation": "「当骄阳被分割，它的尊名也随之碎裂。」\n\n[[司辰]]的尊名，是它们主要的仆从、面向或流溢。有些尊名——也许全部——先前都是[[长生者]]。\n\n[[漫宿]]的灵体常常喜欢对轻信的凡人自称尊名。谁会去计较呢？"
  },
  {
   "text": "## 2026.8.i.23 - \"CIGARS CLAMPED BETWEEN THEIR TEETH\"\n\n* Tragically, had to remove Reinhardt's 'Nuages' - turns out it's public domain in the EU and Canada but not in the US :(\n* Likewise with the Reinhardt version of 'Darktown Strutters' Ball' which we've replaced with PD period music Chez Felix\n* failing to load an incompatible save no longer spams endless notifications (3c037130e)\n* fixed borked door plaque at night\n* fixed guest chair in Aub's office\n* Punched up the ESCAPE! unstuck function\n* added  icons for the Chez Félix drinks\n\n\n\n\n\n## 2026.8.i.6 - \"BUT ONCE, WHISPERS THE NIGHT\"\n\n* Another round of fixes for weird graph bubble trap problems ('spencer gets stuck)\n* new ESCAPE! tab in the options menu: manual escape from a stuck position, emergency only. Spencer can always get out.\n* right-click dismisses all visible toasts (there's a tutorial message, which you can also right-click dismiss with the rest)\n* inline alerts bundles play one sound at the end.\n* skill preview tooltips now render to the left of the dialogue. This was driving Lottie BATS\n* Vincent reaction tweak\n* dialogue is more close-mouthed about Zèlia's scheme if you didn't buy into it\n* \n\n## 2026.8.i.1 - \"THERE ARE POETS WHO SERVICE CHURCH CLOCKS\"\n\n* The watermark has changed from BETA to DEMO. Don't allow this to frighten you - the public demo is not yet quite live.\n* UI sound effects! Do let us know what you like - but please first give it a couple of hours to bed in. If you've\nalready been playing the game, it will initially seem very chatty.\n* music and ambience duck independently in conversation; at composer's request, default music volume is a little quieter\n* typewriter dialogue auto-scroll smoothed - let us know how you get on with it\n* Bessy's omelette Circumstance no longer enigmatic, now explains itself\n* Vincent dialogue rephrased to make clear he offers to come with you; fixed one of hist footnote links.\n* fixed broken links in several footnotes\n* no-choice footnotes no longer shown as 'unchosen choices' (eventually this will be nuncupatory when all have choices)\n* ellipsise-ing over-long footnote-search rows\n* travel requirements for distant map destinations no longer display FNORD text\n* gave Choices display a haircut\n* inventory skill-modifier work\n* Antibes layering bug fixes\n* if you completed one Aubière Plan and didn't claim the rewards before completing another, you could get locked out of rewards - fixed\n* autosave rose indicator in TopHUD + autosave message update\n* TopHUD button hover labels\n* new journal icons; fixed journal associate size\n* character sheet UI and inventory cubby use fewer placeholder assets\n* added missing recipe icons for Rites\n\n## 2026.8.h.45 - \"THE MAGIC STUDY OF HAPPINESS\"\n\n* This is the RC build for the demo. Demo is out Monday 10th, in a week.\n* This means YOUR BETA KEYS WILL STOP WORKING AT THE WEEKEND. If you're nearly at the end and want to finish it, do so now, THE DEMO WILL INVALIDATE OLDER SAVES\n* fixed really nasty bug where a skill preview check would include bonuses from a one-use item but then THE ONE-USE ITEM WOULD BE USED UP BEFORE THE RULE\n* and better alignment on the skill-check preview\n* Spencer will now walk all the way to the target dot, rather than stopping short of it. (We used to have a much bigger target graphic)\n* Spencer will now deign to walk smaller distances (about half the previous limit for 'is it worth moving, I'm already pretty close')\n* recipe and journal focus panes now display links correctly\n* more legible styling for links on red-background focus panes\n* any Unveil item, not just Wakeful Eye, will now let you find a certain hidden door\n* Aubière *should* now have his gràvè àccènt everywhere. as an Englisher I kèèp forgètting to àdd it\n* all Plans now have Significance. I mean that they're now categorised to a Significance level, but the terser phrasing is funner.\n\n## 2026.7.h.8 - \"CENTURIES OF JUNE\"\n\n* Spencer can sometimes identify a certain precious substance\n* tutorial guard wasn't blocking travel to wrong destinations: fix\n* character creation: Shift/Ctrl on a skill +/- button goes faster\n* new hover tooltip on the inline skill-check result bar as well as the \\[Success] \\[Failure] text\n* really paranoid precaution added to stop people getting stuck in conversation interstitials\n* in-game bug report is now draggable\n* fixed several more music-override glitches\n* copy and object-use fixes\n* cleaner requirement prefixes in Linou's dialogue and in relationship requirement prefixes generally\n* some new sanitarium sfx\n* usual typo sweep\n\n## 2026.7.h.2 - \"POSTAGE STAMP WITH A PYRAMID\"\n\n* Calendrier conversation fix\n* zero-skill entries greyed out in inventory skill bars to show that you can't modify them\n* Strathcoyne won't speak to you while you're wearing a dressing gown; Rodia and Aub have something to say about it; and you can't go out in the street undressed.\n* everyone can take a bath once per Antibes visit\n* Spencer's wardrobe is clickable (and the wardrobe zone still works)\n* Ithastry no longer crafts Knock-memories. We wanted two skills per subversion... but Knock is always the exception.\n* updated recipe descriptions\n* new loading-screen tips\n* footnote fixes\n* more sfx, tweaked music\n* kitchen venue highlight and Bessy's shadow now both fade\n* quote-scene fonts changed\n* Venue hover fixes\n* removed the Camera Tracking options toggle; confirmed no-one was using Lock To Centre, as we suspected\n* Apply button no longer stays greyed when you pick the native resolution\n* fixed active-item name overflow (e.g. \"Third Republic Passport \\[INVALID]\")\n* stopped some nonsense nonsensing in the Escape Menu\n* crafting tree: prettier connector lines\n* crafting HUD round 3: recipe preview/focus pane, clickable locked recipes, per-row level/venue marks, inline venue icons in messages, picker Clear button\n* crafting: fixed possible loss of a crafted-but-uncollected item when saving while hovering the recipe tree\n* fixed a crash on mouseless sessions,\n* \"I bring you FIRE\"\n* Office of Onteiric Coordination +\n* typo and copy fixes\n\n\n\n## 2026.7.g.99 - \"STREET-CORNER THEOLOGY\"\n\n* If you went to Mimata and then started a new game, Spencer found himself back in Mimata after you opened and closed any HUD menu. I mean, everyone likes Mimata. But we fixed that.\n* Also fixed stale skill-check results and footnote back-history leaking into a new game\n= Crafting menu overhaul! some placeholder assets in there, but the flow is clearer and it's easier to explore the web\n* fixed movement tutorials re-firing on re-entering Antibes after they were dismissed\n* tutorials now count as seen when shown. You don't have to dismiss them before they go away.\n* Added missing descriptions for recipes.\n* sorting-order fixes for beach trees, Linou's caff, cacti and more\n\n## 2026.7.g.89 - \"CRAVING SHADOWS\"\n\n* active-item slots now accept any item with skill modifiers, not just Tools. This has been half-complete for months - I finally pushed the button\n* in related news, passports now have skill modifiers\n* dropping an active item onto its own cubby unequips it, eligible active slots light up when an inventory drag begins, UI needs a little work\n* the mouse cursor has never looked quite right when dragging an item. so now we hide it when dragging an item. cerebro galactico\n* each career starts with a Tier D crafting item\n* adopt requirement prefix shows the Aspect label rather than its id (1230c451f)\n* wellGroomed / morningRites are now better-groomed\n* *les veuves poisseuses*\n* fixed the freeze on re-entering the sanitarium from Antibes — spawn point was inside the front door's collider\n* Linux now ships Vulkan-first with GL Core as fallback - 0.5% of you will no longer see Antibes looking washed out. Thanks to J.C for helping track this one down\n* fixed options dropdowns rendering blank in builds\n* fixed various music glitches\n* fixed the bug-report dialog overflowing the screen on ultrawide\n* can't click through the merchant window now\n* scene transitions now restore the pause state instead of forcing time back on\n* trimmed some of the instrumentation out of logs\n* usual round of copy and typo fixes\n\n## 2026.7.g.65 - \"A FORCE ILLEGIBLE\"\n\n* lots of dialogue fixes across Antibes and the sanitarium\n* Mark of Necessity and Eye of Authority now correctly consumed as fuel\n* fixed being able to walk around while the merchant window was open, after closing the bug reporter\n* horrible pause-leak bug\n* can't click through credits and news windows\n* fixed credits and news windows not rendering\n* fixed the Sign Info panel being invisible. It's been invisible for MONTHS\n* fixed the info window keeping the previous subject's advice line. Probably\n* nicer music transition from the main menu\n\n## 2026.7.g.42 - \"IT'S *AN* ANSWER\"\n\n* added instrumentation for a frankly bewildering gl-core Linux lighting bug. idk man, I'm just a writer, why did I think I could make video games\n* fixed a dead end in the conversation with Strathcoyne about someone being naughty\n* reworded a confused exchange about Zèlia being confused which was more confused than it was meant to be.\n* oho this one was fun. Reporting a bug in-game then closing the bug dialogue unpaused the game, even if you were in the merchant window. Fixed.\n* but keep an eye out for pause bugs, the logic here is fiendish\n* easier to reach the door to outside in the sanitarium\n* PC party block portrait displays correctly if you're wearing your old uniform\n* venue footnote fix\n* fixed the MERCHANT BUYS caption being covered by its own aspect icons\n* fixed the opening quote screen restarting on repeated clicks.\n* Also HOKOBALD APPEARED TWICE IN THE QUOTES ROTATION AND HAD REPLACED ILLOPOLY. IT'S ALWAYS BLOODY HOKO\n* fixed an error when an NPC entered a cutaway zone with no player character present, which it turns out can happen occasionally after all\n\n## 2026.7.g.32 - \"WINTER DOES NOT WAIT FOREVER\"\n\n* (hotfixed) music wasn't playing, some audio was missing\n\n## 2026.7.g.27 - \"STOP IT ARISTIDE\"\n\n* if you spoke to Leopold or JB in the cafe instead of Aristide, Aristide pretended to be them. He won't now.\n* refreshment limit at the antibes bar now counts every drink ordered (not just distinct drinks) and its stated number matches the actual cap\n* fixed dead right-click \"read\" options on five package items\n* inventory items now play their activation sound on Use/Refresh, not only Read\n* packages are now resources (offering Use) rather than papers; letters are now papers\n* fixed the crafting HUD opening with its skill/venue headers collapsed and piled on one spot on first open\n* journal Circs headings no longer show \"KEY NOT FOUND\"\n* three footnote choices gave 0 Experiences - they don't now\n* St Reparata no longer abandons you unexpectedly when you think about her trousseau\n* added interaction points to Wounds so they can be reached/used more easily\n* filled the empty Witch's Knot recipe description\n* moved Cambray back to 1919 and removed a circular footnote link\n* on ultrawide, the dialogue page and conversation camera now respect the 16:9 letterbox\n* sped up diagonal walk/run cycles to reduce the moonwalk look, especially indoors\n* cursor texture fix on Linux/macOS\n* swapped the generic merchant header sprite\n* Antibes layering fixes\n* assorted typo fixes\n\n## 2026.7.g.12 - \"RAINBOW GOATS\"\n\n* quick tweak to cursors to see if we can get them working properly on both Linux and OSX\n\n## 2026.7.g.9 - \"BETWEEN TWO DARKS\"\n\n* soundtrack is now the final mastered version\n* A little more about Zèlia\n* item SFX loudness levelled (and controlled properly by SFX slider)\n* ultrawide: 16:9 letterbox now applies on every scene (fixing, among other screens, that bloody chargen shift)\n* dialogue response links restyled\n* footnote links also restyled\n* character generation polish\n* transient dialogue exhibits for Nina\n* Plan (journal) changes now actually surfaced. A lot of them weren't poppng SORRY\n* crafting intro quests. PLANS they're called PLANS\n* rumours now display trace counts correctly\n* fixed glitchy-square cursor on macOS\n* in-game UI cursor now shown on main menu / chargen\n* Refreshments option's enabled-look now matches what clicking actually does\n* news menu overlapping fix (we think)\n* main menu scrolling star particle fix (we hope)\n\n## 2026.7.f.92 - \"NIGHT TRAIN TO ANTIBES\"\n\n* BEWARE: saves from earlier than f.36 (the previous version) will no longer work!\n* Tweaks to Spencer and Vincent animations, pathing, facing\n* Punched up Nina business\n* a black marketeer now sells a fake passport\n* trimmed / tidied Andrée's dialogue\n* Honneur et Humanité now only available after you introduce yourself to Janvier\n* Sinombre conversation at night is now accessible\n* tutorial zones in Antibes now disappear when triggered\n* shuttered Antibes shops (Chez Felix, Librairie) now block movement when closed\n* wall clock popup in sanitarium now works\n* layering fixes in Antibes\n* plaque text formatting tweaks in Antibes and the sanitarium\n* Verdant venue now reachable\n* shadow room-zone clamping fixes\n* fixed a weird movement stop glitch\n* Vincent relationship alerts no longer always show him in his orderly uniform\n* Main Menu Options/Load sub-menus now close on Escape or by clicking outside\n* new Low graphics quality tier (0.75 render scale, MSAA off)\n* virgin default is now borderless fullscreen at native resolution\n* fixed game alerts going dead for the rest of the session if a dialogue effect errored\n\n## 2026.7.f.36 - \"LAST TRAIN OUT OF MILAN\"\n\n* \\*\\*IMPORTANT - NEXT WEEK'S BUILD (\"NIGHT TRAIN TO ANTIBES\") WILL INVALIDATE ALL SAVES CREATED EARLIER THAN \"LAST TRAIN OUT OF MILAN\"\n* (honestly, if you've got an old save you should delete it anyway, it'll be full of nonsense)\n* you could re-craft something by hitting CRAFT again once you'd COLLECTED. But you can't any more.\n* fixed abandoned hold-to-activate button presses firing out of sheer excitement next time\n* equipped items now say they're equipped so you don't think you've got a duplicate\n* companion assistance tooltip shows negative modifiers as -N, not +-N. I mean there aren't any negative companion modifiers rn, but who knows what Corso will get up to?\n* Inventory skill modifier totals correctly show skill + modifier, rather than implying a change to the base skill\n* Nice little gradient on skill modifier totals to deal with the fact that all our skill names are mad long\n* skill-bar number box autosizes to fit double digits and modifers; also modifiers size the font down a bit. Not interesting? look, try writing this stuff.\n* can't start boarding the train, exit out of map, then find you've left the train. YOU GOTS TO STAY ON THE MAP UNTIL YOU GO\n* redesigned one-shot text - the little one-off labels that you get when you click things and don't start a full convo\n* many many ordering fixes to what Lottie and I call the 'Wall of Miserable Hell With That Fecking Flowers Painting On It, Fecking'\n* Spencer no longer climbs trees with helium abandon\n* Leon is now visibly DangerLeon, so new players don't innocently run up to him like kittens running up to a grumpy wolf\n* Janvier's mirror interaction no longer enables infinite Compassion\n* all nostalgia memories now depart, with use, like trains or sunsets\n* La plaque de la Rue de Racine a désormais des mots\n\n## 2026.7.f.26 - \"IN THE TRENCHES\"\n\n* fixed a nasty loop if you failed a skill check, tried the rescue, then hit Concede. In our Black Museum as 'pigiron-peony'\n* fixed Aubiere's secret office never revealing itself properly\n* Vincent no longer duplicates if you recruit him then go to bed. Yes literally that. And we had to rework the follower code.\n* fixed Leon never learning your chosen name\n* removed a loop from Leon chasing you;\n* exorcist and writer now wear the correct outfits\n* fixed screen staying permanently black after loading a save taken mid-fade;\n* fixed camera staying locked at an interior zoom after leaving the church\n* crafting: picker now shows requirement summary, opens above the slot row and auto-advances to the next empty slot\n* crafted-but-uncollected items are now collected on scene transition instead of lost (ARGH)\n* fixed St Oulio's Eve link (two spellings of Cambray)\n* music: I spent way too much time fiddling with transitions\n* Bessy's omelettes are no longer visible through walls\n* crafting: reduced Tier C item requirements for Ithastry\n\n## 2026.7.f.10 - \"ANTIBES BETA II\"\n\n* crafting hud improvements\n* some more Sanitarium dialogue\n* Mimata dialogue tweaks\n* fade added to cover Vincent's modesty\n* doors show a hover outline\n* camera bounds/framing improvements\n* toast alert tweaks\n* added \\[\\[links]] to the sun-cross pectoral footnote\n* fixed the alt route on venue intros\n* tidied up the Options menu formatting\n* better interaction point for the cicatrix in the square\n* better treatment of camera bounds\n* Your companion can now adopt mufti\n* default no-companion HUD portrait now shows properly; Spenny's idle anim no longer stares out at you like a lost soul seeking instruction\n* sanitarium sprite sort-order fixes; companion HUD portrait no longer semi-transparent\n* HUD button row and conditions UI redesigned, fixed HUD buttons rendering invisible-but-clickable\n* fixed ghost/stuck tooltips lingering over hidden or closed map panes, info windows and menus\n* fixed the inventory item tooltip flicker\n* skill-check result bars (FAILURE?/RESCUED SUCCESS!) no longer drift over unrelated dialogue text\n* Country/Destination map panes now raise tooltips (but I still need to link lots of them)\n* Fixed a bug where some usables were only available when clicked close up or far away\n* Added a third telemetry option, LINK - gives us permission to linking bug report email addresses to pseudonymous analytics data, in case that's useful for support. Theoretical at the moment.\n* crafting tutorial messages now populated - NB Crafting HUD is due a haircut still\n* RANDOMNESS is no longer labelled CAMERA TRACKING in options\n\n## 2026.7.e.51 - ANTIBES BETA\n\n* the ending of the demo is now working properly! Travel as far as the beginning of \\[REDACTED]. (My pre-release-censoring code got overzealous.)\n* we now have an autosave!\n* manual save limit raised to 99; also, the game actually tells you when the limit kicks in\n* corrupt or unreadable saves politely decline instead of breaking when you try to load them\n* Inventory screen shows skill modifier effects more clearly\n* wardrobe grid ordering\n* IT IS HAPPENING AGAIN - remember the 'workstations no longer miaow when opened' in *Book of Hours*? well, items will no longer miaow\nwhen dragged to an active slot in *Travelling at Night*.\n* cleaned up inventory/wardrobe screen\n* you can now buy the Sheaf from Andrée after exiting to search your belongings\n* fixed the occasional MASSIVE ITEM APPEARS glitch on inventory screen\n* Vincent no longer shows mysteriously through his room shroud\n* Vincent will no longer teleport gaily into the shrubbery (or will do so with less abandon, and be easier to rescue)\n* assorted small bug fixes\n* first-meeting conversations could be broken if you spoke to the NPC about something in their environment\n* a bookcase in Antibes is easier to reach\n* removed a leftover animation experiment in Aubiere's office\n* the alarm clock now works properly\n* fixed a bug where skills and passions pretended they needed an extra Experience to upgrade\n* fixed a problem blocking purchase of some skills that started at level 0\n* typo fixes\n\n\n\n## 2026.7.e.24 - ANTIBES BETA\n\n* Hammering F7 while a game was already loading would try to load several versions of the scene at once, which was quite funny but not very helpful. Fixed.\n\n## 2026.7.e.21 - ANTIBES BETA\n\n* HOTFIX: fast-forwarding through a dialogue line while scene changes will no longer crash the game.\n* HOTFIX: Spencer's dressing gown has returned (serious issue! he can't sleep naked!!)\n* Spencer now moves in eight not six directions, and you'll see him animated on the Wardrobe screen\n* Added beta watermark, fixed typos\nA couple of fixes to our analytics + consent code, which I'll explain cos transparency is super-important with this stuff.\n* We were accidentally storing something that allowed us to connect (A) the opt-in analytics about story choices with (B) the bug reports... which means we could work out what story choices you@youremail.com had made... which is an ethical amber light unless we had a clear opt-in. Today's build fixes that, and I've deleted the first day's run of story choice data. You can now kick Khione or make Vincent travel alone in third class in secure pseudonymity.\n* Meanwhile, there was a bug that silently reverted YES to NO in the consent form! so we didn't gather much data anyway. Better than reverting NO to YES, I guess.\n\n## 2026.7.e.11 - ANTIBES BETA\n\n* THE GAME IS BEST RUN IN 16:9 ASPECT RATIOS. It will look weird in other resolutions, especially widescreen ones.\n* Reporting bugs: much easier to use F10 or REPORT A BUG in game, so we have screenshots and logs. Works for feedback too. But use support@weatherfactory.biz if you need to send something longer or want to send files manually.\n* This is the opening act of the game - it runs until you leave Antibes.\n* UI is getting a haircut shorly.",
@@ -117,7 +117,7 @@
  },
  {
   "text": "''The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - Abbess Nonna, [[Abbey of St Brandan]]",
-  "translation": "『蛾、杯与未孵之卵，对世界的开端各有各的讲述。其中一则故事最为古老，但它也许并非最先。』——诺娜院长，[[圣布伦丹修道院]]"
+  "translation": "『飞蛾、赤杯与逆孵之卵，对世界的开端各有各的讲述。其中一则故事最为古老，但它也许并非最先。』——诺娜院长，[[圣布伦丹修道院]]"
  },
  {
   "text": "''The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.' - Lovecraft",
@@ -345,7 +345,7 @@
  },
  {
   "text": "'No thing in or beneath Heaven hath only one Nature, and no thing that hath two Natures may keep one from joining with another; therefore I say unto you, that even the [[Wolf Divided]] is forgotten not by the [[Sun]].'",
-  "translation": "'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[分裂之狼]],也不为[[太阳]]所遗忘。'"
+  "translation": "'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[裂分之狼]],也不为[[太阳]]所遗忘。'"
  },
  {
   "text": "'No',' Picasso said, 'you did'.",
@@ -457,7 +457,7 @@
  },
  {
   "text": "'The Serenity of the Black [[Wood]]' is an odd allegory about the [[Vagabond]] leading travellers part-way through a wood before she abandons them. That feels relevant",
-  "translation": "《黑[[木材]]之静》是一则古怪的寓言:[[浪游者]]领着旅人穿过林中一程,然后弃他们而去。这似乎与当下有些相干。"
+  "translation": "《黑[[木材]]之静》是一则古怪的寓言:[[浪游旅人]]领着旅人穿过林中一程,然后弃他们而去。这似乎与当下有些相干。"
  },
  {
   "text": "'The Sheaf'",
@@ -873,7 +873,7 @@
  },
  {
   "text": "...or forbids it. Her purpose has always been to separate and distinguish... and so the [[Witch-and-Sister]] is her enemy.",
-  "translation": "……抑或禁止。她的职责从来都是分离与区分……因此,[[双生女巫]]是她的敌人。"
+  "translation": "……抑或禁止。她的职责从来都是分离与区分……因此,[[双生巫女]]是她的敌人。"
  },
  {
   "text": "...perhaps, after all, you're right. Very well.",
@@ -1237,7 +1237,7 @@
  },
  {
   "text": "<i>who cannot harm you;\nwho cannot find you;\nwho always has what you desire.</i>\n\nThe Flowermaker, born from the sparks of delight of the [[Forge of Days]], fallen like seeds into shadowed soil. The Flowermaker offered us the glittering prizes we most desired - even when our desires were concealed from us.\n\nA dead [[Hour]]; dead and buried.",
-  "translation": "<i>无法伤害你者;\n无法寻见你者;\n始终拥有你所渴求之物者。</i>\n\n造花者,诞生于[[白日铸炉]]的欢愉火花,如种子般落入阴影之土。造花者曾将我们最渴望的璀璨奖品奉上——即便那些渴望,对我们自己也秘而不宣。\n\n一位已死的[[司辰]];死去了,也埋葬了。"
+  "translation": "<i>无法伤害你者;\n无法寻见你者;\n始终拥有你所渴求之物者。</i>\n\n制花人,诞生于[[白日铸炉]]的欢愉火花,如种子般落入阴影之土。制花人曾将我们最渴望的璀璨奖品奉上——即便那些渴望,对我们自己也秘而不宣。\n\n一位已死的[[司辰]];死去了,也埋葬了。"
  },
  {
   "text": "<i>who demands the dance;\nwho cannot be stilled;\nwho is beaten, like a drum.</i>\n\nThe Thunderskin, the Heart Relentless, the Vigilant Storm, which beat and was beaten to preserve the skin of the world. The mortal who loved the goddess; the flayed god sacrificed by its lover to itself. Without his ceaseless efforts, how long could the world have turned untorn?\n\nA dead [[Hour]]; dead and buried.",
@@ -1253,7 +1253,7 @@
  },
  {
   "text": "<i>who sees what is lost;\nwho opens the earth;\nto whom belongs what is not possessed.</i>\n\nSometimes called the Beachcomber. Of all the [[Aviform]] [[Hours]], perhaps the most straightforward in his motivations - to unearth, and sometimes to keep, what is lost . But he's also the one of whom least is known for certain. He guards his secrets carefully, as the affair of the [[Lark]] recalls. His most acquisitive [[Name]], Crooky, likes to wear even the shapes that others abandon.\n\n[[Long]] who ascend under the Beach-Crow are misers, pirates, archaologists, philatelists, who achieved their estate by thieving treasures from their predecessors. 'Daws', they've been called, and 'grubbers'.",
-  "translation": "<i>它看见失落之物；\n它掘开大地；\n不属于任何人的，皆归它所有。</i>\n\n有时也被称作拾滩人。在所有[[鸟形]][[司辰]]中，他的动机或许最直白——掘出失落之物，有时将其据为己有。但他也是人们对他的确知最少的一位。他小心守护着自己的秘密，[[百灵鸟]]那桩旧事便是明证。他最贪得的尊名克罗基，甚至喜欢披上别人抛弃的形态。\n\n在滩鸦之下飞升的[[长生者]]，是守财奴、海盗、考古学家、集邮家，靠窃取前辈的珍宝而成就其家业。人们称他们为『寒鸦』和『掘土者』。"
+  "translation": "<i>它看见失落之物；\n它掘开大地；\n不属于任何人的，皆归它所有。</i>\n\n有时也被称作拾滩鸦。在所有[[鸟形]][[司辰]]中，他的动机或许最直白——掘出失落之物，有时将其据为己有。但他也是人们对他的确知最少的一位。他小心守护着自己的秘密，[[百灵鸟]]那桩旧事便是明证。他最贪得的尊名克罗基，甚至喜欢披上别人抛弃的形态。\n\n在滩鸦之下飞升的[[长生者]]，是守财奴、海盗、考古学家、集邮家，靠窃取前辈的珍宝而成就其家业。人们称他们为『寒鸦』和『掘土者』。"
  },
  {
   "text": "<i>À bientôt.</i>",
@@ -2529,7 +2529,7 @@
  },
  {
   "text": "All conquest occurs at the Edge. One who dwelt there was blind. Another was strong. Of the third, we did not speak.\n\nEdge is the [[Principle]] of battle and of struggle. Colonel, Lionsmith, Wolf-Divided were its Hours, but they are Uncounted now, and strife feeds on strife.",
-  "translation": "一切征服都发生在刃上。曾居其中者,一位目盲。另一位强壮。至于第三位,我们从不言说。\n\n刃是战斗与抗争的[[准则]]。上校、狮匠、分裂之狼曾是它的司辰,但如今它们已除名,而纷争以纷争为食。"
+  "translation": "一切征服都发生在刃上。曾居其中者,一位目盲。另一位强壮。至于第三位,我们从不言说。\n\n刃是战斗与抗争的[[准则]]。上校、狮子匠、裂分之狼曾是它的司辰,但如今它们已除名,而纷争以纷争为食。"
  },
  {
   "text": "All growing things are rooted in the Wood - the place where colours are seen without light.",
@@ -2717,7 +2717,7 @@
  },
  {
   "text": "An adept would identify this as an image of the [[Sister-and-Witch]]. As so many times before, I'm enmeshed in some business of the [[Hours]]. I should go carefully.",
-  "translation": "一位修士会认出,这是[[双生女巫]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
+  "translation": "一位修士会认出,这是[[双生巫女]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
  },
  {
   "text": "An alchemical preparation intended to poison, to cure, or to stimulate. It refreshes Heart and Grail aspects, and is necessary for some higher-level crafting recipes.\n\n[Pharmakon can also be used in some actions to drug or to cure others, if you have the skills. Don't consume it if you plan to use it for that.]",
@@ -2885,7 +2885,7 @@
  },
  {
   "text": "And I should remember, first, that the Sister-and-Witch brings together what she can... and that she's the enemy of severance and disjunction.",
-  "translation": "而我首先该记住的是:双生女巫会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
+  "translation": "而我首先该记住的是:双生巫女会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
  },
  {
   "text": "And I'm here, as I promised. I can't take your hand. Sinombre has passed beyond flesh. But now turn to my light and consider my voice, and we'll see what will open to you...",
@@ -4069,7 +4069,7 @@
  },
  {
   "text": "But the chandler's witness brought a candle seventy-<i>seven</i> years old: every month, the chandler had bought the old stumps, returned their matter to the vat, and used them in his wares, so that each newest candle was also the oldest. Perhaps there's always a way.",
-  "translation": "但烛匠的证人带来了一支七十<i>七</i>岁的蜡烛:每个月,烛匠都会买回那些旧烛头,把它们的原料回炉入缸,再用于自己的货品,于是每一支最新的蜡烛同时也是最古老的。也许,总有办法存在。"
+  "translation": "但制烛人的证人带来了一支七十<i>七</i>岁的蜡烛:每个月,制烛人都会买回那些旧烛头,把它们的原料回炉入缸,再用于自己的货品,于是每一支最新的蜡烛同时也是最古老的。也许,总有办法存在。"
  },
  {
   "text": "But the ticket-inspector was smoking Gitanes all the way from Milan, and it brought back memories.",
@@ -6429,7 +6429,7 @@
  },
  {
   "text": "Flowermaker",
-  "translation": "造花者"
+  "translation": "制花人"
  },
  {
   "text": "Flushed Mommet",
@@ -6677,7 +6677,7 @@
  },
  {
   "text": "Frost in winter; sounds loudest at night; in a riven world, the Horned-Axe prominent.",
-  "translation": "冬有霜;夜之声最响;在四分五裂的世间,有角之斧赫然在目。"
+  "translation": "冬有霜;夜之声最响;在四分五裂的世间,双角斧赫然在目。"
  },
  {
   "text": "Frozen\nForests",
@@ -10129,7 +10129,7 @@
  },
  {
   "text": "Is the Hour named Velvet now Uncounted? Dead? How would we ever know?",
-  "translation": "那个名为丝绒的司辰，如今已除名了吗？死了吗？我们怎么会知道呢？"
+  "translation": "那个名为丝毧的司辰，如今已除名了吗？死了吗？我们怎么会知道呢？"
  },
  {
   "text": "Is there a theme to this collection - a familiar theme?",
@@ -10325,11 +10325,11 @@
  },
  {
   "text": "It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. And double-bladed axe symbols are nothing unique. A coincidence, no more.",
-  "translation": "它让我想起[[有角之斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
+  "translation": "它让我想起[[双角斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
  },
  {
   "text": "It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. Double-bladed axe symbols are nothing unique. It must be a coincidence.",
-  "translation": "它让我想起[[有角之斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。"
+  "translation": "它让我想起[[双角斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。"
  },
  {
   "text": "It smells like sunlight on hot stone. As I lower the jar again, flashes of phantom light blur my vision.",
@@ -17377,11 +17377,11 @@
  },
  {
   "text": "The Chandler's Tale",
-  "translation": "《烛匠的故事》"
+  "translation": "《制烛人的故事》"
  },
  {
   "text": "The Chandler's Wish",
-  "translation": "《烛匠之愿》"
+  "translation": "《制烛人之愿》"
  },
  {
   "text": "The Church of the Unconquerable [[Sun]] acknowledges four <i>[[Horae]] Canonicae</i>, but its outer rites and doctrines present a humanised, comfortable version of each. The earliest church councils resolved that the inner mysteries of the Hours are much too dangerous to be approached directly. They're right, of course - most of all, about the mysteries of one particular Hour.",
@@ -18345,7 +18345,7 @@
  },
  {
   "text": "The old woman who masquerades as the Pilgrim's mother. Her attributes strongly suggest the [[Vagabond]].",
-  "translation": "那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[流浪者]]。"
+  "translation": "那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[浪游旅人]]。"
  },
  {
   "text": "The omelette is excellent. Fresh eggs, peppers, ham: all of those are difficult to come by.",
@@ -18993,7 +18993,7 @@
  },
  {
   "text": "They invoked the [[Witch-and-Sister]] to help in drawing the [[Worms]] from me. Which is still strange. The Witch unites, not divides.",
-  "translation": "他们曾祈请[[双生女巫]]相助，把[[蠕虫]]从我体内抽出。这至今仍让我费解。女巫主合，不主分。"
+  "translation": "他们曾祈请[[双生巫女]]相助，把[[蠕虫]]从我体内抽出。这至今仍让我费解。女巫主合，不主分。"
  },
  {
   "text": "They remember, the night observes; they remember.",
@@ -20245,7 +20245,7 @@
  },
  {
   "text": "Very well. 'The Flowermaker.'",
-  "translation": "很好。「育花者。」"
+  "translation": "很好。「制花人。」"
  },
  {
   "text": "Very well. How may I assist you?",
@@ -21129,7 +21129,7 @@
  },
  {
   "text": "When I was last in the world, half the occult demimonde believed the [[Vagabond]] would soon rise in Pilgrimage to the [[Glory]]... but I knew well enough not to get involved.",
-  "translation": "我上一次在世时,隐秘的地下世界有半数人都相信,[[浪游者]]即将起身,踏上前往[[辉光]]的巡礼……但我心里清楚,不该卷进去。"
+  "translation": "我上一次在世时,隐秘的地下世界有半数人都相信,[[浪游旅人]]即将起身,踏上前往[[辉光]]的巡礼……但我心里清楚,不该卷进去。"
  },
  {
   "text": "When I was priest in [[Brancrug]], I sometimes saw Christopher Illopoly in his rooms in [[Hush House]] - to argue about theology and drink his horrible burdock tea. I saw it there, I think...",
@@ -21249,7 +21249,7 @@
  },
  {
   "text": "Where the Chandler has passed, the understandings of the Colonel and the Lionsmith will wrench open truth. Where the Chandler will pass, Moth will pass before him.",
-  "translation": "烛匠走过之处,上校与狮匠的领会将撬开真理。烛匠将行之处,蛾会先他而行。"
+  "translation": "制烛人走过之处,上校与狮匠的领会将撬开真理。制烛人将行之处,蛾会先他而行。"
  },
  {
   "text": "Where the fishes come to knock on it / And listen",
@@ -22633,7 +22633,7 @@
  },
  {
   "text": "[Arguably Heretical] Your 'saint' is the [[Sister-and-Witch]].",
-  "translation": "[可称异端] 您的「圣人」,就是[[双生女巫]]。"
+  "translation": "[可称异端] 您的「圣人」,就是[[双生巫女]]。"
  },
  {
   "text": "[Aubière briefly removes his glasses to polish them. When he replaces them, his eyes seem sharper.]",

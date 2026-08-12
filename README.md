@@ -71,3 +71,14 @@
 
 - v0.0.2（2026-08-12）：修复版——BepInEx 5.4.23.5(兼容 Unity 6000)+UI 文本替换；全量 6698 条；术语基准 CS 官方中文 + paratranz 人工译者 + 灰机 wiki；特约定译（漫宿/噤声居屋/法兰西斧币/太阳居屋/迷金症/恋金癖/凋零等）
 - v0.0.2a（2026-08-12，数据更新）：术语裁决批量生效——Arts Unconsidered→未识技艺、patrocinia→圣庇、House(the)→居屋、Corona→冕、Gleam→烁、Aubière→奥比埃、Menninger→曼宁格、Huissier→韦西耶、Onteiric→太虚/太虚的、Onteirology→太虚学、Onteiric Coordination→冥合（冥合办公室）、骄阳句双关定译；SO 遗漏文本 282 条补入（含冥合办公室物品描述）；mapping 6296 条
+
+### 安装脚本编码说明
+- 入口 install.bat / uninstall.bat 为纯 ASCII，双击即可（任意代码页环境无乱码）
+- 实际逻辑在 install.ps1 / uninstall.ps1（UTF-8 with BOM，PowerShell 5.1/7 兼容）
+- 兼容 Windows 默认 GBK(936) 与全局 UTF-8(65001) 两种系统
+- Steam 游戏目录自动检测（注册表 + libraryfolders.vdf 多库，原生 UTF-8 读取）
+
+### 司辰术语（v0.0.2a 起）
+- 全量 36 司辰定译入库（灰机秘史维基 + 官方英文 wiki + 裂楔图书馆三源核对）
+- 双生女巫=Witch-and-Sister / 双生巫女=Sister-and-Witch（勿混淆）
+- Vagabond→浪游旅人（可简称旅人）

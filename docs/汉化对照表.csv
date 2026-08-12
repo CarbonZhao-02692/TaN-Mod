@@ -675,7 +675,7 @@ dialogue|142|100|Dialogue Text,"No no! You have two names, I think, at least, co
 dialogue|142|101|Dialogue Text,Jaume's eyes crinkle in his habitual melancholy nearly-smile.,"若梅的眼角皱起,是他惯常那种忧郁的、近乎微笑的神情。"
 dialogue|142|103|Dialogue Text,"Oh, yes! Yes!","哦,是的!是的!"
 dialogue|142|104|Dialogue Text,"A melancholy, friendly, crinkle of the eyes.",眼角皱起一道忧郁而友善的纹。
-dialogue|142|105|Dialogue Text,[Arguably Heretical] Your 'saint' is the [[Sister-and-Witch]].,"[可称异端] 您的「圣人」,就是[[双生女巫]]。"
+dialogue|142|105|Dialogue Text,[Arguably Heretical] Your 'saint' is the [[Sister-and-Witch]].,"[可称异端] 您的「圣人」,就是[[双生巫女]]。"
 dialogue|142|106|Dialogue Text,The eyes of the saint in the window are open.,"彩窗上,圣人的眼睛睁开了。"
 dialogue|142|107|Dialogue Text,You called me 'hollow of spirit and brazen of heart.' What did you mean?,"您说我是「魂灵空虚,心坚如铜」。那是什么意思?"
 dialogue|142|108|Dialogue Text,[If I've gathered enough information from the window... I might recall an odd folktale.],[若我已从彩窗上收集到足够的信息……我或许会想起一则奇异的民间传说。]
@@ -1099,8 +1099,8 @@ dialogue|145|42|Dialogue Text,[Provincial saints and their venerations. Who know
 dialogue|145|43|Dialogue Text,[Consider the saint's signs and attributes.],[研究这位圣徒的印记与标志。]
 dialogue|145|45|Dialogue Text,"The [[Church]] acknowledges some [[Hours]], denies others, and is ambivalent on the rest, adopting them as metaphors or parables; or as saints.","「[[教会]]承认一些[[司辰]],否认另一些,对其余的则态度暧昧——把祂们收作隐喻或寓言;或者,收作圣徒。」"
 dialogue|145|46|Dialogue Text,"Infuriatingly, a quarter-memory stirs, then subsides. Seminary was a long time ago.","恼人的是,一段支离的回忆泛起,又沉了下去。修院时代,已经是很久以前的事了。"
-dialogue|145|47|Dialogue Text,"An adept would identify this as an image of the [[Sister-and-Witch]]. As so many times before, I'm enmeshed in some business of the [[Hours]]. I should go carefully.","一位修士会认出,这是[[双生女巫]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
-dialogue|145|48|Dialogue Text,"And I should remember, first, that the Sister-and-Witch brings together what she can... and that she's the enemy of severance and disjunction.","而我首先该记住的是:双生女巫会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
+dialogue|145|47|Dialogue Text,"An adept would identify this as an image of the [[Sister-and-Witch]]. As so many times before, I'm enmeshed in some business of the [[Hours]]. I should go carefully.","一位修士会认出,这是[[双生巫女]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
+dialogue|145|48|Dialogue Text,"And I should remember, first, that the Sister-and-Witch brings together what she can... and that she's the enemy of severance and disjunction.","而我首先该记住的是:双生巫女会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
 dialogue|145|49|Dialogue Text,Is that... did you finish? I don't understand.,「那是……您弄完了吗?我不明白。」
 dialogue|145|50|Dialogue Text,"'And though his flesh was hollow, her eyes were opened!'","「“他的肉身虽已空乏,她的眼睛却睁开了!”」"
 dialogue|145|51|Dialogue Text,"I... sometimes, I fear the saint.","「我……有时候,我会害怕这位圣徒。」"
@@ -1292,7 +1292,7 @@ dialogue|14|96|Dialogue Text,'A questing knight. Yes. I like that.,“一位行�
 dialogue|14|97|Dialogue Text,I don't think so.,我不这么认为。
 dialogue|14|98|Dialogue Text,I don't want to answer that just now.,我现在不想回答这个。
 dialogue|14|99|Dialogue Text,I suppose. In a sense.,也许吧。在某种意义上。
-dialogue|14|9|Menu Text,Very well. 'The Flowermaker.',很好。「育花者。」
+dialogue|14|9|Menu Text,Very well. 'The Flowermaker.',很好。「制花人。」
 dialogue|151|10|Dialogue Text,Different how?,哪里不同?
 dialogue|151|11|Dialogue Text,Not so very much older? I wish that's how I felt.,没老太多?我倒希望自己真有这种感觉。
 dialogue|151|12|Dialogue Text,"An unresolved thread, [q=alias.formal.fr]. We saw each other last in Paris, when you had but recently completed your service with the Légion du Seuil. You gave me your uniform to tend and mend. You also ordered a new suit of clothes.","一桩悬而未决的线头,[q=alias.formal.fr]。我们最后一次见面是在巴黎,那时您刚从门关军团服役归来。您把制服交给我浆洗缝补,还订了一套新西装。"
@@ -1371,7 +1371,7 @@ dialogue|154|2|Dialogue Text,[Riffle through.],[随手翻看。]
 dialogue|154|3|Dialogue Text,[Put it away.],[收起来。]
 dialogue|154|4|Dialogue Text,Better than I feared; less subtle than I remembered.,比我担心的要好;比我记忆中的更不含蓄。
 dialogue|154|5|Dialogue Text,A many-storyed hospital populated by masked eccentrics. Any adept would recognise it as the [[Mansus]].,"一座有许多层楼的大医院,住满了戴面具的怪人。任何修士都会认出这是[[漫宿]]。"
-dialogue|154|6|Dialogue Text,The old woman who masquerades as the Pilgrim's mother. Her attributes strongly suggest the [[Vagabond]].,那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[流浪者]]。
+dialogue|154|6|Dialogue Text,The old woman who masquerades as the Pilgrim's mother. Her attributes strongly suggest the [[Vagabond]].,那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[浪游旅人]]。
 dialogue|154|7|Dialogue Text,I wanted pyrotechnics for the ending The stage manager overruled me. Probably for the best.,结尾我本想要烟花效果。舞台经理否决了我。或许这样最好。
 dialogue|155|100|Dialogue Text,Long may his reputation survive without further tarnish.,愿他的名声长存，而且别再添新的污点。
 dialogue|155|101|Dialogue Text,May he jolly well sort everything out!,愿他赶紧把这一切都收拾妥当！
@@ -1755,14 +1755,14 @@ dialogue|208|3|Dialogue Text,"Andrée, battling the Milice with Dadaist disorien
 dialogue|208|4|Dialogue Text,Is Andrée sending a coded message?,安德烈是在传递某种密语吗?
 dialogue|208|5|Dialogue Text,[Step away.],[退开一步。]
 dialogue|208|6|Dialogue Text,'This establishment affirms and can prove that it HAS NEVER BEEN OPEN'.,"'本店郑重声明,并可以证明:本店从未营业'。"
-dialogue|209|10|Dialogue Text,"It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. And double-bladed axe symbols are nothing unique. A coincidence, no more.","它让我想起[[有角之斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
-dialogue|209|11|Dialogue Text,It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. Double-bladed axe symbols are nothing unique. It must be a coincidence.,它让我想起[[有角之斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。
+dialogue|209|10|Dialogue Text,"It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. And double-bladed axe symbols are nothing unique. A coincidence, no more.","它让我想起[[双角斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
+dialogue|209|11|Dialogue Text,It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. Double-bladed axe symbols are nothing unique. It must be a coincidence.,它让我想起[[双角斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。
 dialogue|209|12|Dialogue Text,But I wonder...,但我不禁寻思……
 dialogue|209|13|Menu Text,France is divided. Antibes is divided. The Axe <i>is</i> the [[Hour]] of division.,法国四分五裂。昂蒂布四分五裂。而斧<i>就是</i>分裂的[[司辰]]。
 dialogue|209|14|Dialogue Text,It's never so simple as cause and effect. The [[Hours]] no more intervene in human affairs than the wind intervenes in the trees. But - ,"事情从不那么简单,简单到归结为因果。[[司辰]]们之于人事,并不比风之于树木干预更多。但是——"
 dialogue|209|15|Dialogue Text,No scholar of the invisible arts takes coincidence at face value.,"研习无形之术的学者,从不把巧合的表面价值当真。"
 dialogue|209|16|Dialogue Text,"'As above, so below,' an old friend used to say when he came back from seeing a man about a dog.","'如其在上,如其在下,'一位老友每次办完一桩语焉不详的差事回来,总爱这样说。"
-dialogue|209|17|Dialogue Text,"Frost in winter; sounds loudest at night; in a riven world, the Horned-Axe prominent.","冬有霜;夜之声最响;在四分五裂的世间,有角之斧赫然在目。"
+dialogue|209|17|Dialogue Text,"Frost in winter; sounds loudest at night; in a riven world, the Horned-Axe prominent.","冬有霜;夜之声最响;在四分五裂的世间,双角斧赫然在目。"
 dialogue|209|1|Dialogue Text,"The tricoloured French flag - but the central band is marked with the <i>francisque</i>, the starry double-axe which has become the emblem of the French [[State]].","法国三色旗——只是中间的条纹上饰有<i>法兰西斧</i>,这把缀星双头斧已成为法国[[邦国]]的徽记。"
 dialogue|209|2|Menu Text,Maintain an appropriate distance.,保持适当的距离。
 dialogue|209|3|Menu Text,The flag flaps soggily.,旗帜湿重地翻卷着。
@@ -1803,7 +1803,7 @@ dialogue|215|1|Menu Text,"The Book of Suns, the [[Church]]'s holiest text.","《
 dialogue|215|2|Dialogue Text,The name itself is a reminder that the Sun is divided yet indivisible; constant but ever-changing.,"这书名本身便提醒着:太阳分裂而不可分,恒常而无常。"
 dialogue|215|3|Dialogue Text,[Read silently from the Book.],[默读圣书。]
 dialogue|215|5|Dialogue Text,[Read resonantly from the Book: let my voice echo.],[朗声诵读圣书:让我的声音回荡。]
-dialogue|215|6|Dialogue Text,"'No thing in or beneath Heaven hath only one Nature, and no thing that hath two Natures may keep one from joining with another; therefore I say unto you, that even the [[Wolf Divided]] is forgotten not by the [[Sun]].'","'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[分裂之狼]],也不为[[太阳]]所遗忘。'"
+dialogue|215|6|Dialogue Text,"'No thing in or beneath Heaven hath only one Nature, and no thing that hath two Natures may keep one from joining with another; therefore I say unto you, that even the [[Wolf Divided]] is forgotten not by the [[Sun]].'","'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[裂分之狼]],也不为[[太阳]]所遗忘。'"
 dialogue|215|8|Dialogue Text,"This is the Sanctioned Version of the Book of Suns. A little unusual. The Received Version is more common on the continent. But the Sanctioned Version, with its message of the Sun's approaching rebirth, is more optimistic. Perhaps the priest here hopes to uplift his flock.","这是《太阳之书》的钦定版。多少有些不同寻常。欧陆上更常见的是通行版。但钦定版传达着太阳临近重生的讯息,更为乐观。或许这里的教士是想提振他的信众。"
 dialogue|215|9|Dialogue Text,"A controversial passage in... I forget whether it was the Received or Sanctioned Version, and the binding is plain, without clues.","一段颇有争议的段落出自……我记不清是通行版还是钦定版,书封朴素,全无线索。"
 dialogue|216|1|Dialogue Text,"Gleaming cream and chrome. General Electric, one of the very brightest [[Incorporates]]. ",奶白与铬银，闪闪发光。通用电气——最耀眼的一批[[集团]]之一。
@@ -3598,8 +3598,8 @@ misc|Quote|sharedassets2.assets|16|_content,"‘With us of the River,’ Sulinor
 「啊!在我们那世界的尽头,我们高呼:『众神啊,莫以神的标准审判我,只当我是被大洋击碎的一个凡人。』」拜提库斯望向夸比尔,后者举起酒杯答道:「我们西顿人会说,『迦太基之母,我归还我的船桨!』但归根结底,说来说去终归是一回事。」"
 misc|Quote|sharedassets2.assets|16|_source,The Manner of Men,《男儿本色》
 misc|Quote|sharedassets2.assets|17|_author,Nemo Nondum,尼莫·农顿
-misc|Quote|sharedassets2.assets|17|_content,"Where the Chandler has passed, the understandings of the Colonel and the Lionsmith will wrench open truth. Where the Chandler will pass, Moth will pass before him.","烛匠走过之处,上校与狮匠的领会将撬开真理。烛匠将行之处,蛾会先他而行。"
-misc|Quote|sharedassets2.assets|17|_source,The Chandler's Wish,《烛匠之愿》
+misc|Quote|sharedassets2.assets|17|_content,"Where the Chandler has passed, the understandings of the Colonel and the Lionsmith will wrench open truth. Where the Chandler will pass, Moth will pass before him.","制烛人走过之处,上校与狮匠的领会将撬开真理。制烛人将行之处,蛾会先他而行。"
+misc|Quote|sharedassets2.assets|17|_source,The Chandler's Wish,《制烛人之愿》
 misc|Quote|sharedassets2.assets|18|_author,Charles Simic,查尔斯·西米克
 misc|Quote|sharedassets2.assets|18|_content,"I am on a street corner
 Where I shouldn’t be.
@@ -3616,8 +3616,8 @@ Which I am afraid to put on.","我站在一个街角
 却害怕戴上它。"
 misc|Quote|sharedassets2.assets|18|_source,Empire of Dreams,《梦境帝国》
 misc|Quote|sharedassets2.assets|19|_author,J.N. Sinombre,J.N. 西诺姆布尔
-misc|Quote|sharedassets2.assets|19|_content,"But the chandler's witness brought a candle seventy-<i>seven</i> years old: every month, the chandler had bought the old stumps, returned their matter to the vat, and used them in his wares, so that each newest candle was also the oldest. Perhaps there's always a way.","但烛匠的证人带来了一支七十<i>七</i>岁的蜡烛:每个月,烛匠都会买回那些旧烛头,把它们的原料回炉入缸,再用于自己的货品,于是每一支最新的蜡烛同时也是最古老的。也许,总有办法存在。"
-misc|Quote|sharedassets2.assets|19|_source,The Chandler's Tale,《烛匠的故事》
+misc|Quote|sharedassets2.assets|19|_content,"But the chandler's witness brought a candle seventy-<i>seven</i> years old: every month, the chandler had bought the old stumps, returned their matter to the vat, and used them in his wares, so that each newest candle was also the oldest. Perhaps there's always a way.","但制烛人的证人带来了一支七十<i>七</i>岁的蜡烛:每个月,制烛人都会买回那些旧烛头,把它们的原料回炉入缸,再用于自己的货品,于是每一支最新的蜡烛同时也是最古老的。也许,总有办法存在。"
+misc|Quote|sharedassets2.assets|19|_source,The Chandler's Tale,《制烛人的故事》
 misc|Quote|sharedassets2.assets|20|_author,Paul Theroux,保罗·索鲁
 misc|Quote|sharedassets2.assets|20|_content,You go away for a long time and return a different person - you never come all the way back.,"你离开很久,回来时已是另一个人——你永远不会完全归来。"
 misc|Quote|sharedassets2.assets|20|_source,Dark Star Safari,《暗星之旅》
@@ -3915,7 +3915,7 @@ so|Aspect|resources.assets|28630|_description,"All conquest occurs at the Edge. 
 
 Edge is the [[Principle]] of battle and of struggle. Colonel, Lionsmith, Wolf-Divided were its Hours, but they are Uncounted now, and strife feeds on strife.","一切征服都发生在刃上。曾居其中者,一位目盲。另一位强壮。至于第三位,我们从不言说。
 
-刃是战斗与抗争的[[准则]]。上校、狮匠、分裂之狼曾是它的司辰,但如今它们已除名,而纷争以纷争为食。"
+刃是战斗与抗争的[[准则]]。上校、狮子匠、裂分之狼曾是它的司辰,但如今它们已除名,而纷争以纷争为食。"
 so|Aspect|resources.assets|28630|_label,Edge,刃
 so|Aspect|resources.assets|28631|_description,"'Fire,' I read once, 'is the winter that warms and the spring that consumes.`
 
@@ -4725,7 +4725,7 @@ so|Footnote|resources.assets|28380|description,"""When the Sun-in-Splendour was 
 
 The Names of the [[Hours]], are their major servants, or aspects, or emanations. Some, perhaps all, Names were previously [[Long]].
 
-[[Mansus]]-spirits often like to tell gullible mortals they're Names. Who's going to quibble?","「当辉耀之日被分割，它的尊名也随之碎裂。」
+[[Mansus]]-spirits often like to tell gullible mortals they're Names. Who's going to quibble?","「当骄阳被分割，它的尊名也随之碎裂。」
 
 [[司辰]]的尊名，是它们主要的仆从、面向或流溢。有些尊名——也许全部——先前都是[[长生者]]。
 
@@ -4940,7 +4940,7 @@ Sometimes called the Beachcomber. Of all the [[Aviform]] [[Hours]], perhaps the 
 它掘开大地；
 不属于任何人的，皆归它所有。</i>
 
-有时也被称作拾滩人。在所有[[鸟形]][[司辰]]中，他的动机或许最直白——掘出失落之物，有时将其据为己有。但他也是人们对他的确知最少的一位。他小心守护着自己的秘密，[[百灵鸟]]那桩旧事便是明证。他最贪得的尊名克罗基，甚至喜欢披上别人抛弃的形态。
+有时也被称作拾滩鸦。在所有[[鸟形]][[司辰]]中，他的动机或许最直白——掘出失落之物，有时将其据为己有。但他也是人们对他的确知最少的一位。他小心守护着自己的秘密，[[百灵鸟]]那桩旧事便是明证。他最贪得的尊名克罗基，甚至喜欢披上别人抛弃的形态。
 
 在滩鸦之下飞升的[[长生者]]，是守财奴、海盗、考古学家、集邮家，靠窃取前辈的珍宝而成就其家业。人们称他们为『寒鸦』和『掘土者』。"
 so|Footnote|resources.assets|28407|label,Beach-Crow,滩鸦
@@ -4950,7 +4950,7 @@ so|Footnote|resources.assets|28409|Choices[0].description,Coincidences cluster w
 so|Footnote|resources.assets|28409|Choices[0].label,Unrelated,无关
 so|Footnote|resources.assets|28409|Choices[1].description,'Serena Blackwood' surely can't be her original name. But I never asked. I didn't want to reopen any old wounds.,「塞蕾娜·布莱克伍德」想必不是她的本名。但我从未问过。我不愿再揭开任何旧伤。
 so|Footnote|resources.assets|28409|Choices[1].label,Diplomatic,婉转
-so|Footnote|resources.assets|28409|Choices[2].description,'The Serenity of the Black [[Wood]]' is an odd allegory about the [[Vagabond]] leading travellers part-way through a wood before she abandons them. That feels relevant,"《黑[[木材]]之静》是一则古怪的寓言:[[浪游者]]领着旅人穿过林中一程,然后弃他们而去。这似乎与当下有些相干。"
+so|Footnote|resources.assets|28409|Choices[2].description,'The Serenity of the Black [[Wood]]' is an odd allegory about the [[Vagabond]] leading travellers part-way through a wood before she abandons them. That feels relevant,"《黑[[木材]]之静》是一则古怪的寓言:[[浪游旅人]]领着旅人穿过林中一程,然后弃他们而去。这似乎与当下有些相干。"
 so|Footnote|resources.assets|28409|Choices[2].label,Footloose,无拘无束
 so|Footnote|resources.assets|28409|description,"Blackwood is the name of a renowned English writer of ghost stories; the title of a scurrilously entertaining Scottish literary magazine; and, as 'Sereno Blackwood', a widely used occult alias.
 
@@ -5045,10 +5045,10 @@ A dead [[Hour]]; dead and buried.","<i>无法伤害你者;
 无法寻见你者;
 始终拥有你所渴求之物者。</i>
 
-造花者,诞生于[[白日铸炉]]的欢愉火花,如种子般落入阴影之土。造花者曾将我们最渴望的璀璨奖品奉上——即便那些渴望,对我们自己也秘而不宣。
+制花人,诞生于[[白日铸炉]]的欢愉火花,如种子般落入阴影之土。制花人曾将我们最渴望的璀璨奖品奉上——即便那些渴望,对我们自己也秘而不宣。
 
 一位已死的[[司辰]];死去了,也埋葬了。"
-so|Footnote|resources.assets|28422|label,Flowermaker,造花者
+so|Footnote|resources.assets|28422|label,Flowermaker,制花人
 so|Footnote|resources.assets|28423|Choices[0].description,I don't like chatter.,我不喜欢絮叨。
 so|Footnote|resources.assets|28423|Choices[0].label,Subtlety,含蓄
 so|Footnote|resources.assets|28423|Choices[1].description,I don't like to miss anything.,我不想错过任何东西。
@@ -5090,7 +5090,7 @@ The Great War; we really thought that was as bad as it would get. It took twenty
 so|Footnote|resources.assets|28430|label,Great War,大战
 so|Footnote|resources.assets|28433|Choices[0].description,"She surrendered her Edges to the newer [[Hours]] once. What happens now, when so many newer [[Hours]] are [[Uncounted]]?","她曾一度将她的刃交予更年轻的[[司辰]]。如今,那么多更年轻的[[司辰]]都已[[除名]],又会发生什么?"
 so|Footnote|resources.assets|28433|Choices[0].label,She bears two blades...,她身负双刃……
-so|Footnote|resources.assets|28433|Choices[1].description,...or forbids it. Her purpose has always been to separate and distinguish... and so the [[Witch-and-Sister]] is her enemy.,"……抑或禁止。她的职责从来都是分离与区分……因此,[[双生女巫]]是她的敌人。"
+so|Footnote|resources.assets|28433|Choices[1].description,...or forbids it. Her purpose has always been to separate and distinguish... and so the [[Witch-and-Sister]] is her enemy.,"……抑或禁止。她的职责从来都是分离与区分……因此,[[双生巫女]]是她的敌人。"
 so|Footnote|resources.assets|28433|Choices[1].label,She permits passage...,她放行……
 so|Footnote|resources.assets|28433|Choices[2].description,Old; cold.,苍老;冰冷。
 so|Footnote|resources.assets|28433|Choices[2].label,She waits at the threshold...,她守候在门槛……
@@ -5212,7 +5212,7 @@ so|Footnote|resources.assets|28467|Choices[0].description,I travel; I seek. Yes.
 so|Footnote|resources.assets|28467|Choices[0].label,Fitting,贴切
 so|Footnote|resources.assets|28467|Choices[1].description,"I'm a wanderer, not a pilgrim.","我是个漫游者,不是巡礼者。"
 so|Footnote|resources.assets|28467|Choices[1].label,Not Fitting,不贴切
-so|Footnote|resources.assets|28467|Choices[2].description,"When I was last in the world, half the occult demimonde believed the [[Vagabond]] would soon rise in Pilgrimage to the [[Glory]]... but I knew well enough not to get involved.","我上一次在世时,隐秘的地下世界有半数人都相信,[[浪游者]]即将起身,踏上前往[[辉光]]的巡礼……但我心里清楚,不该卷进去。"
+so|Footnote|resources.assets|28467|Choices[2].description,"When I was last in the world, half the occult demimonde believed the [[Vagabond]] would soon rise in Pilgrimage to the [[Glory]]... but I knew well enough not to get involved.","我上一次在世时,隐秘的地下世界有半数人都相信,[[浪游旅人]]即将起身,踏上前往[[辉光]]的巡礼……但我心里清楚,不该卷进去。"
 so|Footnote|resources.assets|28467|Choices[2].label,Unsettling,令人不安
 so|Footnote|resources.assets|28467|description,I've been called 'pilgrim'.,有人曾叫我「巡礼者」。
 so|Footnote|resources.assets|28467|label,Pilgrim,巡礼者
@@ -5431,7 +5431,7 @@ so|Footnote|resources.assets|28497|Choices[0].description,"The Ysiens were not k
 so|Footnote|resources.assets|28497|Choices[0].label,I miss it still,我仍思念它
 so|Footnote|resources.assets|28497|Choices[1].description,"Even after they drew the [[Worms]] from my soul-complexus, they kept me caged. But I am very difficult to cage.",即便他们从我的魂丛中抽出[[蠕虫]]，他们仍把我关在笼中。可我这样的人，很难被关得住。
 so|Footnote|resources.assets|28497|Choices[1].label,I was a prisoner,我曾是囚徒
-so|Footnote|resources.assets|28497|Choices[2].description,"They invoked the [[Witch-and-Sister]] to help in drawing the [[Worms]] from me. Which is still strange. The Witch unites, not divides.",他们曾祈请[[双生女巫]]相助，把[[蠕虫]]从我体内抽出。这至今仍让我费解。女巫主合，不主分。
+so|Footnote|resources.assets|28497|Choices[2].description,"They invoked the [[Witch-and-Sister]] to help in drawing the [[Worms]] from me. Which is still strange. The Witch unites, not divides.",他们曾祈请[[双生巫女]]相助，把[[蠕虫]]从我体内抽出。这至今仍让我费解。女巫主合，不主分。
 so|Footnote|resources.assets|28497|Choices[2].label,The Witch,女巫
 so|Footnote|resources.assets|28497|description,"No living man may come to Ys. So when I passed through [[Brancrug]] the final time, when I left the world behind... I drowned. Symbolically. Perhaps more than that.",活人无法抵达伊苏。因此，当我最后一次穿过[[布兰库格]]、将尘世抛在身后时……我淹死了。象征意义上的。也许不止于此。
 so|Footnote|resources.assets|28497|label,Ys,伊苏
@@ -5751,7 +5751,7 @@ so|Item|resources.assets|28890|_description,It doesn't exactly make sense - but 
 so|Item|resources.assets|28890|_label,Memory: Impulse,回忆：冲动
 so|Item|resources.assets|28891|_description,But it might mean nothing at all...,但它或许什么也不意味着……
 so|Item|resources.assets|28891|_label,Memory: Intuition,回忆：直觉
-so|Item|resources.assets|28892|_description,"''The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - Abbess Nonna, [[Abbey of St Brandan]]",『蛾、杯与未孵之卵，对世界的开端各有各的讲述。其中一则故事最为古老，但它也许并非最先。』——诺娜院长，[[圣布伦丹修道院]]
+so|Item|resources.assets|28892|_description,"''The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - Abbess Nonna, [[Abbey of St Brandan]]",『飞蛾、赤杯与逆孵之卵，对世界的开端各有各的讲述。其中一则故事最为古老，但它也许并非最先。』——诺娜院长，[[圣布伦丹修道院]]
 so|Item|resources.assets|28892|_label,Memory: Paradox,回忆：悖论
 so|Item|resources.assets|28893|_description,Every choice has its shadow.,每一个选择都有它的阴影。
 so|Item|resources.assets|28893|_label,Memory: Regret,回忆：悔恨
@@ -5974,7 +5974,7 @@ so|Item|resources.assets|28962|_description,The proper use of this sombre sign s
 so|Item|resources.assets|28962|_label,Midnight Mark,午夜印记
 so|Item|resources.assets|28963|_description,Invokes the kindest of the Elegiast's Names.,唤起悼歌诗人最仁慈的尊名。
 so|Item|resources.assets|28963|_label,Naenian Quittance,悼歌之豁免
-so|Item|resources.assets|28964|_description,Is the Hour named Velvet now Uncounted? Dead? How would we ever know?,那个名为丝绒的司辰，如今已除名了吗？死了吗？我们怎么会知道呢？
+so|Item|resources.assets|28964|_description,Is the Hour named Velvet now Uncounted? Dead? How would we ever know?,那个名为丝毧的司辰，如今已除名了吗？死了吗？我们怎么会知道呢？
 so|Item|resources.assets|28964|_label,Nameless Shibboleth,无名暗语
 so|Item|resources.assets|28965|_description,An elegant little mark used in graveyard arts.,一种优雅的小印记，用于墓园之术。
 so|Item|resources.assets|28965|_label,Pale Sign,苍白印记

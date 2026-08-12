@@ -732,7 +732,7 @@
   "entryId": 6,
   "field": "DialogueText",
   "text": "The old woman who masquerades as the Pilgrim's mother. Her attributes strongly suggest the [[Vagabond]].",
-  "translation": "那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[流浪者]]。"
+  "translation": "那个伪装成巡礼者母亲的老妇人。她的种种特质强烈地指向[[浪游旅人]]。"
  },
  {
   "conversationId": 154,
@@ -921,7 +921,7 @@
   "entryId": 6,
   "field": "DialogueText",
   "text": "'No thing in or beneath Heaven hath only one Nature, and no thing that hath two Natures may keep one from joining with another; therefore I say unto you, that even the [[Wolf Divided]] is forgotten not by the [[Sun]].'",
-  "translation": "'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[分裂之狼]],也不为[[太阳]]所遗忘。'"
+  "translation": "'天上地下,无物只具一性;凡具两性之物,不能阻其一与另一相合;因此我告诉你们:即便是[[裂分之狼]],也不为[[太阳]]所遗忘。'"
  },
  {
   "conversationId": 215,
@@ -1068,14 +1068,14 @@
   "entryId": 10,
   "field": "DialogueText",
   "text": "It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. And double-bladed axe symbols are nothing unique. A coincidence, no more.",
-  "translation": "它让我想起[[有角之斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
+  "translation": "它让我想起[[双角斧]]。但没有人会把一位隐秘之神放在自己的旗帜上。何况双刃斧的图案并不稀罕。不过是巧合,仅此而已。"
  },
  {
   "conversationId": 209,
   "entryId": 11,
   "field": "DialogueText",
   "text": "It reminds me of the [[Horned-Axe]]. But no-one puts a secret god on their flag. Double-bladed axe symbols are nothing unique. It must be a coincidence.",
-  "translation": "它让我想起[[有角之斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。"
+  "translation": "它让我想起[[双角斧]]。但没有人会把隐秘之神放在旗帜上。双刃斧的图案并不稀罕。想必只是巧合。"
  },
  {
   "conversationId": 209,
@@ -1117,7 +1117,7 @@
   "entryId": 17,
   "field": "DialogueText",
   "text": "Frost in winter; sounds loudest at night; in a riven world, the Horned-Axe prominent.",
-  "translation": "冬有霜;夜之声最响;在四分五裂的世间,有角之斧赫然在目。"
+  "translation": "冬有霜;夜之声最响;在四分五裂的世间,双角斧赫然在目。"
  },
  {
   "conversationId": 210,
@@ -2083,14 +2083,14 @@
   "entryId": 47,
   "field": "DialogueText",
   "text": "An adept would identify this as an image of the [[Sister-and-Witch]]. As so many times before, I'm enmeshed in some business of the [[Hours]]. I should go carefully.",
-  "translation": "一位修士会认出,这是[[双生女巫]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
+  "translation": "一位修士会认出,这是[[双生巫女]]的画像。和以往许多次一样,我正卷入[[司辰]]们的某桩事务。我该小心行事。"
  },
  {
   "conversationId": 145,
   "entryId": 48,
   "field": "DialogueText",
   "text": "And I should remember, first, that the Sister-and-Witch brings together what she can... and that she's the enemy of severance and disjunction.",
-  "translation": "而我首先该记住的是:双生女巫会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
+  "translation": "而我首先该记住的是:双生巫女会把一切可以聚合的聚合起来……而她,正是分离与割裂之敌。"
  },
  {
   "conversationId": 145,
@@ -5429,7 +5429,7 @@
   "entryId": 105,
   "field": "DialogueText",
   "text": "[Arguably Heretical] Your 'saint' is the [[Sister-and-Witch]].",
-  "translation": "[可称异端] 您的「圣人」,就是[[双生女巫]]。"
+  "translation": "[可称异端] 您的「圣人」,就是[[双生巫女]]。"
  },
  {
   "conversationId": 142,
@@ -18890,7 +18890,7 @@
   "entryId": 9,
   "field": "MenuText",
   "text": "Very well. 'The Flowermaker.'",
-  "translation": "很好。「育花者。」"
+  "translation": "很好。「制花人。」"
  },
  {
   "conversationId": 14,

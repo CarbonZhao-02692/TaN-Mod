@@ -203,7 +203,7 @@ Wither,凋零,concept,user,1.0,approved,2026-08-12,"用户定译 2026-08-12:With
 Icarians,icarians,other,site-miss,0.5,pending,2026-08-11,规则直译(普通词) 待G4审核
 Suppression Bureau,防剿局,organization,cs-official,1.0,approved,2026-08-11,L2 候选采纳:CS 官方定译(防剿局)
 Kerisham,凯尔伊苏姆,other,cs-aligned,1.0,approved,2026-08-11,cs:elements|vaultshiresdefault
-Watchman,守夜人,character,cs-aligned,0.95,approved,2026-08-11,L2 守夜人之树/守夜人;cs-aligned 名为守夜人的司辰
+Watchman,守夜人,character,cs-aligned,0.95,approved,2026-08-11,L2 守夜人之树/守夜人;cs-aligned 名为守夜人的司辰;别名 The Door in the Eye(英文wiki I号)
 Mlle Lagasse,拉加斯小姐,character,self,0.7,pending,2026-08-11,Nina Lagasse→尼娜·拉加斯(approved)+Mlle→小姐
 Reinhardt,莱因哈特,character,self,0.8,pending,2026-08-12,"音译(德语姓氏,通行译名)待G4"
 Plan,计划,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法计划,按规则4采用 | 规则直译(普通词) 待G4审核"
@@ -298,7 +298,7 @@ Honneur,荣誉,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-1
 Humanité,人性,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译人性 | 规则未覆盖,待人工裁决"
 Summer Frivolity,轻浮夏日,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:按规则4定译轻浮夏日 | 规则未覆盖,待人工裁决"
 Quell,平息,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法平息 vs 原quell,按规则2采用(批8曾作镇伏) | 规则直译(普通词) 待G4审核"
-Vagabond,浪游旅人,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法浪游旅人 vs 原vagabond,按规则2采用(批9曾作浪游者) | 规则直译(普通词) 待G4审核"
+Vagabond,浪游旅人,other,paratranz,0.9,approved,2026-08-12,"paratranz复核2026-08-12:人工译法浪游旅人 vs 原vagabond,按规则2采用;用户裁决 2026-08-12:可简称旅人"
 Flip,翻转,other,self,1.0,approved,2026-08-12,普通词常规译法(2026-08-12)
 The Ministries,,other,site-hit,0.3,pending,2026-08-11,"规则未覆盖,待人工裁决"
 Book,书,other,self,1.0,approved,2026-08-12,"paratranz复核2026-08-12:普通词常规译法书,按规则4采用 | 规则直译(普通词) 待G4审核"
@@ -466,7 +466,7 @@ State,邦国,location,manual_pkg,0.9,approved,2026-08-11,L2 French State=法兰�
 Traces,痕迹,concept,manual_pkg,0.95,approved,2026-08-11,L2 当前痕迹/4-6 痕迹
 Histories,历史,concept,manual_pkg,0.9,approved,2026-08-11,L2 五重历史;cs-aligned Secret Histories=秘史
 Henad,太一,concept,manual_pkg,0.9,approved,2026-08-11,L2 Henad=太一;哲学术语 Henad=太一(新柏拉图主义)
-Sister-and-Witch,双生女巫,concept,cs-aligned,1.0,approved,2026-08-11,cs-aligned 双生女巫(成双祷文/圣滕特雷托之僧院);boh wiki 别名孪鸢
+Sister-and-Witch,双生巫女,concept,cs-aligned,1.0,approved,2026-08-12,用户裁决 2026-08-12:双生女巫→双生巫女(灰机一览表ⅩⅧ+裂楔图书馆hours.sister一致;Witch-and-Sister=双生女巫勿混)
 Ys,伊苏,location,manual_pkg,0.95,approved,2026-08-11,"L2 凡生者皆不可抵达伊苏/圣达哈节前夕,伊苏"
 pilgrim,巡礼者,concept,manual_pkg,0.9,approved,2026-08-11,L2 巡礼者(我也曾被称为巡礼者);cs-aligned 同
 Principles,准则,concept,manual_pkg,0.9,approved,2026-08-11,L2 基本[[准则]];cs-aligned 准则
@@ -519,3 +519,27 @@ Chrysolagnia,恋金癖,concept,user,1.0,approved,2026-08-12,用户研究定译:-
 Menninger,曼宁格,character,user,1.0,approved,2026-08-12,用户裁决 2026-08-12:统一译曼宁格;原文另见 Meninger Foundation 拼写变体(单n)
 Onteiric,太虚/太虚的,concept,user,1.0,approved,2026-08-12,"用户裁决 2026-08-12:Onteiric=太虚(本体论+梦境学合成词,张载太虚即气);Onteiric Coordination→冥合(柳宗元与万化冥合);onteiric order→太虚的秩序"
 Onteirology,太虚学,concept,user,1.0,approved,2026-08-12,用户裁决 2026-08-12:Onteirology=Ontology本体论+Oneirology梦境学→太虚学
+Door in the Eye,守夜人,character,wiki,1.0,approved,2026-08-12,司辰(肉源&光源);灰机秘史维基+英文wiki定译;别名 The Watchman
+Velvet,丝毧,character,wiki,1.0,approved,2026-08-12,司辰(血源);灰机秘史维基+英文wiki定译
+Malachite,环杉,character,wiki,1.0,approved,2026-08-12,司辰(肉源);灰机秘史维基+英文wiki定译
+Mother of Ants,蚁母,character,wiki,1.0,approved,2026-08-12,司辰(肉源);灰机秘史维基+英文wiki定译
+Colonel,上校,character,wiki,1.0,approved,2026-08-12,司辰(肉源);灰机秘史维基+英文wiki定译
+Lionsmith,狮子匠,character,wiki,1.0,approved,2026-08-12,司辰(肉源);灰机秘史维基+英文wiki定译
+Beachcomber,拾滩鸦,character,wiki,1.0,approved,2026-08-12,司辰(肉源);灰机秘史维基+英文wiki定译
+Red Grail,赤杯,character,wiki,1.0,approved,2026-08-12,司辰(血源);灰机秘史维基+英文wiki定译
+Flowermaker,制花人,character,wiki,1.0,approved,2026-08-12,司辰(光源);灰机秘史维基+英文wiki定译
+Giribrago,耀山之隙,character,wiki,1.0,approved,2026-08-12,司辰(?);灰机秘史维基+英文wiki定译
+Snow,白雪,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Blackbone,黑骸,character,wiki,1.0,approved,2026-08-12,司辰(未知);灰机秘史维基+英文wiki定译
+Rising Spider,扶摇蜘蛛,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Crowned Growth,戴冠之孳,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Applebright,光明果,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Mare-in-the-Tree,树中牝马,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Witness,见证人,character,wiki,1.0,approved,2026-08-12,司辰(虚源);灰机秘史维基+英文wiki定译
+Chandler,制烛人,character,wiki,1.0,approved,2026-08-12,司辰(尚未诞生);灰机秘史维基+英文wiki定译
+Flint,燧石,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
+Wheel,转轮,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
+Tide,浪潮,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
+Seven-Coils,七蟠,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
+Egg Unhatching,逆孵之卵,character,wiki,1.0,approved,2026-08-12,司辰(石源(已逝));灰机秘史维基+英文wiki定译
+Sun-in-Splendour,骄阳,character,wiki,1.0,approved,2026-08-12,司辰(光源(已逝));灰机秘史维基+英文wiki定译
