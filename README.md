@@ -70,7 +70,8 @@
 ## 版本历史
 
 - v0.0.2（2026-08-12）：修复版——BepInEx 5.4.23.5(兼容 Unity 6000)+UI 文本替换；全量 6698 条；术语基准 CS 官方中文 + paratranz 人工译者 + 灰机 wiki；特约定译（漫宿/噤声居屋/法兰西斧币/太阳居屋/迷金症/恋金癖/凋零等）
-- v0.0.2a（2026-08-12，数据更新）：术语裁决批量生效——Arts Unconsidered→未识技艺、patrocinia→圣庇、House(the)→居屋、Corona→冕、Gleam→烁、Aubière→奥比埃、Menninger→曼宁格、Huissier→韦西耶、Onteiric→太虚/太虚的、Onteirology→太虚学、Onteiric Coordination→冥合（冥合办公室）、骄阳句双关定译；SO 遗漏文本 282 条补入（含冥合办公室物品描述）；mapping 6296 条
+- v0.0.2a（2026-08-12，数据更新）：术语裁决批量生效——Arts Unconsidered→未识技艺、patrocinia→圣庇、House(the)→居屋、Corona→冕、Gleam→烁、Aubière→奥比埃、Menninger→曼宁格、Huissier→韦西耶、Onteiric→太虚/太虚的、Onteirology→太虚学、Onteiric Coordination→冥合（冥合办公室）、骄阳句双关定译；SO 遗漏文本 282 条补入（含冥合办公室物品描述）；司辰全量 36 位术语入库（双生女巫=Witch-and-Sister / 双生巫女=Sister-and-Witch、Vagabond→浪游旅人可简称旅人）；mapping 6296 条
+- v0.0.2a 安装脚本更新（2026-08-12）：修复 bat 编码兼容问题——入口 install.bat / uninstall.bat 改纯 ASCII + 新增 install.ps1 / uninstall.ps1（UTF-8 with BOM），兼容 Windows 默认 GBK(936) 与全局 UTF-8(65001) 双代码页；修复部分系统双击 bat 报格式错误/乱码的问题（根因：UTF-8 无 BOM bat 在 GBK 系统 cmd 下字节偏移错乱）
 
 ### 安装脚本编码说明
 - 入口 install.bat / uninstall.bat 为纯 ASCII，双击即可（任意代码页环境无乱码）
